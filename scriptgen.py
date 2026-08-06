@@ -30,17 +30,24 @@ BRIEF = """You write Instagram Reel scripts for Mentorsy — an edtech
 company founded by Himanshi Dang. It is a product and learning business, not
 a consultancy: never describe it as consulting or advisory work.
 
-WHO SHE IS: Cambridge/IGCSE/A Level Mathematics specialist. Former Assistant
-Vice Principal and Head of Department. Has taught across major EdTech
-platforms. Runs a 300+ educator network. She has sat on the school leadership
-side of the table — that is her authority and it should show.
+WHO IS SPEAKING: Mentorsy itself — the institution, not a person. Scripts are
+written in the brand's voice, the way a school or a publisher speaks. Mentorsy
+runs a team of trained mentors and a network of 300+ educators, several of whom
+have held Head of Department and senior leadership posts inside schools. That
+collective classroom experience is the authority, and it should show.
+
+CRITICAL — NEVER FIRST PERSON SINGULAR. Never write "I", "I've", "my", "me",
+or "in my experience". Never name or imply a single individual mentor, founder
+or teacher. Where insider authority is needed, attribute it to the team:
+"Our mentors see this every term." "Teachers who have marked these papers know."
+Plural "we" and "our mentors" are correct. Singular "I" is always wrong.
 
 WHO IS WATCHING: parents of 11-18 year olds in Dubai, the UK and the US who
 are paying for, or considering, academic mentorship for their child.
 
 VOICE: warm, authoritative, minimal. Never corporate. Never salesy. Never
-self-congratulatory. Short sentences. She states things plainly and does not
-hedge. She is generous with genuinely useful specifics.
+self-congratulatory. Short sentences. States things plainly and does not hedge.
+Generous with genuinely useful specifics.
 
 THE FORMAT — a narrated Reel. Nobody presents to camera. The voice-over carries
 everything, over documentary-style stills with slow motion. People may appear
@@ -49,7 +56,7 @@ the viewer — so the narration is clearly Mentorsy's voice, not an actor's.
 
 HARD RULES:
 - Total narration must be 70-90 words. This is a hard ceiling. Count them.
-- Never open with a greeting. Never "Hi, I'm Himanshi". Never "Let's talk about".
+- Never open with a greeting. Never introduce a speaker. Never "Let's talk about".
 - One idea only. Not two.
 - Scene 1 must be the hook and must work as a cold open.
 - The FINAL sentence must set up the FIRST sentence, so the Reel loops
@@ -91,9 +98,9 @@ SCHEMA = """{
 HOOK_GUIDE = {
     "1 Contradiction": "Open by contradicting what the parent already believes. '[Common solution] is making it worse.'",
     "2 Cost of Inaction": "Open with the window they are about to miss and what it costs.",
-    "3 Insider": "Open from the school leadership side. 'I've sat on the other side of that table.'",
+    "3 Insider": "Open from the school leadership side, attributed to the team. 'Our mentors have sat on the other side of that table.'",
     "4 Named Enemy": "Open by renaming the problem precisely. 'It's not X. It's this specific Y.'",
-    "5 Specific Number": "Open with a concrete number from her own teaching experience.",
+    "5 Specific Number": "Open with a concrete number drawn from what Mentorsy's mentors see across their students.",
     "6 Direct Address": "Open by naming exactly who this is for. 'If your child is in Year 9 in Dubai...'",
     "7 Permission": "Open by giving permission for something parents feel guilty about.",
     "8 Unanswerable Question": "Open with a question the parent cannot answer, then answer it.",
@@ -136,6 +143,21 @@ def word_count(scenes):
     return sum(len(s["voiceover"].split()) for s in scenes)
 
 
+QUOTED = re.compile("[\"'\u201c\u201d\u2018\u2019][^\"'\u201c\u201d\u2018\u2019]{0,120}"
+                    "[\"'\u201c\u201d\u2018\u2019]")
+
+FIRST_PERSON = re.compile(
+    r"\b(I|I'm|I've|I'll|I'd|me|my|mine|myself)\b", re.I)
+
+
+def first_person_hits(data):
+    """Catch singular first person before it reaches 120 finished scripts."""
+    text = " ".join(s.get("voiceover", "") for s in data.get("scenes", []))
+    text += " " + data.get("caption", "")
+    text = re.sub(QUOTED, " ", text)
+    return sorted(set(m.group(0) for m in FIRST_PERSON.finditer(text)))
+
+
 def generate(row):
     hook_note = HOOK_GUIDE.get(row["hook_formula"], "")
     prompt = f"""{BRIEF}
@@ -158,6 +180,15 @@ Write 5 scenes. Return exactly this JSON shape:
         if wc > 105:
             prompt += f"\n\nYour last attempt was {wc} words. That is too long. Cut it to 70-90 words."
             continue
+
+        hits = first_person_hits(data)
+        if hits:
+            print(f"    first person {hits} — rewriting in brand voice")
+            prompt += (f"\n\nYour last attempt used first person singular: "
+                       f"{', '.join(hits)}. Mentorsy is a company, not a person. "
+                       f"Rewrite using 'our mentors', 'we', or no subject at all.")
+            continue
+
         tags = data.get("hashtags", [])[:4]
         if "#Mentorsy" not in tags:
             tags = (tags + ["#Mentorsy"])[-4:]
@@ -204,7 +235,7 @@ def main():
             json.dump(data, f, indent=2, ensure_ascii=False)
         print(f"    ✓ {data['word_count']} words · \"{data['hook_onscreen']}\"")
         made += 1
-        time.sleep(1.2)   # stay comfortably inside the free-tier rate limit
+        time.sleep(6.5)   # free tier allows ~10 req/min; stay under it   # stay comfortably inside the free-tier rate limit
 
     print(f"\n✓ written {made} · skipped {skipped} · failed {failed}")
     if failed:
