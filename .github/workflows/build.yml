@@ -1,17 +1,23 @@
 name: Build reels
 
+# Renders reels and commits them back to the repo.
+# Runs on GitHub's servers. Your laptop can be shut, or in a different country.
+
 on:
   schedule:
+    # 02:00 UTC daily = 06:00 Gulf time. Cron on GitHub is UTC only.
     - cron: "0 2 * * *"
   workflow_dispatch:
     inputs:
       horizon_days:
         description: "How many days ahead to render"
         default: "10"
-      force_all:
-        description: "Render the whole calendar (slow)"
-        type: boolean
-        default: false
+      script_limit:
+        description: "Write only this many scripts (blank = all 120)"
+        default: ""
+      max_renders:
+        description: "Cap reels rendered this run"
+        default: "12"
 
 concurrency:
   group: build-reels
@@ -23,39 +29,74 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 330
+    # Deliberately short. A stalled run should surface fast, not burn 5 hours.
+    timeout-minutes: 90
+
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: pip
+
       - name: Install ffmpeg
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y -qq ffmpeg fonts-dejavu
-      - name: Install dependencies
+          ffmpeg -version | head -1
+
+      - name: Install Python dependencies
         run: pip install -q -r requirements.txt
-      - name: Write scripts
+
+      - name: Write scripts for anything missing
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SCRIPT_LIMIT: ${{ github.event.inputs.script_limit }}
         run: |
-          sed -i 's/time.sleep(1.2)/time.sleep(6.5)/' scriptgen.py
-          python scriptgen.py
+          if [ -n "$SCRIPT_LIMIT" ]; then
+            python scriptgen.py --limit "$SCRIPT_LIMIT"
+          else
+            python scriptgen.py
+          fi
+
+      # Commit scripts BEFORE rendering. Rendering is the slow, fragile stage;
+      # if it stalls or is cancelled, the scripts must not be lost with it.
+      - name: Commit scripts
+        if: always()
+        run: |
+          git config user.name  "sjk-reel-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No new scripts."
+          else
+            git commit -m "scripts: $(date -u +%Y-%m-%d)"
+            git pull --rebase --autostash
+            git push
+          fi
+
       - name: Render reels
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          HORIZON_DAYS: ${{ inputs.horizon_days }}
-          FORCE_ALL: ${{ inputs.force_all }}
+          HORIZON_DAYS: ${{ github.event.inputs.horizon_days || '10' }}
+          MAX_RENDERS_PER_RUN: ${{ github.event.inputs.max_renders || '12' }}
         run: python ci_build.py
-      - name: Commit results
+
+      - name: Commit finished videos
+        if: always()
         run: |
-          git config user.name "mentorsy-bot"
+          git config user.name  "sjk-reel-bot"
           git config user.email "bot@users.noreply.github.com"
-          git checkout -- scriptgen.py || true
-          git add -A output scripts calendar_60.csv || true
+          git add -A
           if git diff --staged --quiet; then
-            echo "Nothing new."
+            echo "Nothing new to commit."
           else
-            git commit -m "build: reels"
+            git commit -m "build: reels for $(date -u +%Y-%m-%d)"
+            git pull --rebase --autostash
             git push
           fi
+
+      - name: Summary
+        if: always()
+        run: python run_all.py --status >> $GITHUB_STEP_SUMMARY
