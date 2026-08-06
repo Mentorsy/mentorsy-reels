@@ -125,8 +125,18 @@ def call_gemini(prompt, retries=4):
                                             "Content-Type": "application/json"},
                               json=body, timeout=120)
             if r.status_code == 429:
+                # 429 covers BOTH per-minute throttling and daily quota
+                # exhaustion. They need opposite responses, so print the
+                # reason instead of blindly backing off.
+                detail = r.text[:400].replace("\n", " ")
+                if "RESOURCE_EXHAUSTED" in r.text or "quota" in r.text.lower():
+                    raise SystemExit(
+                        "\n  Gemini daily quota is exhausted, not throttled.\n"
+                        "  Waiting will not help — the allowance resets at\n"
+                        "  midnight US Pacific. Details:\n  " + detail
+                    )
                 wait = 15 * (a + 1)
-                print(f"    rate limited — waiting {wait}s")
+                print(f"    throttled ({detail[:120]}) — waiting {wait}s")
                 time.sleep(wait)
                 continue
             r.raise_for_status()
