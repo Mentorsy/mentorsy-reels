@@ -98,5 +98,255 @@
    "#DubaiSchools",
    "#Mentorsy"
   ]
+ },
+ {
+  "date": "2026-08-09",
+  "slot": "09:00",
+  "kind": "carousel",
+  "slug": "2026-08-09_report-card-decoder",
+  "pillar": "Parent Scripts",
+  "hook": "What a maths report actually tells you, and what it hides.",
+  "points": [
+   {
+    "heading": "A percentage is an average of averages",
+    "body": "62 percent could be strong algebra and collapsed geometry, or steady mediocrity across everything. The two need completely different responses, and the number cannot tell them apart."
+   },
+   {
+    "heading": "'Could apply himself more' usually means something specific",
+    "body": "Ask which topic the teacher was thinking of when they wrote it. Nine times out of ten there is one concrete moment behind that sentence."
+   },
+   {
+    "heading": "Effort grades measure compliance, not learning",
+    "body": "A child who is quietly lost often scores well on effort. They are working hard on the wrong thing, which is the most expensive kind of hard work."
+   },
+   {
+    "heading": "Ask for the question-level breakdown",
+    "body": "Most schools have it and rarely send it. It shows exactly which topics cost the marks, which is the only thing you can actually act on."
+   }
+  ],
+  "cta": "Save this before the next report evening.",
+  "caption": "A maths report is an average of averages.\n\n62 percent could be strong algebra and collapsed geometry, or steady mediocrity everywhere. Those need opposite responses, and the number cannot tell them apart.\n\nAsk for the question-level breakdown. Most schools have it and rarely send it.\n\nThat one request changes the conversation.",
+  "hashtags": [
+   "#IGCSE",
+   "#ParentTips",
+   "#CambridgeCurriculum",
+   "#Mentorsy"
+  ]
+ },
+ {
+  "date": "2026-08-09",
+  "slot": "21:00",
+  "kind": "statement",
+  "slug": "2026-08-09_effort-wrong-thing",
+  "pillar": "Maths Confidence",
+  "hook": "Working hard on the wrong topic is still working hard.",
+  "sub": "It just doesn't move the grade.",
+  "caption": "Working hard on the wrong topic is still working hard.\n\nIt is the most expensive kind of effort, because the child pays for it in confidence and sees nothing back.\n\nBefore more hours, find the gap. Then the hours count.",
+  "hashtags": [
+   "#MathsConfidence",
+   "#IGCSE",
+   "#ALevelMaths",
+   "#Mentorsy"
+  ]
+ },
+ {
+  "date": "2026-08-10",
+  "slot": "09:00",
+  "kind": "carousel",
+  "slug": "2026-08-10_igcse-vs-ib-maths",
+  "pillar": "School Choice",
+  "hook": "IGCSE or IB Maths - which actually opens more doors?",
+  "points": [
+   {
+    "heading": "Neither, on its own",
+    "body": "Universities read the grade and the depth, not the acronym. A strong IGCSE record beats a scraped IB one at every admissions desk we have dealt with."
+   },
+   {
+    "heading": "The real question is teaching depth",
+    "body": "Ask how many periods a week the school gives to maths, and who teaches the top set. That predicts outcomes far better than the curriculum badge."
+   },
+   {
+    "heading": "IB rewards breadth, IGCSE rewards precision",
+    "body": "A child who likes closing a problem cleanly often thrives in IGCSE. One who enjoys connecting ideas across subjects tends to prefer IB."
+   },
+   {
+    "heading": "Switching later is harder than parents expect",
+    "body": "The two build sequence differently. A mid-stream move usually costs a term of catching up, so choose for the child you have, not the one you hope for."
+   }
+  ],
+  "cta": "Send this to a parent choosing between curriculums.",
+  "caption": "IGCSE or IB Maths?\n\nNeither opens more doors on its own. Universities read the grade and the depth, not the acronym.\n\nThe better question: how many periods a week does the school give to maths, and who teaches the top set. That predicts outcomes far better than the curriculum badge.\n\nChoose for the child you have.",
+  "hashtags": [
+   "#IGCSE",
+   "#IBMaths",
+   "#DubaiSchools",
+   "#Mentorsy"
+  ]
+ },
+ {
+  "date": "2026-08-10",
+  "slot": "21:00",
+  "kind": "statement",
+  "slug": "2026-08-10_not-behind-unfinished",
+  "pillar": "Curriculum Decoded",
+  "hook": "Your child is not behind.",
+  "sub": "A topic was left unfinished.",
+  "caption": "Your child is not behind.\n\nA topic was left unfinished, and everything built on top of it inherited the gap.\n\nThat is a sequence problem, not an ability problem. Sequence problems have solutions.",
+  "hashtags": [
+   "#CambridgeCurriculum",
+   "#IGCSE",
+   "#MathsConfidence",
+   "#Mentorsy"
+  ]
+ },
+ {
+  "date": "2026-08-11",
+  "slot": "09:00",
+  "kind": "carousel",
+  "slug": "2026-08-11_five-minute-diagnostic",
+  "pillar": "Inside the Method",
+  "hook": "The five-minute check that tells you where the gap is.",
+  "points": [
+   {
+    "heading": "Ask them to explain, not to solve",
+    "body": "Give a question they got right and ask why the method works. Fluency without understanding shows up in seconds, and it is the single best early warning."
+   },
+   {
+    "heading": "Go back two years, not two weeks",
+    "body": "Set a question from Year 7 fractions. If it is slow or uncertain, you have found the floor, and no amount of Year 10 revision will fix it."
+   },
+   {
+    "heading": "Watch where they stop, not what they answer",
+    "body": "The pause tells you more than the mark. Children hesitate exactly at the topic they never closed."
+   },
+   {
+    "heading": "Do it without a grade attached",
+    "body": "The moment it feels like a test, you measure anxiety instead of knowledge. Keep it casual and the information is far better."
+   }
+  ],
+  "cta": "Try this tonight. It takes five minutes.",
+  "caption": "Five minutes, and no marking.\n\nGive your child a question they got right, and ask them why the method works. Fluency without understanding shows up almost immediately.\n\nThen set one from two years earlier. Watch where they pause, not what they answer.\n\nThe hesitation is the diagnosis.",
+  "hashtags": [
+   "#IGCSE",
+   "#MathsTutoring",
+   "#ParentTips",
+   "#Mentorsy"
+  ]
+ },
+ {
+  "date": "2026-08-11",
+  "slot": "21:00",
+  "kind": "statement",
+  "slug": "2026-08-11_pause-is-diagnosis",
+  "pillar": "Inside the Method",
+  "hook": "The pause is the diagnosis.",
+  "sub": "Not the answer.",
+  "caption": "The pause is the diagnosis.\n\nChildren hesitate at exactly the topic they never closed. The mark tells you there is a problem. The hesitation tells you where.\n\nWatch for it. It is more useful than any report.",
+  "hashtags": [
+   "#MathsConfidence",
+   "#IGCSE",
+   "#CambridgeCurriculum",
+   "#Mentorsy"
+  ]
+ },
+ {
+  "date": "2026-08-12",
+  "slot": "09:00",
+  "kind": "carousel",
+  "slug": "2026-08-12_tutor-questions",
+  "pillar": "Parent Scripts",
+  "hook": "Four questions to ask a tutor before you pay anything.",
+  "points": [
+   {
+    "heading": "What will you do in the first session?",
+    "body": "If the answer is 'start the syllabus', walk away. The first session should be diagnosis. Nobody can teach a gap they have not located."
+   },
+   {
+    "heading": "How will I know it is working?",
+    "body": "A good tutor names a measure before they start. 'Confidence' is not a measure. 'She will close negative numbers in three weeks' is."
+   },
+   {
+    "heading": "What happens when she gets stuck?",
+    "body": "Listen for whether they explain again louder, or go backwards to find the missing step. Only one of those is teaching."
+   },
+   {
+    "heading": "Who else have you taught at this level?",
+    "body": "IGCSE and A Level Mathematics are specific. General maths tutoring is not the same job, and the difference shows by week three."
+   }
+  ],
+  "cta": "Ask these before the first invoice.",
+  "caption": "Four questions before you pay a tutor anything.\n\n1. What will you do in the first session? If the answer is 'start the syllabus', walk away.\n2. How will I know it is working?\n3. What happens when she gets stuck?\n4. Who else have you taught at this level?\n\nThe first answer tells you most of what you need.",
+  "hashtags": [
+   "#MathsTutoring",
+   "#IGCSE",
+   "#ParentTips",
+   "#Mentorsy"
+  ]
+ },
+ {
+  "date": "2026-08-12",
+  "slot": "21:00",
+  "kind": "statement",
+  "slug": "2026-08-12_first-session-diagnosis",
+  "pillar": "Inside the Method",
+  "hook": "The first session should be diagnosis.",
+  "sub": "Not chapter one.",
+  "caption": "The first session should be diagnosis, not chapter one.\n\nNobody can teach a gap they have not located. Starting the syllabus on day one assumes the problem is coverage. It almost never is.\n\nAsk any tutor what they will do first. The answer tells you everything.",
+  "hashtags": [
+   "#MathsTutoring",
+   "#IGCSE",
+   "#ALevelMaths",
+   "#Mentorsy"
+  ]
+ },
+ {
+  "date": "2026-08-13",
+  "slot": "09:00",
+  "kind": "carousel",
+  "slug": "2026-08-13_year-9-decision",
+  "pillar": "Curriculum Decoded",
+  "hook": "The Year 9 decision most parents make by accident.",
+  "points": [
+   {
+    "heading": "Set placement in Year 9 shapes Year 12",
+    "body": "The tier a child is entered for narrows what they can take at A Level. That decision is often made on one year of marks, quietly, by a timetable."
+   },
+   {
+    "heading": "Foundation tier caps the grade",
+    "body": "Many parents do not realise the ceiling exists until results day. Ask which tier your child is on track for, and ask now, not in Year 11."
+   },
+   {
+    "heading": "Movement between sets is possible but rare",
+    "body": "Schools will move a child up if the evidence is loud. That means closing gaps early enough for the evidence to exist."
+   },
+   {
+    "heading": "The window is roughly eighteen months",
+    "body": "From the start of Year 9 to the tier decision. Long enough to change the outcome, short enough that drifting through it costs you."
+   }
+  ],
+  "cta": "Send this to a parent with a child in Year 9.",
+  "caption": "The Year 9 decision most parents make by accident.\n\nSet placement shapes which tier your child is entered for, and the tier caps the grade. That narrows what they can take at A Level.\n\nMost families find out on results day.\n\nAsk which tier your child is on track for. Ask in Year 9, not Year 11.",
+  "hashtags": [
+   "#IGCSE",
+   "#CambridgeCurriculum",
+   "#DubaiSchools",
+   "#Mentorsy"
+  ]
+ },
+ {
+  "date": "2026-08-13",
+  "slot": "21:00",
+  "kind": "statement",
+  "slug": "2026-08-13_ceiling-set-early",
+  "pillar": "Curriculum Decoded",
+  "hook": "The ceiling is set earlier than results day.",
+  "sub": "Usually in Year 9.",
+  "caption": "The ceiling is set earlier than results day.\n\nTier entry is decided long before the exam, often on one year of marks. Most families discover it when the grade arrives.\n\nAsk which tier your child is on track for. There is still time to change the answer.",
+  "hashtags": [
+   "#IGCSE",
+   "#CambridgeCurriculum",
+   "#ParentTips",
+   "#Mentorsy"
+  ]
  }
 ]
