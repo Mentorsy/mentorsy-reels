@@ -3,7 +3,7 @@
   "date": "2026-08-07",
   "slot": "19:30",
   "kind": "list",
-  "slug": "2026-08-07_two-topics-behind",
+  "slug": "2026-08-07_two-topics-behind_card",
   "pillar": "Maths Confidence",
   "hook": "Your child isn't bad at maths. They're two topics behind.",
   "points": [
@@ -57,7 +57,7 @@
   "date": "2026-08-08",
   "slot": "07:30",
   "kind": "list",
-  "slug": "2026-08-08_dubai-school-tour",
+  "slug": "2026-08-08_dubai-school-tour_card",
   "pillar": "School Choice",
   "hook": "Three questions to ask on a school tour that the brochure won't answer.",
   "points": [
@@ -103,7 +103,7 @@
   "date": "2026-08-09",
   "slot": "09:00",
   "kind": "list",
-  "slug": "2026-08-09_report-card-decoder",
+  "slug": "2026-08-09_report-card-decoder_card",
   "pillar": "Parent Scripts",
   "hook": "What a maths report actually tells you, and what it hides.",
   "points": [
@@ -153,7 +153,7 @@
   "date": "2026-08-10",
   "slot": "09:00",
   "kind": "list",
-  "slug": "2026-08-10_igcse-vs-ib-maths",
+  "slug": "2026-08-10_igcse-vs-ib-maths_card",
   "pillar": "School Choice",
   "hook": "IGCSE or IB Maths - which actually opens more doors?",
   "points": [
@@ -203,7 +203,7 @@
   "date": "2026-08-11",
   "slot": "09:00",
   "kind": "list",
-  "slug": "2026-08-11_five-minute-diagnostic",
+  "slug": "2026-08-11_five-minute-diagnostic_card",
   "pillar": "Inside the Method",
   "hook": "The five-minute check that tells you where the gap is.",
   "points": [
@@ -253,7 +253,7 @@
   "date": "2026-08-12",
   "slot": "09:00",
   "kind": "list",
-  "slug": "2026-08-12_tutor-questions",
+  "slug": "2026-08-12_tutor-questions_card",
   "pillar": "Parent Scripts",
   "hook": "Four questions to ask a tutor before you pay anything.",
   "points": [
@@ -303,7 +303,7 @@
   "date": "2026-08-13",
   "slot": "09:00",
   "kind": "list",
-  "slug": "2026-08-13_year-9-decision",
+  "slug": "2026-08-13_year-9-decision_card",
   "pillar": "Curriculum Decoded",
   "hook": "The Year 9 decision most parents make by accident.",
   "points": [
