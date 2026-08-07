@@ -1,0 +1,40 @@
+{
+  "slug": "2026-08-06_what-to-say-when-your-child-says-i-m-just-not-a-math",
+  "date": "2026-08-06",
+  "slot": "07:30",
+  "pillar": "Parent Scripts",
+  "topic": "What to say when your child says they are not a maths person",
+  "hook_formula": "1 Contradiction",
+  "hook_onscreen": "Stop reassuring them",
+  "scenes": [
+    {
+      "voiceover": "Telling a child they are good at maths is making it worse.",
+      "image_prompt": "A teenager sitting alone at a kitchen table, an open exercise book in front of them"
+    },
+    {
+      "voiceover": "Because they do not believe you. They have the marks in front of them.",
+      "image_prompt": "Close overhead view of a marked maths worksheet on a wooden table"
+    },
+    {
+      "voiceover": "Our mentors hear this every term. It is almost never about ability. It is two or three topics that were never properly closed.",
+      "image_prompt": "A stack of well used exercise books beside a window"
+    },
+    {
+      "voiceover": "So try this instead. Ask which specific question made them feel that way.",
+      "image_prompt": "A parent and teenager mid conversation at a kitchen table"
+    },
+    {
+      "voiceover": "Confidence in IGCSE Mathematics is not a personality. It is a gap you have not found yet.",
+      "image_prompt": "An empty chair pulled out from a study desk, textbook closed"
+    }
+  ],
+  "caption": "Your child is not a maths person? Neither was anyone, until someone found the gap.\n\nIGCSE and A Level Mathematics confidence is rarely about ability. It is almost always two or three topics that were never properly closed.\n\nAsk which question made them feel that way. Start there.\n\nSend this to a parent who has heard that sentence this week.",
+  "hashtags": [
+    "#IGCSE",
+    "#ALevelMaths",
+    "#DubaiSchools",
+    "#Mentorsy"
+  ],
+  "alt_text": "A teenager at a kitchen table with a maths exercise book, on closing IGCSE topic gaps",
+  "word_count": 79
+}

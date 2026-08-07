@@ -1,0 +1,40 @@
+{
+  "slug": "2026-08-06_what-actually-happens-in-an-sjk-diagnostic-session",
+  "date": "2026-08-06",
+  "slot": "19:30",
+  "pillar": "Inside the Method",
+  "topic": "What actually happens in a Mentorsy diagnostic session",
+  "hook_formula": "2 Cost of Inaction",
+  "hook_onscreen": "The gap is already there",
+  "scenes": [
+    {
+      "voiceover": "By the time a Year 10 report shows a problem, the gap is usually two years old.",
+      "image_prompt": "A school corridor with lockers, empty"
+    },
+    {
+      "voiceover": "That is what a diagnostic session is for. Not a test. A map.",
+      "image_prompt": "A hand drawn diagram on plain paper, pen beside it"
+    },
+    {
+      "voiceover": "Our mentors work backwards through the Cambridge curriculum until the answers stop being wrong.",
+      "image_prompt": "A student at a study desk by a window working through a page"
+    },
+    {
+      "voiceover": "Usually it sits three or four topics earlier than anyone expected.",
+      "image_prompt": "Open textbook pages fanned across a table"
+    },
+    {
+      "voiceover": "Find that line and the next two years get easier. Miss it and the report repeats itself.",
+      "image_prompt": "A closed exercise book on an empty school desk"
+    }
+  ],
+  "caption": "A diagnostic is not a test. It is a map.\n\nBy the time a report flags a problem in IGCSE or A Level Mathematics, the gap is usually two years old. Our mentors work backwards through the Cambridge curriculum until the answers stop being wrong.\n\nIt is almost always earlier than parents expect.\n\nSave this before the next report evening.",
+  "hashtags": [
+    "#CambridgeCurriculum",
+    "#ALevelMaths",
+    "#IGCSE",
+    "#Mentorsy"
+  ],
+  "alt_text": "An empty school corridor and study desk, on mapping gaps in the Cambridge maths curriculum",
+  "word_count": 72
+}
