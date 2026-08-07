@@ -86,10 +86,9 @@
  {
   "date": "2026-08-08",
   "slot": "12:30",
-  "kind": "photo",
-  "slug": "2026-08-08_two-topics-photo",
+  "kind": "statement",
+  "slug": "2026-08-08_two-topics-sequence",
   "pillar": "Maths Confidence",
-  "stock_query": "exercise book desk",
   "hook": "Fractions in Year 7. Negative numbers in Year 8.",
   "caption": "The two topics that decide everything after them.\n\nFractions in Year 7. Negative numbers in Year 8. Lose either and ratio, algebra and trigonometry all inherit the gap.\n\nIt is not ability. It is sequence.",
   "hashtags": [
@@ -97,7 +96,8 @@
    "#ALevelMaths",
    "#DubaiSchools",
    "#Mentorsy"
-  ]
+  ],
+  "sub": "The two topics that decide everything after them."
  },
  {
   "date": "2026-08-09",
