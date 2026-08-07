@@ -1,0 +1,102 @@
+[
+ {
+  "date": "2026-08-07",
+  "slot": "19:30",
+  "kind": "carousel",
+  "slug": "2026-08-07_two-topics-behind",
+  "pillar": "Maths Confidence",
+  "hook": "Your child isn't bad at maths. They're two topics behind.",
+  "points": [
+   {
+    "heading": "It's almost always the same two",
+    "body": "Fractions in Year 7. Negative numbers in Year 8. Across the Cambridge and IGCSE students our mentors work with, the ones who say they aren't a maths person have nearly always lost one or both."
+   },
+   {
+    "heading": "Everything after that looks like weakness",
+    "body": "Once fractions are shaky, ratio breaks. Then algebra. Then trigonometry. By Year 10 it reads as ability. It is arithmetic nobody was given time to finish."
+   },
+   {
+    "heading": "Marks hide the cause",
+    "body": "A report says 42 percent. It does not say which four topics produced it. That is why work harder rarely moves the number - the effort goes to the wrong place."
+   },
+   {
+    "heading": "Find the line, not the grade",
+    "body": "Our mentors work backwards through the curriculum until the answers stop being wrong. That point is the real starting line, and it is usually three or four topics earlier than parents expect."
+   },
+   {
+    "heading": "Two topics is a term, not a year",
+    "body": "Closing a genuine gap takes weeks, not a rebuild. The reason it feels impossible is that nobody has named which two."
+   }
+  ],
+  "cta": "Send this to a parent who has been told their child isn't a maths person.",
+  "caption": "Two topics. That is usually the whole story.\n\nFractions in Year 7. Negative numbers in Year 8. Across the Cambridge and IGCSE students our mentors work with, the ones who say they are not a maths person have nearly always lost one or both.\n\nEverything after that looks like weakness. It is arithmetic nobody finished.\n\nAsk your child which question made them feel that way. Start there.",
+  "hashtags": [
+   "#IGCSE",
+   "#ALevelMaths",
+   "#CambridgeCurriculum",
+   "#Mentorsy"
+  ]
+ },
+ {
+  "date": "2026-08-07",
+  "slot": "21:00",
+  "kind": "statement",
+  "slug": "2026-08-07_confidence-not-personality",
+  "pillar": "Maths Confidence",
+  "hook": "Confidence is not a personality.",
+  "sub": "It's a gap nobody found.",
+  "caption": "Confidence is not a personality.\n\nNo child is born without it in maths. It is lost in a specific term, on a specific topic, usually without anyone noticing.\n\nWhich means it can be found again. That is the whole method.",
+  "hashtags": [
+   "#IGCSE",
+   "#MathsConfidence",
+   "#CambridgeCurriculum",
+   "#Mentorsy"
+  ]
+ },
+ {
+  "date": "2026-08-08",
+  "slot": "07:30",
+  "kind": "carousel",
+  "slug": "2026-08-08_dubai-school-tour",
+  "pillar": "School Choice",
+  "hook": "Three questions to ask on a school tour that the brochure won't answer.",
+  "points": [
+   {
+    "heading": "What happens when a student falls behind",
+    "body": "Not the policy. The actual sequence of events. Who notices, in which week, and what changes on the timetable. Most schools cannot answer this in specifics."
+   },
+   {
+    "heading": "How many dropped A Level Maths last year",
+    "body": "The number after Year 12 tells you more about teaching quality than any league table. Schools that teach it well do not lose students at that point."
+   },
+   {
+    "heading": "Who teaches the bottom set",
+    "body": "Strong departments put experienced teachers with the students who are struggling. Weak ones give them to whoever is free."
+   }
+  ],
+  "cta": "Save this before your next school tour.",
+  "caption": "The brochure will not answer these.\n\n1. What actually happens when a student falls behind in maths - the sequence, not the policy.\n2. How many students dropped A Level Mathematics after Year 12 last year.\n3. Who teaches the bottom set.\n\nOur mentors have run these tours from the other side of the table. These three tell you more than the whole visit.",
+  "hashtags": [
+   "#DubaiSchools",
+   "#SchoolChoice",
+   "#ALevelMaths",
+   "#Mentorsy"
+  ]
+ },
+ {
+  "date": "2026-08-08",
+  "slot": "12:30",
+  "kind": "photo",
+  "slug": "2026-08-08_two-topics-photo",
+  "pillar": "Maths Confidence",
+  "stock_query": "exercise book desk",
+  "hook": "Fractions in Year 7. Negative numbers in Year 8.",
+  "caption": "The two topics that decide everything after them.\n\nFractions in Year 7. Negative numbers in Year 8. Lose either and ratio, algebra and trigonometry all inherit the gap.\n\nIt is not ability. It is sequence.",
+  "hashtags": [
+   "#IGCSE",
+   "#ALevelMaths",
+   "#DubaiSchools",
+   "#Mentorsy"
+  ]
+ }
+]

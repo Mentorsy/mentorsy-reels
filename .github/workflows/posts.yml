@@ -1,0 +1,64 @@
+name: Build posts
+
+# Renders Instagram post artwork from posts_spec.json and commits it, which
+# puts every image at a public URL that Canva can ingest.
+
+on:
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Rebuild everything (true/false)"
+        default: "false"
+      limit:
+        description: "Only build the first N posts (blank = all)"
+        default: ""
+
+concurrency:
+  group: build-posts
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  posts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq fonts-dejavu
+          pip install -q pillow requests
+
+      - name: Render posts
+        env:
+          FORCE: ${{ github.event.inputs.force }}
+          LIMIT: ${{ github.event.inputs.limit }}
+        run: |
+          ARGS=""
+          if [ "$FORCE" = "true" ]; then ARGS="$ARGS --force"; fi
+          if [ -n "$LIMIT" ]; then ARGS="$ARGS --limit $LIMIT"; fi
+          python build_posts.py $ARGS
+
+      - name: Commit artwork
+        if: always()
+        run: |
+          git config user.name  "sjk-reel-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "Nothing new."
+          else
+            git commit -m "posts: artwork $(date -u +%Y-%m-%d)"
+            git pull --rebase --autostash
+            git push
+          fi
