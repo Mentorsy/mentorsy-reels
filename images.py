@@ -92,40 +92,74 @@ def _stock_query(prompt: str) -> str:
     return " ".join(out) or "study desk"
 
 
-def _stock_image(prompt: str, path: str) -> bool:
-    """Free, keyless documentary photography. No API key, no daily quota."""
-    if not STOCK_ENABLED:
-        return False
+def _fetch_image(url):
+    """Download and decode one candidate. Returns a PIL image or None."""
+    from io import BytesIO
+    r = requests.get(url, timeout=45, headers={
+        "User-Agent": "Mozilla/5.0 (compatible; MentorsyReelFactory/1.0)",
+        "Accept": "image/*",
+    })
+    if r.status_code != 200:
+        return None, f"http {r.status_code}"
+    if len(r.content) < 8000:
+        return None, f"only {len(r.content)}b"
     try:
-        q = _stock_query(prompt)
+        return Image.open(BytesIO(r.content)).convert("RGB"), "ok"
+    except Exception as e:
+        return None, f"decode {e}"
+
+
+def _fit_frame(im, path):
+    tw, th = C.WIDTH, C.HEIGHT
+    scale = max(tw / im.width, th / im.height)
+    im = im.resize((int(im.width * scale) + 1, int(im.height * scale) + 1),
+                   Image.LANCZOS)
+    left, top = (im.width - tw) // 2, (im.height - th) // 2
+    im.crop((left, top, left + tw, top + th)).save(path, quality=92)
+
+
+def _stock_image(prompt: str, path: str) -> bool:
+    """Free, keyless documentary photography. Every branch logs why it failed."""
+    if not STOCK_ENABLED:
+        print("       stock: disabled")
+        return False
+    q = _stock_query(prompt)
+    try:
         r = requests.get(OPENVERSE,
-                         params={"q": q, "page_size": 8, "license_type": "all",
-                                 "aspect_ratio": "tall", "mature": "false"},
+                         params={"q": q, "page_size": 20, "mature": "false"},
                          headers={"User-Agent": "MentorsyReelFactory/1.0"},
                          timeout=30)
-        r.raise_for_status()
-        for hit in r.json().get("results", []):
-            url = hit.get("url")
-            if not url:
-                continue
-            img = requests.get(url, timeout=45,
-                               headers={"User-Agent": "MentorsyReelFactory/1.0"})
-            if img.status_code != 200 or len(img.content) < 15000:
-                continue
-            from io import BytesIO
-            im = Image.open(BytesIO(img.content)).convert("RGB")
-            if min(im.size) < 600:
-                continue
-            tw, th = C.WIDTH, C.HEIGHT
-            scale = max(tw / im.width, th / im.height)
-            im = im.resize((int(im.width * scale) + 1, int(im.height * scale) + 1),
-                           Image.LANCZOS)
-            left, top = (im.width - tw) // 2, (im.height - th) // 2
-            im.crop((left, top, left + tw, top + th)).save(path, quality=92)
-            print("       stock: " + q)
-            return True
+        if r.status_code != 200:
+            print(f"       stock: search http {r.status_code} for '{q}'")
+            return False
+        results = r.json().get("results", [])
     except Exception as e:
-        print(f"       stock lookup failed: {e}")
+        print(f"       stock: search failed for '{q}': {e}")
+        return False
+
+    if not results:
+        print(f"       stock: no results for '{q}'")
+        return False
+
+    reasons = []
+    for hit in results:
+        for field in ("url", "thumbnail"):
+            u = hit.get(field)
+            if not u:
+                continue
+            im, why = _fetch_image(u)
+            if im is None:
+                reasons.append(f"{field}:{why}")
+                continue
+            if min(im.size) < 380:
+                reasons.append(f"{field}:small {im.size}")
+                continue
+            _fit_frame(im, path)
+            print(f"       stock: '{q}' -> {im.size[0]}x{im.size[1]} via {field}")
+            return True
+
+    print(f"       stock: {len(results)} results for '{q}', none usable "
+          f"({'; '.join(reasons[:4])})")
     return False
 
 
