@@ -126,6 +126,70 @@ def slide_cta(line, sub="Cambridge · IGCSE · A Level Mathematics"):
     return img
 
 
+def slide_list(headline, items, pillar, foot=None):
+    """
+    One frame that carries a whole idea.
+
+    Canva's Instagram Business integration publishes a single page per post,
+    so a swipe carousel arrives as its cover slide and nothing else. This
+    shape puts the hook and every point on one 4:5 frame instead - the reader
+    gets the payload without swiping, and the post still works when it lands
+    in a feed as a lone image.
+    """
+    img, d = B.ground(False)
+    B.paste_logo(img, 260, (M, 80), False)
+    d = ImageDraw.Draw(img)
+    tint = B.PILLAR_TINT.get(pillar, B.MUTED)
+    B.kicker(d, pillar, 214, tint)
+
+    hf, hl, hlh = B.fit(d, headline, W - 2 * M, 300, 74)
+
+    # Numbers sit in the left margin so every line starts on the same axis.
+    NUM_W = 62
+    body_w = W - 2 * M - NUM_W
+    sized = None
+    size = 44
+    while size >= 30:
+        f = B.font(size, False, False)
+        rows, total = [], 0
+        for it in items:
+            ln = B.wrap(d, it, f, body_w)
+            rows.append(ln)
+            total += len(ln) * int(size * 1.3) + 30
+        if total <= 700:
+            sized = (f, rows, int(size * 1.3), total)
+            break
+        size -= 2
+    if not sized:
+        f = B.font(30, False, False)
+        rows = [B.wrap(d, it, f, body_w) for it in items]
+        sized = (f, rows, 39, sum(len(r) * 39 + 30 for r in rows))
+    bf, rows, blh, block = sized
+
+    y = 330
+    for ln in hl:
+        d.text((M, y), ln, font=hf, fill=B.INK)
+        y += hlh
+
+    y += 54
+    d.rectangle([M, y, W - M, y + 2], fill=(226, 218, 230))
+    y += 46
+
+    nf = B.font(30, True, False)
+    for i, ln in enumerate(rows, 1):
+        d.text((M, y + 4), "%02d" % i, font=nf, fill=tint)
+        for k, part in enumerate(ln):
+            d.text((M + NUM_W, y), part, font=bf,
+                   fill=B.INK if k == 0 else (92, 78, 104))
+            y += blh
+        y += 30
+
+    d.text((M, H - 150), foot or "Save this.",
+           font=B.font(30, False, False), fill=B.MUTED)
+    B.handle(d)
+    return img
+
+
 def build_carousel(spec, outdir):
     os.makedirs(outdir, exist_ok=True)
     paths = []

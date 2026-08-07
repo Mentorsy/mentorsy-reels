@@ -2,7 +2,7 @@
  {
   "date": "2026-08-07",
   "slot": "19:30",
-  "kind": "carousel",
+  "kind": "list",
   "slug": "2026-08-07_two-topics-behind",
   "pillar": "Maths Confidence",
   "hook": "Your child isn't bad at maths. They're two topics behind.",
@@ -56,7 +56,7 @@
  {
   "date": "2026-08-08",
   "slot": "07:30",
-  "kind": "carousel",
+  "kind": "list",
   "slug": "2026-08-08_dubai-school-tour",
   "pillar": "School Choice",
   "hook": "Three questions to ask on a school tour that the brochure won't answer.",
@@ -102,7 +102,7 @@
  {
   "date": "2026-08-09",
   "slot": "09:00",
-  "kind": "carousel",
+  "kind": "list",
   "slug": "2026-08-09_report-card-decoder",
   "pillar": "Parent Scripts",
   "hook": "What a maths report actually tells you, and what it hides.",
@@ -152,7 +152,7 @@
  {
   "date": "2026-08-10",
   "slot": "09:00",
-  "kind": "carousel",
+  "kind": "list",
   "slug": "2026-08-10_igcse-vs-ib-maths",
   "pillar": "School Choice",
   "hook": "IGCSE or IB Maths - which actually opens more doors?",
@@ -202,7 +202,7 @@
  {
   "date": "2026-08-11",
   "slot": "09:00",
-  "kind": "carousel",
+  "kind": "list",
   "slug": "2026-08-11_five-minute-diagnostic",
   "pillar": "Inside the Method",
   "hook": "The five-minute check that tells you where the gap is.",
@@ -252,7 +252,7 @@
  {
   "date": "2026-08-12",
   "slot": "09:00",
-  "kind": "carousel",
+  "kind": "list",
   "slug": "2026-08-12_tutor-questions",
   "pillar": "Parent Scripts",
   "hook": "Four questions to ask a tutor before you pay anything.",
@@ -302,7 +302,7 @@
  {
   "date": "2026-08-13",
   "slot": "09:00",
-  "kind": "carousel",
+  "kind": "list",
   "slug": "2026-08-13_year-9-decision",
   "pillar": "Curriculum Decoded",
   "hook": "The Year 9 decision most parents make by accident.",

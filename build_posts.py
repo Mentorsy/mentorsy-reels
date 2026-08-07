@@ -51,7 +51,12 @@ def build_one(spec):
         return len(paths)
 
     os.makedirs(outdir, exist_ok=True)
-    if kind == "statement":
+    if kind == "list":
+        img = posts.slide_list(spec["hook"],
+                              [p["heading"] for p in spec["points"]],
+                              spec.get("pillar", "Mentorsy"),
+                              spec.get("cta"))
+    elif kind == "statement":
         img = posts.slide_statement(spec["hook"], spec.get("sub"))
     elif kind == "photo":
         # A local file if supplied, otherwise pull free documentary
