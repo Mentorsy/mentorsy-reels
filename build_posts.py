@@ -35,7 +35,7 @@ def _write_pdf(png_paths, outdir):
         return None
     pages = [_I.open(p).convert("RGB") for p in png_paths]
     pdf = os.path.join(outdir, "post.pdf")
-    pages[0].save(pdf, "PDF", resolution=150.0, save_all=True,
+    pages[0].save(pdf, "PDF", resolution=72.0, save_all=True,
                   append_images=pages[1:])
     return pdf
 
