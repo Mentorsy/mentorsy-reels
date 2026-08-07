@@ -24,13 +24,31 @@ SPEC = os.path.join(BASE, "posts_spec.json")
 OUT = os.path.join(BASE, "posts_out")
 
 
+def _write_pdf(png_paths, outdir):
+    """Canva can import a PDF but not a PNG, so every post also ships as one.
+
+    A carousel becomes a multi-page PDF, which imports as a multi-page Canva
+    design — exactly what an Instagram carousel needs.
+    """
+    from PIL import Image as _I
+    if not png_paths:
+        return None
+    pages = [_I.open(p).convert("RGB") for p in png_paths]
+    pdf = os.path.join(outdir, "post.pdf")
+    pages[0].save(pdf, "PDF", resolution=150.0, save_all=True,
+                  append_images=pages[1:])
+    return pdf
+
+
 def build_one(spec):
     """Returns the number of images written for this post."""
     outdir = os.path.join(OUT, spec["slug"])
     kind = spec.get("kind", "carousel")
 
     if kind == "carousel":
-        return len(posts.build_carousel(spec, outdir))
+        paths = posts.build_carousel(spec, outdir)
+        _write_pdf([p for p in paths if p.endswith(".png")], outdir)
+        return len(paths)
 
     os.makedirs(outdir, exist_ok=True)
     if kind == "statement":
@@ -48,7 +66,9 @@ def build_one(spec):
     else:
         raise ValueError(f"unknown post kind: {kind}")
 
-    img.save(os.path.join(outdir, "post.png"), quality=95)
+    png = os.path.join(outdir, "post.png")
+    img.save(png, quality=95)
+    _write_pdf([png], outdir)
     with open(os.path.join(outdir, "caption.txt"), "w", encoding="utf-8") as f:
         f.write(spec["caption"] + "\n\n" + " ".join(spec["hashtags"][:4]))
     return 1
