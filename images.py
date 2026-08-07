@@ -13,6 +13,7 @@ you can test the pipeline before wiring anything up.
 
 import base64
 import hashlib
+import re
 import os
 import random
 import time
@@ -67,6 +68,67 @@ def _placeholder(prompt: str, path: str):
     return path
 
 
+STOCK_ENABLED = os.environ.get("USE_STOCK_IMAGES", "true").lower() == "true"
+OPENVERSE = "https://api.openverse.org/v1/images/"
+
+_NOISE = re.compile(
+    r"\b(seen|slightly|from|the|side|close|overhead|view|of|a|an|in|on|at|with|"
+    r"soft|natural|daylight|light|blurred|background|focus|shot|angle|no|"
+    r"readable|detail|neither|facing|camera|front|resting|across|beside|"
+    r"pulled|out|tucked|under|quiet|empty|wide|tall|distance)\b", re.I)
+
+
+def _stock_query(prompt: str) -> str:
+    """Reduce an image prompt to 3-4 concrete subject words."""
+    words = _NOISE.sub(" ", prompt).split()
+    seen, out = set(), []
+    for w in words:
+        k = w.strip(",.").lower()
+        if k and k not in seen and len(k) > 2:
+            seen.add(k)
+            out.append(k)
+        if len(out) == 4:
+            break
+    return " ".join(out) or "study desk"
+
+
+def _stock_image(prompt: str, path: str) -> bool:
+    """Free, keyless documentary photography. No API key, no daily quota."""
+    if not STOCK_ENABLED:
+        return False
+    try:
+        q = _stock_query(prompt)
+        r = requests.get(OPENVERSE,
+                         params={"q": q, "page_size": 8, "license_type": "all",
+                                 "aspect_ratio": "tall", "mature": "false"},
+                         headers={"User-Agent": "MentorsyReelFactory/1.0"},
+                         timeout=30)
+        r.raise_for_status()
+        for hit in r.json().get("results", []):
+            url = hit.get("url")
+            if not url:
+                continue
+            img = requests.get(url, timeout=45,
+                               headers={"User-Agent": "MentorsyReelFactory/1.0"})
+            if img.status_code != 200 or len(img.content) < 15000:
+                continue
+            from io import BytesIO
+            im = Image.open(BytesIO(img.content)).convert("RGB")
+            if min(im.size) < 600:
+                continue
+            tw, th = C.WIDTH, C.HEIGHT
+            scale = max(tw / im.width, th / im.height)
+            im = im.resize((int(im.width * scale) + 1, int(im.height * scale) + 1),
+                           Image.LANCZOS)
+            left, top = (im.width - tw) // 2, (im.height - th) // 2
+            im.crop((left, top, left + tw, top + th)).save(path, quality=92)
+            print("       stock: " + q)
+            return True
+    except Exception as e:
+        print(f"       stock lookup failed: {e}")
+    return False
+
+
 def _gemini_image(prompt: str, path: str, retries: int = 3) -> bool:
     key = C.GEMINI_API_KEY
     if not key or key.startswith("PASTE_"):
@@ -106,18 +168,43 @@ def _gemini_image(prompt: str, path: str, retries: int = 3) -> bool:
     return False
 
 
+IMAGE_GAP_SECONDS = float(os.environ.get("IMAGE_GAP_SECONDS", "7"))
+MAX_CONSECUTIVE_PLACEHOLDERS = 3
+
+
+class ImageGenerationUnavailable(RuntimeError):
+    """Raised when generation fails repeatedly, so the run fails loudly."""
+
+
 def generate_images(prompts, work_dir):
     """Returns a list of local image paths, one per prompt."""
     paths = []
+    misses = 0
+    have_key = bool(C.GEMINI_API_KEY) and not C.GEMINI_API_KEY.startswith("PASTE_")
+
     for i, p in enumerate(prompts):
         out = os.path.join(work_dir, f"img_{i}.jpg")
         if os.path.exists(out):
             paths.append(out)
             continue
+
+        if _stock_image(p, out):
+            print(f"       scene {i + 1}: stock photo")
+            misses = 0
+            paths.append(out)
+            continue
+
+        if i:
+            time.sleep(IMAGE_GAP_SECONDS)
+
         if _gemini_image(p, out):
             print(f"       scene {i + 1}: generated")
+            misses = 0
         else:
             _placeholder(p, out)
-            print(f"       scene {i + 1}: placeholder (no API key or generation failed)")
+            misses += 1
+            print(f"       scene {i + 1}: PLACEHOLDER - generation failed")
+            if have_key and misses >= MAX_CONSECUTIVE_PLACEHOLDERS:
+                raise ImageGenerationUnavailable("quota spent or key rejected")
         paths.append(out)
     return paths

@@ -1,0 +1,40 @@
+{
+  "slug": "2026-08-07_your-child-isn-t-bad-at-maths-they-re-two-topics-beh",
+  "date": "2026-08-07",
+  "slot": "07:30",
+  "pillar": "Maths Confidence",
+  "topic": "Your child isn't bad at maths - they're two topics behind",
+  "hook_formula": "4 Named Enemy",
+  "hook_onscreen": "It's not ability",
+  "scenes": [
+    {
+      "voiceover": "It is not that your child is bad at maths. They are two topics behind.",
+      "image_prompt": "A teenager bent over a page at a study desk, pencil in hand"
+    },
+    {
+      "voiceover": "And those two topics are almost always the same two.",
+      "image_prompt": "Overhead view of a maths exercise book open to a page of working"
+    },
+    {
+      "voiceover": "Fractions in Year seven. Negative numbers in Year eight. Across the IGCSE students our mentors work with, it is nearly always one or both.",
+      "image_prompt": "Two worn exercise books stacked on a windowsill"
+    },
+    {
+      "voiceover": "Everything after that looks like weakness. It is arithmetic they were never given time to finish.",
+      "image_prompt": "An empty classroom with a front row desk in focus"
+    },
+    {
+      "voiceover": "Close those two and the rest stops feeling impossible. Which is why it is not that your child is bad at maths.",
+      "image_prompt": "A student walking down a school corridor carrying books"
+    }
+  ],
+  "caption": "Two topics. That is usually the whole story.\n\nFractions in Year 7. Negative numbers in Year 8. Across the Cambridge and IGCSE students our mentors work with, the ones who say they are not a maths person have nearly always lost one or both.\n\nEverything after that looks like weakness. It is arithmetic nobody finished.\n\nSend this to a parent who needed to hear it.",
+  "hashtags": [
+    "#IGCSE",
+    "#MathsTutoring",
+    "#CambridgeCurriculum",
+    "#Mentorsy"
+  ],
+  "alt_text": "A student working through a maths exercise book, on IGCSE gaps in fractions and negative numbers",
+  "word_count": 87
+}
