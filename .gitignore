@@ -1,4 +1,12 @@
-work/
+# Credentials. Never commit these, never paste them into a chat.
+.env
+published.json
+
+# Build artefacts
+.broll_cache/
 __pycache__/
 *.pyc
-voice_samples/
+
+# Your own media
+presenter/
+music/
