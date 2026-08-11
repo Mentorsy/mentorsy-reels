@@ -1,0 +1,9 @@
+Every child should build one thing that other people actually use.
+
+Not a project marked by a teacher. Something small and real - a page, a tool, a bot that does one job for one person who is not them.
+
+The shift happens the first time someone reports a bug. Suddenly the work has consequences outside the classroom, and the child stops asking whether it is finished and starts asking whether it works.
+
+That is the whole difference between studying computing and being able to build.
+
+#CodingForKids #FutureSkills #STEM #Mentorsy

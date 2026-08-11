@@ -1,0 +1,7 @@
+In coding, getting stuck is the subject. It is not an interruption to it.
+
+Every professional developer spends most of the day with something not working. That is not a sign of failing, it is the actual job, and a child who thinks being stuck means being bad will quit somewhere around week three.
+
+Worth saying out loud early: this is meant to be hard, everyone's code breaks, and finding out why is the part you are learning.
+
+#CodingForKids #ChildConfidence #STEM #Mentorsy

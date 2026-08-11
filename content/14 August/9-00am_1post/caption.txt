@@ -1,0 +1,9 @@
+Two ways to teach a child to code, and only one of them compounds.
+
+Course completion is easy to measure, which is why it gets measured. But a child who has finished nine tutorials and never debugged anything has not learned to program. They have learned to type.
+
+The skill is what happens after it breaks.
+
+Ask any coding class what a student does in week three when their code does not run. The answer tells you which column you are buying.
+
+#CodingForKids #FutureSkills #STEM #Mentorsy
