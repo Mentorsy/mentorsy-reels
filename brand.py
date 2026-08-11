@@ -1,5 +1,5 @@
 """
-Mentorsy — brand engine
+Mentorsy - brand engine
 
 Mentorsy teaches Mathematics, French, Public Speaking, Coding, AI and Science.
 Six subjects is enough range to look incoherent if every one of them brings its
@@ -20,7 +20,6 @@ import os
 from PIL import Image, ImageDraw, ImageFont
 
 BASE = os.path.dirname(os.path.abspath(__file__))
-BRAND_DIR = os.path.join(BASE, "brand")
 
 # -- ground --------------------------------------------------------------
 PAPER = (250, 247, 243)   # warm off-white. never pure white - it clips on IG
@@ -33,24 +32,22 @@ DARK = (32, 16, 46)       # statement pieces only, roughly one in six
 # The accent is a thin signal, not a theme. It appears on maybe 4 percent of
 # the pixels: the kicker, its rule, and the numerals in a list.
 SUBJECTS = {
-    "Mathematics":     (138, 117, 151),   # muted purple
-    "French":          (124, 139, 122),   # sage
-    "Public Speaking": (181, 119, 106),   # clay
-    "Coding":          (91, 107, 124),    # slate
-    "AI":              (79, 106, 110),    # deep teal
-    "Science":         (122, 116, 138),   # stone
-    "Mentorsy":        MUTED,             # cross-subject
+    "Mathematics":     (138, 117, 151),
+    "French":          (124, 139, 122),
+    "Public Speaking": (181, 119, 106),
+    "Coding":          (91, 107, 124),
+    "AI":              (79, 106, 110),
+    "Science":         (122, 116, 138),
+    "Mentorsy":        MUTED,
 }
 
-# Content pillars. A pillar answers "why is this post here", a subject answers
-# "what is it about". Every piece carries exactly one of each.
 PILLARS = [
-    "Curriculum Decoded",   # how the syllabus actually works
-    "Parent Scripts",       # the sentence to say, the question to ask
-    "School Choice",        # choosing a school, a board, a programme
-    "Confidence",           # the emotional layer under the academic one
-    "Inside the Method",    # how Mentorsy teaches it
-    "Future Skills",        # where coding, AI and speaking actually lead
+    "Curriculum Decoded",
+    "Parent Scripts",
+    "School Choice",
+    "Confidence",
+    "Inside the Method",
+    "Future Skills",
 ]
 
 # -- canvas --------------------------------------------------------------
@@ -63,31 +60,46 @@ REEL_MARGIN = 96
 HANDLE = "@mentorsy.in"
 STRAP = "Maths / French / Speaking / Coding / AI / Science"
 
-LOGO_LIGHT = os.path.join(BRAND_DIR, "logo_on_light.png")
-LOGO_DARK = os.path.join(BRAND_DIR, "logo_cream_lockup.png")
 
-# The typefaces ship with the engine. Both are Open Font Licence, so they can
-# live in the repo, and that means a build on a bare CI runner looks identical
-# to a build on this machine rather than silently falling back to whatever
-# serif happens to be installed.
-_LOCAL = os.path.join(BASE, "fonts")
+def _find(name, *subdirs):
+    """
+    Look for an asset in a few plausible places.
+
+    GitHub's web uploader flattens folders, so a file that lives in fonts/ or
+    brand/ on disk can arrive at the repo root. Rather than making the upload
+    fragile - or asking anyone to reshuffle files by hand - the engine looks
+    in both. Same code, either layout.
+    """
+    for s in subdirs:
+        p = os.path.join(BASE, s, name)
+        if os.path.exists(p):
+            return p
+    p = os.path.join(BASE, name)
+    if os.path.exists(p):
+        return p
+    return os.path.join(BASE, subdirs[0], name) if subdirs else p
+
+
+LOGO_LIGHT = _find("logo_on_light.png", "brand")
+LOGO_DARK = _find("logo_cream_lockup.png", "brand")
+
 _GF = "/usr/share/fonts/truetype/google-fonts/"
 _DEJAVU = "/usr/share/fonts/truetype/dejavu/"
 
-# Lora carries the voice; Poppins does the labelling. Falling back to DejaVu
-# keeps the renderer working on a machine without the Google fonts rather
-# than failing a whole month's build over a typeface.
+# Lora carries the voice; Poppins does the labelling. Both ship with the
+# engine under the Open Font Licence, so a build on a bare CI runner looks
+# identical to one here. DejaVu is a last resort, not a plan.
 _FACES = {
-    ("serif", True):  [os.path.join(_LOCAL, "Lora-Variable.ttf"),
+    ("serif", True):  [_find("Lora-Variable.ttf", "fonts"),
                        _GF + "Lora-Variable.ttf",
                        _DEJAVU + "DejaVuSerif-Bold.ttf"],
-    ("serif", False): [os.path.join(_LOCAL, "Lora-Variable.ttf"),
+    ("serif", False): [_find("Lora-Variable.ttf", "fonts"),
                        _GF + "Lora-Variable.ttf",
                        _DEJAVU + "DejaVuSerif.ttf"],
-    ("sans", True):   [os.path.join(_LOCAL, "Poppins-Medium.ttf"),
+    ("sans", True):   [_find("Poppins-Medium.ttf", "fonts"),
                        _GF + "Poppins-Medium.ttf",
                        _DEJAVU + "DejaVuSans-Bold.ttf"],
-    ("sans", False):  [os.path.join(_LOCAL, "Poppins-Light.ttf"),
+    ("sans", False):  [_find("Poppins-Light.ttf", "fonts"),
                        _GF + "Poppins-Light.ttf",
                        _DEJAVU + "DejaVuSans.ttf"],
 }
@@ -102,7 +114,6 @@ def font(size, bold=True, serif=True):
     for path in _FACES[("serif" if serif else "sans", bold)]:
         if os.path.exists(path):
             f = ImageFont.truetype(path, size)
-            # Lora ships as a variable font; ask for the weight we want.
             if "Variable" in path:
                 try:
                     f.set_variation_by_axes([700 if bold else 400])
