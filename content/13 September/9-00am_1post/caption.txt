@@ -1,0 +1,11 @@
+Scratch is not a toy that gets outgrown. It is the same ideas without the punctuation.
+
+Loops, conditionals, variables, events, sequence: those are the concepts a first-year computer science course teaches, and a nine year old can hold all of them while dragging blocks. What text adds is syntax, and syntax is not the difficult part.
+
+Parents often push a child out of blocks early, worried it looks unserious. The usual result is a child fighting missing semicolons instead of thinking about structure, and concluding they are bad at coding.
+
+The right moment to move across is when the blocks become the slow part, not when the calendar says so.
+
+A child who can debug a Scratch project can debug anything. The rest is typing.
+
+#CodingForKids #STEM #FutureSkills #Mentorsy
