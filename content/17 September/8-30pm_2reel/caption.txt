@@ -1,0 +1,11 @@
+Scratch is not a toy that gets outgrown.
+
+Loops, conditionals, variables and events are the same concepts a first computer science course teaches. Text adds syntax, and syntax is the cheap part.
+
+Move across when the blocks become the slow part, not when the calendar says so.
+
+#CodingForKids #STEM #FutureSkills #Mentorsy
+
+----------------------------------------------
+
+Add a trending audio track in the Instagram app before posting. Reels using Instagram's own audio library reach further than reels with music baked in, and this one is built to read with the sound off.
