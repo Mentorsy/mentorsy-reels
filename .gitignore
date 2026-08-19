@@ -1,6 +1,9 @@
 # Credentials. Never commit these, never paste them into a chat.
 .env
-published.json
+# NOTE: published.json was listed here, under "Credentials". It is not a
+# credential - it is publish.py's record of what has already been posted.
+# Ignoring it meant every scheduled run checked out a clean repo, found no
+# record, and republished the whole backlog. It MUST stay tracked.
 
 # Build artefacts
 .broll_cache/
