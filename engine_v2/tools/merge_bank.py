@@ -9,8 +9,10 @@ ROOT = Path(__file__).resolve().parent.parent
 REQUIRED = ("id", "pillar", "formats", "hook", "body", "idea_group")
 
 bank, errors = [], []
-for f in sorted(glob.glob(str(ROOT / "content" / "bank_p*.json"))
-                + glob.glob(str(ROOT / "content" / "bank_legacy.json"))):
+# every bank_*.json except the generated bank.json itself
+sources = sorted(set(glob.glob(str(ROOT / "content" / "bank_*.json")))
+                 - {str(ROOT / "content" / "bank.json")})
+for f in sources:
     bank += json.loads(Path(f).read_text())
 
 seen = set()
