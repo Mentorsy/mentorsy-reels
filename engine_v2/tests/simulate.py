@@ -141,6 +141,19 @@ if __name__ == "__main__":
     print()
     print(f"Runway left today: {runway_report(cfg, bank, [], start)}")
     print()
+    # Coverage: the promise is two clean months. A gap inside the first 70
+    # days is a failure, not a warning -- it means a slot had nothing unique
+    # left and the feed would have gone silent.
+    GUARANTEE_DAYS = 70
+    cutoff = (start + timedelta(days=GUARANTEE_DAYS)).isoformat()
+    early_gaps = [g for g in starved if g.split()[0] < cutoff]
+    if early_gaps:
+        fails.append(f"COVERAGE: {len(early_gaps)} empty slot(s) inside the "
+                     f"{GUARANTEE_DAYS}-day guarantee. First: {early_gaps[0]}")
+    else:
+        print(f"Coverage: {GUARANTEE_DAYS} days guaranteed gap-free — PASS")
+        print()
+
     if fails:
         print(f"FAILED {len(fails)} assertion(s):")
         for f in fails[:20]:

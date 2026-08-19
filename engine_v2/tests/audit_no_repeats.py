@@ -53,9 +53,16 @@ print(f"4. no duplicate hooks .............. {'PASS' if not dupe_k else 'FAIL'}"
 fail += dupe_k
 
 # 5 -- nothing says what something else already says.
+#      Pairs sharing an idea_group are exempt: gate 8 already guarantees only
+#      one of them can ever ship, so their overlap can never reach a feed.
+def group(p):
+    return p.get("idea_group", p["id"])
+
 worst, pair = 0.0, None
 for i, a in enumerate(bank):
     for b in bank[i + 1:]:
+        if group(a) == group(b):
+            continue
         c = contain(T[a["id"]], T[b["id"]])
         if c > worst:
             worst, pair = c, (a["id"], b["id"])
