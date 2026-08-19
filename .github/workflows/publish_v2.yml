@@ -1,0 +1,100 @@
+name: Publish v2 (one slot, never twice)
+
+# The replacement publisher. Lives beside the old one; does not share its
+# ledger, its content, or its failure modes.
+#
+#   * ONE workflow may publish. If you re-enable "Mentorsy content" or
+#     "Post to Instagram and Facebook", turn this one off first.
+#   * No push trigger. A publishing workflow that runs on push posts every
+#     time you edit the repo.
+#   * concurrency serialises runs, so a slow run cannot overlap the next.
+#   * engine_v2/state/ledger.json is committed back. That commit IS the memory.
+#   * dry_run defaults to true, INCLUDING on a schedule. Flip it deliberately.
+
+on:
+  schedule:
+    - cron: "30 2 * * 1,3,5"       # 08:00 IST — Mon / Wed / Fri morning
+    - cron: "30 5 * * 6"           # 11:00 IST — Saturday
+    - cron: "0 14 * * 0,1,2,3,4,5" # 19:30 IST — Sun/Mon/Tue/Wed/Thu/Fri evening
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: "Slot id, or 'auto'"
+        default: "auto"
+      dry_run:
+        description: "true = render only. Set false to actually post."
+        default: "true"
+
+concurrency:
+  group: mentorsy-publish-v2
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    defaults:
+      run:
+        working-directory: engine_v2
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+
+      - name: Sync ledger before deciding
+        run: |
+          git config user.name  "mentorsy-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git pull --rebase --autostash origin ${{ github.ref_name }}
+
+      - name: Validate the bank before it can reach a feed
+        run: |
+          python3 tools/merge_bank.py
+          python3 tests/audit_no_repeats.py
+
+      - name: Publish the slot that is due
+        env:
+          META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
+          IG_USER_ID:        ${{ secrets.IG_USER_ID }}
+          FB_PAGE_ID:        ${{ secrets.FB_PAGE_ID }}
+        run: |
+          # On a schedule trigger inputs.dry_run is EMPTY. Default to dry-run;
+          # only an explicit "false" is allowed to post.
+          if [ "${{ github.event.inputs.dry_run || 'true' }}" != "false" ]; then
+            python3 engine/run.py --slot "${{ github.event.inputs.slot || 'auto' }}" --dry-run
+          else
+            python3 engine/run.py --slot "${{ github.event.inputs.slot || 'auto' }}"
+          fi
+
+      - name: Commit the ledger
+        if: always()
+        run: |
+          if [[ -n "$(git status --porcelain state/ledger.json)" ]]; then
+            git add state/ledger.json
+            git commit -m "v2 ledger: $(date -u +%F) [skip ci]"
+            for i in 1 2 3; do
+              git pull --rebase --autostash origin ${{ github.ref_name }} && \
+              git push origin HEAD:${{ github.ref_name }} && break
+              sleep $((i * 5))
+            done
+          fi
+
+      - name: Warn when the bank is running dry
+        if: always()
+        run: |
+          if [[ -f RUNWAY_LOW ]]; then
+            gh issue create \
+              --title "Content bank running low — refill before it starves" \
+              --body "$(cat RUNWAY_LOW)
+
+          The scheduler publishes NOTHING rather than repeat a post.
+          Add pieces to engine_v2/content/bank_*.json (one format each, own idea_group)." \
+              --label content || true
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
