@@ -56,7 +56,7 @@ def save_ledger(led):
 
 def pieces_for(idx):
     """Return [(time, spec), ...] for the idx-th day of the run."""
-    entry = BANK[idx % len(BANK)]
+    entry = BANK[idx] if idx < len(BANK) else sys.exit(f"Content bank exhausted: day {idx} of {len(BANK)}. Add pieces before building further. Refusing to wrap and repeat.")
     post = dict(entry["post"])
     reel = dict(entry["reel"])
 
