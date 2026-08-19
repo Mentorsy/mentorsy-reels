@@ -28,7 +28,7 @@
    "reel"
   ],
   "hook": "Nobody is confident the first time.",
-  "body": "Nobody is confident the first time.\n\nShyness sounds like a personality, which makes it sound permanent. Unrehearsed is a state, and states change.\n\nThe difference between a child who freezes and a child who presents is usually eight rehearsals nobody scheduled.",
+  "body": "Shyness sounds like a personality, which makes it sound permanent. Unrehearsed is a state, and states change.\n\nThe difference between a child who freezes and a child who presents is usually eight rehearsals nobody scheduled.",
   "reel_script": "HOOK (0-4s): Nobody is confident the first time.\nBEAT (4-12s): Shyness is a personality. Unrehearsed is a state.\nBEAT (12-20s): One sounds permanent. The other takes four weeks.\nBEAT (20-29s): Nobody is fluent the first time they speak in front of people.\nBEAT (29-34s): They are fluent the ninth time.\nBEAT (34-43s): The gap is not courage. It is practice nobody scheduled.\nCTA (43-48s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -41,7 +41,7 @@
    "reel"
   ],
   "hook": "Nine finished tutorials is not learning to code.",
-  "body": "Nine finished tutorials is not learning to code.\n\nCopying a tutorial line by line teaches typing. The learning happens when something breaks and a child has to work out why, and nothing in a finished tutorial ever breaks.\n\nAsk what happens in week three when the code will not run.",
+  "body": "Copying a tutorial line by line teaches typing. The learning happens when something breaks and a child has to work out why, and nothing in a finished tutorial ever breaks.\n\nAsk what happens in week three when the code will not run.",
   "reel_script": "HOOK (0-4s): Nine finished tutorials is not learning to code.\nBEAT (4-9s): Copying a tutorial teaches typing.\nBEAT (9-15s): The learning happens when it breaks.\nBEAT (15-22s): And nothing in a finished tutorial ever breaks.\nBEAT (22-31s): Ask what your child does in week three when the code fails.\nBEAT (31-36s): That answer is the whole course.\nCTA (36-41s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -54,7 +54,7 @@
    "carousel"
   ],
   "hook": "The Year 9 decision most parents make by accident.",
-  "body": "The Year 9 decision most parents make by accident.\n\nSet placement decides which tier your child is entered for, and the tier caps the grade available. That narrows what they can take at A Level, years before anyone mentions A Levels.\n\nMost families find out on results day.\n\nAsk which tier your child is on track for. Ask in Year 9, not Year 11.",
+  "body": "Set placement decides which tier your child is entered for, and the tier caps the grade available. That narrows what they can take at A Level, years before anyone mentions A Levels.\n\nMost families find out on results day.\n\nAsk which tier your child is on track for. Ask in Year 9, not Year 11.",
   "slides": [
    "The Year 9 decision most parents make by accident.",
    "Set placement in Year 9 shapes Year 12",
@@ -74,7 +74,7 @@
    "carousel"
   ],
   "hook": "What to actually teach a child about AI.",
-  "body": "What to actually teach a child about AI.\n\nNot prompting. Prompting will be obsolete in two years and it was never the hard part.\n\nThe durable skill is judgement: knowing when the answer is wrong, where it came from, and when the tool should stay closed. A child who can spot a confident wrong answer is more employable than one who can write a clever prompt.\n\nThat skill is just critical thinking with a new surface. Which is good news, because we already know how to teach it.",
+  "body": "Not prompting. Prompting will be obsolete in two years and it was never the hard part.\n\nThe durable skill is judgement: knowing when the answer is wrong, where it came from, and when the tool should stay closed. A child who can spot a confident wrong answer is more employable than one who can write a clever prompt.\n\nThat skill is just critical thinking with a new surface. Which is good news, because we already know how to teach it.",
   "slides": [
    "What to actually teach a child about AI.",
    "How to check whether an answer is true",
@@ -114,7 +114,7 @@
    "reel"
   ],
   "hook": "Ask when they decided they were bad at it.",
-  "body": "Ask when they decided they were bad at it.\n\nAlmost every 'I'm not a maths person' traces to a specific moment. The belief outlives the incident by a decade.\n\nThings you can date are things you can undo.",
+  "body": "Almost every 'I'm not a maths person' traces to a specific moment. The belief outlives the incident by a decade.\n\nThings you can date are things you can undo.",
   "reel_script": "HOOK (0-4s): Ask when they decided they were bad at it.\nBEAT (4-11s): 'I'm not a maths person' is not an assessment.\nBEAT (11-16s): It is a memory.\nBEAT (16-23s): Usually one topic, one question, one afternoon.\nBEAT (23-30s): The belief outlives the incident by ten years.\nBEAT (30-37s): Things you can date are things you can undo.\nCTA (37-42s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -220,7 +220,7 @@
    "carousel"
   ],
   "hook": "Four questions before you pay a tutor anything.",
-  "body": "Four questions before you pay a tutor anything.\n\nThe first one does most of the work. If the answer is 'start the syllabus', walk away - it assumes the problem is coverage, and it almost never is.\n\nA good tutor names a measure before they begin. 'More confident' is not a measure. 'She will close negative numbers in three weeks' is.\n\nAnd listen carefully to the third answer. Explaining again, louder, is not teaching. Going backwards to find the missing step is.",
+  "body": "The first one does most of the work. If the answer is 'start the syllabus', walk away - it assumes the problem is coverage, and it almost never is.\n\nA good tutor names a measure before they begin. 'More confident' is not a measure. 'She will close negative numbers in three weeks' is.\n\nAnd listen carefully to the third answer. Explaining again, louder, is not teaching. Going backwards to find the missing step is.",
   "slides": [
    "Four questions before you pay a tutor anything.",
    "What will you do in the first session?",
@@ -253,7 +253,7 @@
    "reel"
   ],
   "hook": "Examiners are not counting your words.",
-  "body": "Examiners are not counting your words.\n\nThey are checking tense control, justified opinions, and whether you can keep going when a word will not come.\n\nEvery candidate loses a word mid-sentence. The mark difference is whether they stop dead or say it another way.",
+  "body": "They are checking tense control, justified opinions, and whether you can keep going when a word will not come.\n\nEvery candidate loses a word mid-sentence. The mark difference is whether they stop dead or say it another way.",
   "reel_script": "HOOK (0-4s): Examiners are not counting your words.\nBEAT (4-9s): They are checking three things.\nBEAT (9-16s): Can you hold a tense across a whole answer.\nBEAT (16-22s): Can you give an opinion and justify it.\nBEAT (22-29s): Can you keep going when a word will not come.\nBEAT (29-37s): Everyone loses a word. The mark is in the recovery.\nCTA (37-42s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -299,7 +299,7 @@
    "carousel"
   ],
   "hook": "How to tell a real coding class from an expensive one.",
-  "body": "How to tell a real coding class from an expensive one.\n\nAsk to see a student project from week eight, not the showreel. Week eight is where the difference lives: either everyone's project looks identical, which means they copied, or they look different, which means they built.\n\nAsk what happens when a child finishes early. In a good class, they extend it. In a weak one, they wait.\n\nAnd ask how many students share a screen. Two is fine, and often better. Four means three are watching.",
+  "body": "Ask to see a student project from week eight, not the showreel. Week eight is where the difference lives: either everyone's project looks identical, which means they copied, or they look different, which means they built.\n\nAsk what happens when a child finishes early. In a good class, they extend it. In a weak one, they wait.\n\nAnd ask how many students share a screen. Two is fine, and often better. Four means three are watching.",
   "slides": [
    "How to tell a real coding class from an expensive one.",
    "Ask to see a student project from week eight",
@@ -339,7 +339,7 @@
    "reel"
   ],
   "hook": "Should my child still learn maths if AI can do it?",
-  "body": "Should my child still learn maths if AI can do it?\n\nYes, and more urgently than before. The skill now is telling when the answer is wrong, and that is subject knowledge, not technology.\n\nYou cannot audit an answer in a subject you do not understand.",
+  "body": "Yes, and more urgently than before. The skill now is telling when the answer is wrong, and that is subject knowledge, not technology.\n\nYou cannot audit an answer in a subject you do not understand.",
   "reel_script": "HOOK (0-4s): Should my child still learn maths if AI can do it?\nBEAT (4-9s): Yes. More urgently than before.\nBEAT (9-17s): The skill now is telling when the answer is wrong.\nBEAT (17-25s): That is not a tech skill. It is subject knowledge.\nBEAT (25-34s): You cannot audit an answer in a subject you do not understand.\nBEAT (34-41s): The tool raises the value of knowing things.\nCTA (41-46s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -385,7 +385,7 @@
    "reel"
   ],
   "hook": "The revision that feels best works worst.",
-  "body": "The revision that feels best works worst.\n\nRe-reading a vocabulary list is comfortable, so nothing is being strengthened. Covering it and writing it from memory feels worse and works.\n\nMemory grows at the point of effortful recall.",
+  "body": "Re-reading a vocabulary list is comfortable, so nothing is being strengthened. Covering it and writing it from memory feels worse and works.\n\nMemory grows at the point of effortful recall.",
   "reel_script": "HOOK (0-4s): The revision that feels best works worst.\nBEAT (4-11s): Re-reading the list is fluent and comfortable.\nBEAT (11-18s): Nothing is hard, so nothing is strengthened.\nBEAT (18-26s): Cover it. Write it from memory. That feels worse.\nBEAT (26-33s): Memory grows at the point of effortful recall.\nBEAT (33-38s): Not at the point of recognition.\nCTA (38-43s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -484,7 +484,7 @@
    "reel"
   ],
   "hook": "Reading worked examples is not revision.",
-  "body": "Reading worked examples is not revision.\n\nThe answer is already on the page, so nothing is retrieved and nothing sticks. It gets filed under 'seen', which is not the same as 'can do'.\n\nClose the book. Start the question. Being stuck is the part that teaches.",
+  "body": "The answer is already on the page, so nothing is retrieved and nothing sticks. It gets filed under 'seen', which is not the same as 'can do'.\n\nClose the book. Start the question. Being stuck is the part that teaches.",
   "reel_script": "HOOK (0-4s): Reading worked examples is not revision.\nBEAT (4-9s): The answer is already on the page.\nBEAT (9-16s): Nothing is at risk, so nothing is learned.\nBEAT (16-23s): The brain files it under 'seen', not 'can do'.\nBEAT (23-32s): A blank page is uncomfortable for the reason it works.\nBEAT (32-41s): One closed-book question beats an hour of highlighting.\nCTA (41-46s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -497,7 +497,7 @@
    "carousel"
   ],
   "hook": "What to say the night before a presentation.",
-  "body": "What to say the night before a presentation.\n\n'You'll be fine' closes the conversation. It sounds like reassurance and lands like a door shutting, because the child still has the fear and now has nowhere to put it.\n\nName it instead. 'Most people go blank somewhere in the middle. What do you do if that happens?' turns a vague dread into one thing with a plan attached.\n\nThen ask for the first line out loud, once. The opening is where the nerves live, and hearing it in a kitchen makes the classroom quieter.",
+  "body": "'You'll be fine' closes the conversation. It sounds like reassurance and lands like a door shutting, because the child still has the fear and now has nowhere to put it.\n\nName it instead. 'Most people go blank somewhere in the middle. What do you do if that happens?' turns a vague dread into one thing with a plan attached.\n\nThen ask for the first line out loud, once. The opening is where the nerves live, and hearing it in a kitchen makes the classroom quieter.",
   "slides": [
    "What to say the night before a presentation.",
    "Ask them to say the first line out loud",
@@ -517,7 +517,7 @@
    "reel"
   ],
   "hook": "Six languages is not six times the learning.",
-  "body": "Six languages is not six times the learning.\n\nSyntax is the cheapest part of programming and the easiest to look up. What transfers between languages is decomposition, naming, testing and reading an error properly.\n\nOne language, held long enough to finish something that runs, teaches every one of those.",
+  "body": "Syntax is the cheapest part of programming and the easiest to look up. What transfers between languages is decomposition, naming, testing and reading an error properly.\n\nOne language, held long enough to finish something that runs, teaches every one of those.",
   "reel_script": "HOOK (0-4s): Six languages is not six times the learning.\nBEAT (4-11s): Syntax is the cheapest part of programming.\nBEAT (11-19s): A reference page hands it to you in thirty seconds.\nBEAT (19-27s): What transfers is breaking a problem into parts.\nBEAT (27-35s): Naming things. Testing. Reading the error properly.\nBEAT (35-44s): One language, held long enough to finish something, teaches all of it.\nCTA (44-49s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -530,7 +530,7 @@
    "reel"
   ],
   "hook": "AI can draft the essay. It cannot defend it.",
-  "body": "AI can draft the essay. It cannot defend it.\n\nThe useful question at home is not whether a tool was used. It is whether your child could still hold the argument with the laptop shut.\n\nThat is trainable. A finished document does not train it.",
+  "body": "The useful question at home is not whether a tool was used. It is whether your child could still hold the argument with the laptop shut.\n\nThat is trainable. A finished document does not train it.",
   "reel_script": "HOOK (0-4s): AI can draft the essay. It cannot defend it.\nBEAT (4-11s): Unsupervised work is becoming weaker evidence.\nBEAT (11-20s): Work produced in a room with a teacher is becoming stronger.\nBEAT (20-29s): The spoken answer. The timed paper. The follow-up question.\nBEAT (29-36s): So the question is not whether AI was used.\nBEAT (36-45s): It is whether your child could hold the argument with the laptop shut.\nCTA (45-50s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -543,7 +543,7 @@
    "carousel"
   ],
   "hook": "Four reasons French vocabulary will not stick.",
-  "body": "Four reasons French vocabulary will not stick.\n\nMost lists get learned French to English, because that is the direction the test runs. Then the speaking assessment asks for the opposite and the word is not there.\n\nWords also arrive stripped of context. 'Chercher' on a list is a translation. 'Je cherche mes clés' is a memory, and memories survive longer than translations.\n\nAnd almost none of it is said aloud, so the mouth has never made the sound under pressure.\n\nSame twenty words. Both directions, in sentences, out loud, twice across a week. That is the whole change.",
+  "body": "Most lists get learned French to English, because that is the direction the test runs. Then the speaking assessment asks for the opposite and the word is not there.\n\nWords also arrive stripped of context. 'Chercher' on a list is a translation. 'Je cherche mes clés' is a memory, and memories survive longer than translations.\n\nAnd almost none of it is said aloud, so the mouth has never made the sound under pressure.\n\nSame twenty words. Both directions, in sentences, out loud, twice across a week. That is the whole change.",
   "slides": [
    "Four reasons French vocabulary will not stick.",
    "Word lists are learned in one direction only",
@@ -563,7 +563,7 @@
    "reel"
   ],
   "hook": "That sentence was meant as comfort.",
-  "body": "That sentence was meant as comfort.\n\nTelling a child you were bad at maths sounds like solidarity and lands like a diagnosis. Nobody keeps pushing at something their own parent has called impossible for people like them.\n\nSwap the identity for a timeline: that topic took a long time to click, and then it clicked.",
+  "body": "Telling a child you were bad at maths sounds like solidarity and lands like a diagnosis. Nobody keeps pushing at something their own parent has called impossible for people like them.\n\nSwap the identity for a timeline: that topic took a long time to click, and then it clicked.",
   "reel_script": "HOOK (0-4s): That sentence was meant as comfort.\nBEAT (4-13s): Telling a child you were bad at maths lands as a diagnosis.\nBEAT (13-19s): The intention is 'you are not alone'.\nBEAT (19-26s): What arrives is 'this runs in the family'.\nBEAT (26-33s): Children take inherited limits very seriously.\nBEAT (33-42s): Try: that topic took a long time to click for a lot of people.\nCTA (42-47s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -576,7 +576,7 @@
    "reel"
   ],
   "hook": "Memorising the method gets almost none of the marks.",
-  "body": "Memorising the method gets almost none of the marks.\n\nPractical questions ask why the control was there, what an anomalous reading means, and how the method could be improved. Those marks separate a middling script from a strong one.\n\nA results table cannot teach any of them.",
+  "body": "Practical questions ask why the control was there, what an anomalous reading means, and how the method could be improved. Those marks separate a middling script from a strong one.\n\nA results table cannot teach any of them.",
   "reel_script": "HOOK (0-4s): Memorising the method gets almost none of the marks.\nBEAT (4-12s): Practical questions rarely stop at what happened.\nBEAT (12-17s): Why was the control there?\nBEAT (17-23s): What does the anomalous reading mean?\nBEAT (23-28s): How would you improve the method?\nBEAT (28-36s): None of that can be revised from a results table.\nCTA (36-41s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -589,7 +589,7 @@
    "reel"
   ],
   "hook": "The fast child is not always the strong one.",
-  "body": "The fast child is not always the strong one.\n\nSpeed early usually means prior exposure, not capacity. The stall tends to come around Year 10, when the subject stops rewarding recall and starts asking for reasoning.\n\nThe child who works slowly and asks why has been building the part that lasts.",
+  "body": "Speed early usually means prior exposure, not capacity. The stall tends to come around Year 10, when the subject stops rewarding recall and starts asking for reasoning.\n\nThe child who works slowly and asks why has been building the part that lasts.",
   "reel_script": "HOOK (0-4s): The fast child is not always the strong one.\nBEAT (4-13s): Speed in Year 7 usually means they met the topic before.\nBEAT (13-18s): Real advantage. Temporary one.\nBEAT (18-24s): Fast children often stall around Year 10.\nBEAT (24-33s): Recall was rewarded. Then the subject asked for reasoning.\nBEAT (33-42s): The careful child who asks why was building the durable thing.\nCTA (42-47s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -602,7 +602,7 @@
    "carousel"
   ],
   "hook": "What week one of a real coding course looks like.",
-  "body": "What week one of a real coding course looks like.\n\nSomething should run on the first day. Not a slide about what programming is, not an hour of theory about variables. Working code, on screen, that the student can point at.\n\nAnd something should break on the first day, deliberately, while there is a teacher in the room. A child who has only ever seen code work has never practised the actual job.\n\nThen the error message gets read out loud rather than scrolled past. Most beginners never learn that the computer already told them what was wrong.\n\nBy the end of week one, they should have changed the thing into something that was not in the plan.",
+  "body": "Something should run on the first day. Not a slide about what programming is, not an hour of theory about variables. Working code, on screen, that the student can point at.\n\nAnd something should break on the first day, deliberately, while there is a teacher in the room. A child who has only ever seen code work has never practised the actual job.\n\nThen the error message gets read out loud rather than scrolled past. Most beginners never learn that the computer already told them what was wrong.\n\nBy the end of week one, they should have changed the thing into something that was not in the plan.",
   "slides": [
    "What week one of a real coding course looks like.",
    "Something runs on day one",
@@ -622,7 +622,7 @@
    "reel"
   ],
   "hook": "'We build confidence' cannot be wrong. That is the problem.",
-  "body": "'We build confidence' cannot be wrong. That is the problem.\n\nAn answer that could never turn out to be false has not told you anything. 'Every student presents twice a term' can be checked. So can a rubric you are allowed to read.\n\nAsk for the number, the frequency, or the document.",
+  "body": "An answer that could never turn out to be false has not told you anything. 'Every student presents twice a term' can be checked. So can a rubric you are allowed to read.\n\nAsk for the number, the frequency, or the document.",
   "reel_script": "HOOK (0-4s): 'We build confidence' cannot be wrong. That is the problem.\nBEAT (4-10s): Nothing in that sentence can be verified.\nBEAT (10-17s): 'Every student presents twice a term' can be.\nBEAT (17-26s): So can the size of the debating society against the year group.\nBEAT (26-35s): If an answer could not turn out to be false, it told you nothing.\nBEAT (35-43s): Ask for the number, the frequency, or the document.\nCTA (43-48s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -635,7 +635,7 @@
    "carousel"
   ],
   "hook": "How to ask about the AI without starting a row.",
-  "body": "How to ask about the AI without starting a row.\n\n'Did you use AI for this?' is an accusation with a yes-or-no exit, and both answers end the conversation.\n\n'What did it get wrong?' does not. It assumes use, skips the confession, and lands straight on the only skill that matters: whether your child can spot a confident sentence that is untrue.\n\n'What did you type to get that?' is the second good question. The prompt shows the thinking. A vague prompt means the tool did the work; a specific one means your child did.\n\nAnd set the rule between deadlines. Nobody negotiates well at eleven at night.",
+  "body": "'Did you use AI for this?' is an accusation with a yes-or-no exit, and both answers end the conversation.\n\n'What did it get wrong?' does not. It assumes use, skips the confession, and lands straight on the only skill that matters: whether your child can spot a confident sentence that is untrue.\n\n'What did you type to get that?' is the second good question. The prompt shows the thinking. A vague prompt means the tool did the work; a specific one means your child did.\n\nAnd set the rule between deadlines. Nobody negotiates well at eleven at night.",
   "slides": [
    "How to ask about the AI without starting a row.",
    "Ask what it got wrong, not whether it was used",
@@ -655,7 +655,7 @@
    "reel"
   ],
   "hook": "'Make eye contact' is not an instruction.",
-  "body": "'Make eye contact' is not an instruction.\n\nWithout a method children sweep the room, land on nobody and look more nervous than when they started.\n\nOne face, one sentence. Finish the sentence, then move. Three or four faces in rotation. It paces the talk and it reads as calm.",
+  "body": "Without a method children sweep the room, land on nobody and look more nervous than when they started.\n\nOne face, one sentence. Finish the sentence, then move. Three or four faces in rotation. It paces the talk and it reads as calm.",
   "reel_script": "HOOK (0-4s): 'Make eye contact' is not an instruction.\nBEAT (4-10s): It is like telling someone to be taller.\nBEAT (10-17s): So they sweep the room and land on nobody.\nBEAT (17-22s): The method: one face, one sentence.\nBEAT (22-31s): Finish the sentence, then move. Three or four faces, in rotation.\nBEAT (31-39s): It gives the eyes a job, so they stop searching.\nCTA (39-44s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -688,7 +688,7 @@
    "reel"
   ],
   "hook": "Good at French on paper, stuck out loud.",
-  "body": "Good at French on paper, stuck out loud.\n\nReading is recognition with time attached. Speaking is recall against a clock, choosing a verb ending live, in front of someone. A child can be strong in one and lost in the other.\n\nSpeaking practice has to be deliberate, because homework will never be it.",
+  "body": "Reading is recognition with time attached. Speaking is recall against a clock, choosing a verb ending live, in front of someone. A child can be strong in one and lost in the other.\n\nSpeaking practice has to be deliberate, because homework will never be it.",
   "reel_script": "HOOK (0-4s): Good at French on paper, stuck out loud.\nBEAT (4-11s): Reading is recognition, with time attached.\nBEAT (11-19s): Speaking is recall against a clock, with an audience.\nBEAT (19-27s): Different subjects that happen to share a vocabulary.\nBEAT (27-36s): The reading mark hides the gap until the speaking assessment.\nBEAT (36-45s): Homework is written because written can be marked in a pile.\nCTA (45-50s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -701,7 +701,7 @@
    "carousel"
   ],
   "hook": "Combined or separate sciences: what actually changes.",
-  "body": "Combined or separate sciences: what actually changes.\n\nSeparate sciences are usually more content rather than harder content, and they cost a timetable slot that has to come from somewhere. Often that somewhere is a language or a humanity your child would have enjoyed.\n\nThe decision that matters is not prestige, it is what your child wants at A Level and what your specific sixth form asks for. Entry requirements differ between schools, so the only reliable answer comes from the school itself.\n\nAsk that question directly, in Year 9, and take the answer in writing. It converts an anxious guess into a scheduling decision.",
+  "body": "Separate sciences are usually more content rather than harder content, and they cost a timetable slot that has to come from somewhere. Often that somewhere is a language or a humanity your child would have enjoyed.\n\nThe decision that matters is not prestige, it is what your child wants at A Level and what your specific sixth form asks for. Entry requirements differ between schools, so the only reliable answer comes from the school itself.\n\nAsk that question directly, in Year 9, and take the answer in writing. It converts an anxious guess into a scheduling decision.",
   "slides": [
    "Combined or separate sciences: what actually changes.",
    "Separate sciences cover more content, not harder content",
@@ -721,7 +721,7 @@
    "reel"
   ],
   "hook": "Red text is not a telling-off.",
-  "body": "Red text is not a telling-off.\n\nThe error message is the most specific piece of help available, and most beginners never read it. Eyes slide off, hands go up.\n\nOne habit fixes it: say the message out loud before touching the keyboard. Being stuck becomes a procedure instead of an emergency.",
+  "body": "The error message is the most specific piece of help available, and most beginners never read it. Eyes slide off, hands go up.\n\nOne habit fixes it: say the message out loud before touching the keyboard. Being stuck becomes a procedure instead of an emergency.",
   "reel_script": "HOOK (0-4s): Red text is not a telling-off.\nBEAT (4-11s): The instinct is to feel caught and look away.\nBEAT (11-19s): The line number goes unread. The message goes unread.\nBEAT (19-28s): But that message is the most specific help in the session.\nBEAT (28-37s): Written by the machine, free, at the exact moment it is needed.\nBEAT (37-46s): The habit: say it out loud before touching the keyboard.\nCTA (46-51s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -734,7 +734,7 @@
    "reel"
   ],
   "hook": "The marks were lost in the working, not the answer.",
-  "body": "The marks were lost in the working, not the answer.\n\nMethod marks reward a visible process. A wrong final value with three correct written steps can outscore a bare answer that happened to be right.\n\nWrite the substitution. Write the rearrangement. It costs four seconds a question.",
+  "body": "Method marks reward a visible process. A wrong final value with three correct written steps can outscore a bare answer that happened to be right.\n\nWrite the substitution. Write the rearrangement. It costs four seconds a question.",
   "reel_script": "HOOK (0-4s): The marks were lost in the working, not the answer.\nBEAT (4-10s): Examiners mark a process, not a number.\nBEAT (10-19s): Three visible correct steps can outscore a bare right answer.\nBEAT (19-27s): Students who work in their heads lose this quietly.\nBEAT (27-32s): Tidy books. Inexplicable marks.\nBEAT (32-41s): Write the substitution. Write the rearrangement. Four seconds.\nCTA (41-46s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -747,7 +747,7 @@
    "reel"
   ],
   "hook": "Same tool. One child gets weaker, one gets stronger.",
-  "body": "Same tool. One child gets weaker, one gets stronger.\n\nThe difference is the request. 'Answer this' hands over the thinking. 'Give three approaches, then compare them' keeps it, and keeps the child practising the part no tool supplies.\n\nBanning it usually just moves it somewhere unsupervised.",
+  "body": "The difference is the request. 'Answer this' hands over the thinking. 'Give three approaches, then compare them' keeps it, and keeps the child practising the part no tool supplies.\n\nBanning it usually just moves it somewhere unsupervised.",
   "reel_script": "HOOK (0-4s): Same tool. One child gets weaker, one gets stronger.\nBEAT (4-11s): The difference is the shape of the request.\nBEAT (11-17s): 'Answer this' hands over the thinking.\nBEAT (17-25s): 'Give three approaches, then compare them' keeps it.\nBEAT (25-34s): One learns the tool is smarter. One learns judgement is the product.\nBEAT (34-39s): Ask for options, not answers.\nCTA (39-44s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -760,7 +760,7 @@
    "reel"
   ],
   "hook": "A speaking assessment is not testing charisma.",
-  "body": "A speaking assessment is not testing charisma.\n\nIt tests structure: a position, two reasons, back to the position. Then whether that position survives a follow-up question, which is where most students fold.\n\nChildren who look naturally good at this are simply practised.",
+  "body": "It tests structure: a position, two reasons, back to the position. Then whether that position survives a follow-up question, which is where most students fold.\n\nChildren who look naturally good at this are simply practised.",
   "reel_script": "HOOK (0-4s): A speaking assessment is not testing charisma.\nBEAT (4-11s): Position, two reasons, back to the position.\nBEAT (11-20s): That sounds prepared even when it is invented on the spot.\nBEAT (20-27s): Then: does the position survive one follow-up?\nBEAT (27-36s): That is where most students fold and agree with the examiner.\nBEAT (36-44s): None of it is personality. All of it is a drill.\nCTA (44-49s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -773,7 +773,7 @@
    "reel"
   ],
   "hook": "More practice will not fix a misunderstanding.",
-  "body": "More practice will not fix a misunderstanding.\n\nRepetition makes a wrong method faster and harder to unlearn. A child getting the same kind of question wrong is not under-practised, she is confidently doing something that does not work.\n\nWatch one question out loud. Find the step. Then practise.",
+  "body": "Repetition makes a wrong method faster and harder to unlearn. A child getting the same kind of question wrong is not under-practised, she is confidently doing something that does not work.\n\nWatch one question out loud. Find the step. Then practise.",
   "reel_script": "HOOK (0-4s): More practice will not fix a misunderstanding.\nBEAT (4-10s): Practice makes a correct method faster.\nBEAT (10-16s): It makes an incorrect method faster too.\nBEAT (16-25s): And much harder to remove, because it has been rehearsed.\nBEAT (25-32s): Watch one question being done out loud instead.\nBEAT (32-40s): The broken step is usually visible in ninety seconds.\nCTA (40-45s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -786,7 +786,7 @@
    "reel"
   ],
   "hook": "The Sunday hour is mostly recovery.",
-  "body": "The Sunday hour is mostly recovery.\n\nLanguage memory fades daily, so a week-long gap means opening with twenty minutes of re-warming. Four ten-minute contacts keep the sound in the mouth.\n\nSame total time. Different subject by half term.",
+  "body": "Language memory fades daily, so a week-long gap means opening with twenty minutes of re-warming. Four ten-minute contacts keep the sound in the mouth.\n\nSame total time. Different subject by half term.",
   "reel_script": "HOOK (0-4s): The Sunday hour is mostly recovery.\nBEAT (4-12s): Language fades on a daily clock, not a weekly one.\nBEAT (12-19s): So twenty minutes go on ground already covered.\nBEAT (19-27s): Four short contacts keep the sound in the mouth.\nBEAT (27-36s): Pronunciation is muscular. Muscles are not maintained weekly.\nBEAT (36-45s): Ten minutes is small enough that nobody argues about it.\nCTA (45-50s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -799,7 +799,7 @@
    "reel"
   ],
   "hook": "A coding club is not a coding course.",
-  "body": "A coding club is not a coding course.\n\nA club is designed so a child who missed last week still enjoys this week. That constraint is exactly what makes progression impossible.\n\nAsk what week eight assumes that week one taught. If nothing, it is exposure, not a course.",
+  "body": "A club is designed so a child who missed last week still enjoys this week. That constraint is exactly what makes progression impossible.\n\nAsk what week eight assumes that week one taught. If nothing, it is exposure, not a course.",
   "reel_script": "HOOK (0-4s): A coding club is not a coding course.\nBEAT (4-13s): A club is exposure, and that is worth having at eleven.\nBEAT (13-22s): But a club is built so that missing a week costs nothing.\nBEAT (22-29s): Which means the difficulty can never rise.\nBEAT (29-35s): A course has an order and a next thing.\nBEAT (35-43s): Ask what week eight assumes that week one taught.\nCTA (43-48s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -812,7 +812,7 @@
    "reel"
   ],
   "hook": "The wrong prediction is the useful one.",
-  "body": "The wrong prediction is the useful one.\n\nWhen predictions get written after the results, the experiment stops being an experiment. Nothing can surprise anyone, and surprise is where the learning was.\n\nA wrong prediction honestly recorded is better work than a right one copied off the board.",
+  "body": "When predictions get written after the results, the experiment stops being an experiment. Nothing can surprise anyone, and surprise is where the learning was.\n\nA wrong prediction honestly recorded is better work than a right one copied off the board.",
   "reel_script": "HOOK (0-4s): The wrong prediction is the useful one.\nBEAT (4-11s): Students learn to write the safe prediction.\nBEAT (11-17s): Or to write it after the results arrive.\nBEAT (17-24s): At that point nothing can surprise anyone.\nBEAT (24-32s): And surprise is where the understanding was hiding.\nBEAT (32-41s): What did the model get wrong? That is the whole subject.\nCTA (41-46s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -825,7 +825,7 @@
    "reel"
   ],
   "hook": "Same grade. Completely different next year.",
-  "body": "Same grade. Completely different next year.\n\nA grade built on remembered procedures and one built on understood procedures look identical on results day. They stop looking identical the first time a question arrives in an unfamiliar shape.\n\nAsk why the method works. 'That's just how you do it' is the fragile answer.",
+  "body": "A grade built on remembered procedures and one built on understood procedures look identical on results day. They stop looking identical the first time a question arrives in an unfamiliar shape.\n\nAsk why the method works. 'That's just how you do it' is the fragile answer.",
   "reel_script": "HOOK (0-4s): Same grade. Completely different next year.\nBEAT (4-13s): A grade can be built on remembered procedures or understood ones.\nBEAT (13-20s): The paper often cannot tell the difference.\nBEAT (20-27s): Then a question arrives in an unfamiliar shape.\nBEAT (27-36s): One student adapts. One waits to be told which method this is.\nBEAT (36-45s): Ask why the method works. The answer tells you which you have.\nCTA (45-50s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -838,7 +838,7 @@
    "reel"
   ],
   "hook": "How AI actually gets used in a lesson.",
-  "body": "How AI actually gets used in a lesson.\n\nTo generate eight variations of the question that exposed the gap. To play the student a child has to teach. To produce a confident wrong answer worth arguing with.\n\nNever to produce work that gets handed in. That inverts the point.",
+  "body": "To generate eight variations of the question that exposed the gap. To play the student a child has to teach. To produce a confident wrong answer worth arguing with.\n\nNever to produce work that gets handed in. That inverts the point.",
   "reel_script": "HOOK (0-4s): How AI actually gets used in a lesson.\nBEAT (4-13s): As a supply of practice: eight versions of one question type.\nBEAT (13-19s): As a student the child has to teach.\nBEAT (19-27s): The questions it asks back expose what they missed.\nBEAT (27-35s): As an opponent, producing a confident wrong solution.\nBEAT (35-42s): Never to produce work that gets handed in.\nCTA (42-47s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -851,7 +851,7 @@
    "reel"
   ],
   "hook": "The quiet child in class is often the loudest at home.",
-  "body": "The quiet child in class is often the loudest at home.\n\nNot personality. Audience. The fluency is already there; what changed is the cost of being wrong in front of thirty peers.\n\nOne prepared sentence offered early in the lesson does more than a term of being told to speak up.",
+  "body": "Not personality. Audience. The fluency is already there; what changed is the cost of being wrong in front of thirty peers.\n\nOne prepared sentence offered early in the lesson does more than a term of being told to speak up.",
   "reel_script": "HOOK (0-4s): The quiet child in class is often the loudest at home.\nBEAT (4-11s): That is not personality. That is audience.\nBEAT (11-16s): The fluency is already there.\nBEAT (16-25s): What changed is the cost of being wrong in front of thirty peers.\nBEAT (25-32s): So do not aim for brave. Aim for rehearsed.\nBEAT (32-41s): One prepared sentence, offered early, beats a term of 'speak up'.\nCTA (41-46s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -864,7 +864,7 @@
    "reel"
   ],
   "hook": "The Year 11 problem started in Year 7.",
-  "body": "The Year 11 problem started in Year 7.\n\nFractions get marked as done and then quietly underpin ratio, probability, rates and every algebraic fraction that follows. Marks lost across several unrelated topics are often one gap, four years upstream.\n\nAsk for three-quarters divided by two-fifths tonight, with the reasoning out loud.",
+  "body": "Fractions get marked as done and then quietly underpin ratio, probability, rates and every algebraic fraction that follows. Marks lost across several unrelated topics are often one gap, four years upstream.\n\nAsk for three-quarters divided by two-fifths tonight, with the reasoning out loud.",
   "reel_script": "HOOK (0-4s): The Year 11 problem started in Year 7.\nBEAT (4-11s): Fractions arrive early and get marked as done.\nBEAT (11-20s): Then they hold up ratio, probability, rates and rearranging.\nBEAT (20-29s): The topic never leaves. It stops being called fractions.\nBEAT (29-38s): Marks lost across unrelated topics are often one gap, upstream.\nBEAT (38-43s): Nobody reteaches it after Year 8.\nCTA (43-48s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -877,7 +877,7 @@
    "reel"
   ],
   "hook": "Do not correct the accent at the dinner table.",
-  "body": "Do not correct the accent at the dinner table.\n\nA child speaking French at home is producing language with no script, in front of the audience that matters most. Interrupting to fix a vowel makes speaking riskier than silence.\n\nCorrection belongs in the lesson. Accuracy has a whole term to arrive.",
+  "body": "A child speaking French at home is producing language with no script, in front of the audience that matters most. Interrupting to fix a vowel makes speaking riskier than silence.\n\nCorrection belongs in the lesson. Accuracy has a whole term to arrive.",
   "reel_script": "HOOK (0-4s): Do not correct the accent at the dinner table.\nBEAT (4-13s): A child speaking French at home is doing the hardest thing there is.\nBEAT (13-22s): No script, in front of people whose opinion actually matters.\nBEAT (22-31s): Fix a vowel and speaking now carries a risk silence does not.\nBEAT (31-36s): So the sentence stops coming.\nBEAT (36-45s): Correction belongs in the lesson. At home, keep it coming.\nCTA (45-50s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -890,7 +890,7 @@
    "reel"
   ],
   "hook": "A ban is a position, not a policy.",
-  "body": "A ban is a position, not a policy.\n\nAsk what is allowed, what must be declared, and how assessment has changed in response. The last one matters most, because it is the only answer that costs the school something.\n\nAsk for the document. A school that has one will hand it over.",
+  "body": "Ask what is allowed, what must be declared, and how assessment has changed in response. The last one matters most, because it is the only answer that costs the school something.\n\nAsk for the document. A school that has one will hand it over.",
   "reel_script": "HOOK (0-4s): A ban is a position, not a policy.\nBEAT (4-10s): It says what the school disapproves of.\nBEAT (10-18s): Not what happens to a piece of homework on a Tuesday.\nBEAT (18-27s): A policy names what is allowed and what must be declared.\nBEAT (27-34s): And how assessment has changed in response.\nBEAT (34-43s): That last part is the only one that costs the school something.\nCTA (43-48s): Follow for the rest.",
   "source": "legacy reel"
  },
@@ -903,7 +903,7 @@
    "reel"
   ],
   "hook": "Scratch is not a toy that gets outgrown.",
-  "body": "Scratch is not a toy that gets outgrown.\n\nLoops, conditionals, variables and events are the same concepts a first computer science course teaches. Text adds syntax, and syntax is the cheap part.\n\nMove across when the blocks become the slow part, not when the calendar says so.",
+  "body": "Loops, conditionals, variables and events are the same concepts a first computer science course teaches. Text adds syntax, and syntax is the cheap part.\n\nMove across when the blocks become the slow part, not when the calendar says so.",
   "reel_script": "HOOK (0-4s): Scratch is not a toy that gets outgrown.\nBEAT (4-12s): Loops, conditionals, variables, events, sequence.\nBEAT (12-19s): Those are first-year computer science concepts.\nBEAT (19-28s): What text adds is syntax, and syntax is not the hard part.\nBEAT (28-37s): Push a child out early and they fight semicolons instead of structure.\nBEAT (37-45s): Move across when the blocks become the slow part.\nCTA (45-50s): Follow for the rest.",
   "source": "legacy reel"
  },
