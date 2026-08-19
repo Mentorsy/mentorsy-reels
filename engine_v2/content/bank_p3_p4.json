@@ -1,0 +1,342 @@
+[
+ {
+  "id": "P3-01",
+  "pillar": "P3",
+  "subject": "Mathematics",
+  "formats": [
+   "carousel"
+  ],
+  "needs_real_data": true,
+  "hook": "[STUDENT_FIRST_NAME] went from [START_MARK] to [END_MARK] in [SUBJECT]. Here is what actually changed.",
+  "body": "Not more hours. Fewer, better ones.\n\nWeek 1-2: we stopped teaching the current chapter entirely and went back to [GAP_CHAPTER].\nWeek 3-5: current chapter, but every session ended with three problems solved with the book shut.\nWeek 6-8: past papers, timed, marked by [MENTOR_NAME] in front of [STUDENT_FIRST_NAME] so the reasoning got corrected, not just the answer.\n\nThe marks moved in week six. The confidence moved in week two, and that was the part that mattered.",
+  "slides": [
+   "[START_MARK] → [END_MARK] in [SUBJECT]. Eight weeks.",
+   "Not more hours. Fewer, better ones.",
+   "WEEKS 1-2: Stopped the current chapter. Went back to [GAP_CHAPTER].",
+   "WEEKS 3-5: Current chapter. Every session ends with 3 problems, book shut.",
+   "WEEKS 6-8: Timed past papers, marked live by [MENTOR_NAME].",
+   "Marks moved in week 6.",
+   "Confidence moved in week 2.",
+   "That was the part that mattered."
+  ],
+  "idea_group": "NEW-P3-01",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P3-02",
+  "pillar": "P3",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "needs_real_data": true,
+  "hook": "What one week of 1:1 actually looks like. No highlight reel.",
+  "body": "Screenshots and notes from a real week with [STUDENT_FIRST_NAME], shared with [PARENT_NAME]'s permission.",
+  "slides": [
+   "One real week of 1:1. Not a highlight reel.",
+   "MON — Diagnostic. We found the gap was [GAP_CHAPTER], not the chapter they were failing.",
+   "WED — 40 minutes on the gap. Zero minutes on the syllabus. Parent was nervous. We held.",
+   "THU — Parent note sent: what we found, what we're doing, what to expect.",
+   "SAT — Back to the current chapter. It took 20 minutes instead of an hour.",
+   "What changed: nothing about effort. Everything about sequence.",
+   "This is what one mentor and one child can do that a batch of 40 cannot.",
+   "Shared with permission."
+  ],
+  "idea_group": "NEW-P3-02",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P3-03",
+  "pillar": "P3",
+  "subject": "Public Speaking",
+  "formats": [
+   "carousel"
+  ],
+  "needs_real_data": true,
+  "hook": "Six weeks ago [STUDENT_FIRST_NAME] wouldn't read aloud in class. This is week six.",
+  "body": "The work was not 'confidence building'. It was reps, in this order:\n\nWeek 1-2: read aloud to one person, camera off.\nWeek 3: camera on, still one person.\nWeek 4: 60 seconds, unscripted, on a topic they chose.\nWeek 5: same, but interrupted with questions.\nWeek 6: [ACHIEVEMENT — e.g. class presentation / assembly / debate round].\n\nNobody told them to be confident. They just ran out of reasons not to be.",
+  "slides": [
+   "Six weeks ago, [STUDENT_FIRST_NAME] wouldn't read aloud in class.",
+   "We didn't do 'confidence building'. We did reps, in order.",
+   "WEEK 1-2 — Read aloud to one person. Camera off.",
+   "WEEK 3 — Camera on. Still one person.",
+   "WEEK 4 — 60 seconds, unscripted, their own topic.",
+   "WEEK 5 — Same, but we interrupt with questions.",
+   "WEEK 6 — [ACHIEVEMENT].",
+   "Nobody told them to be confident. They ran out of reasons not to be."
+  ],
+  "idea_group": "NEW-P3-03",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P3-04",
+  "pillar": "P3",
+  "subject": "General",
+  "formats": [
+   "single"
+  ],
+  "hook": "The first session is not a class. It's a diagnosis.",
+  "body": "We don't start teaching in session one. We find out where the floor actually is.\n\nThat means working backwards through the chain — the chapter they're failing, the chapter under it, the skill under that — until we find the last thing they can do confidently.\n\nThat point is where teaching starts. Everyone else starts at the syllabus, which is why the same chapter gets re-taught three times and still doesn't land.",
+  "idea_group": "NEW-P3-04",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P3-05",
+  "pillar": "P3",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "Why a batch of 40 cannot do what one mentor does. Structurally.",
+  "body": "This isn't a criticism of school teachers. It's arithmetic.",
+  "slides": [
+   "Why a batch of 40 can't do what one mentor does.",
+   "This isn't about teacher quality. It's arithmetic.",
+   "A 40-minute period ÷ 40 students = 60 seconds each. If nobody else speaks.",
+   "The teacher must move at the pace of the median child. By definition, half the room is in the wrong lesson.",
+   "A child who is lost cannot say so without cost. So they don't.",
+   "The syllabus must be finished. Gaps are carried forward, not closed.",
+   "1:1 changes exactly one variable: the pace is set by YOUR child.",
+   "Everything else — the diagnosis, the confidence, the marks — follows from that one change."
+  ],
+  "idea_group": "NEW-P3-05",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P3-06",
+  "pillar": "P3",
+  "subject": "Science",
+  "formats": [
+   "carousel"
+  ],
+  "needs_real_data": true,
+  "hook": "[STUDENT_FIRST_NAME]'s Physics didn't improve until we stopped teaching Physics.",
+  "body": "Three sessions in, the pattern was obvious: every wrong answer was a correct method with broken arithmetic underneath it.\n\nSo we spent two weeks on transposition and unit conversion. No physics at all. [PARENT_NAME] was, understandably, not thrilled.\n\nWeek five, the physics started landing on the first explanation instead of the third. The subject was never the problem. The floor under it was.",
+  "slides": [
+   "[STUDENT_FIRST_NAME]'s Physics didn't improve until we stopped teaching Physics.",
+   "Session 3: every wrong answer was a correct method with broken arithmetic under it.",
+   "So we stopped. Two weeks on transposition and unit conversion.",
+   "No physics at all. [PARENT_NAME] was not thrilled.",
+   "Week 5: physics started landing on the FIRST explanation, not the third.",
+   "The subject was never the problem.",
+   "The floor under it was."
+  ],
+  "idea_group": "NEW-P3-06",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P3-07",
+  "pillar": "P3",
+  "subject": "English",
+  "formats": [
+   "single"
+  ],
+  "needs_real_data": true,
+  "hook": "Same student. Same question. Two months apart.",
+  "body": "The vocabulary barely changed. What changed is that the second answer has a point, and every sentence in it is doing a job for that point.\n\nThat's what gets marked. Not the words — the architecture. And it is teachable in about eight weeks, which is why English is usually the fastest subject to move.\n\nShared with [PARENT_NAME]'s permission.",
+  "idea_group": "NEW-P3-07",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P4-01",
+  "pillar": "P4",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "BOARDS",
+  "hook": "CBSE vs ICSE vs IGCSE, decided in one page instead of forty WhatsApp forwards.",
+  "body": "There is no best board. There is a board that fits the child you actually have, and the country they are likely to study in.",
+  "slides": [
+   "CBSE vs ICSE vs IGCSE. One page. No WhatsApp forwards.",
+   "There is no best board. There is a fit.",
+   "CBSE — Tighter syllabus, strong maths/science spine, aligned to JEE and NEET. Best if the child is India-bound and competitive-exam bound.",
+   "ICSE — Broader, heavier on English and internal assessment. Best for strong readers and writers, and children who like depth over speed.",
+   "IGCSE — Modular, application-led, internationally portable. Best if there's a chance of moving countries, or the child learns by doing.",
+   "The real question isn't which is hardest.",
+   "It's: which one matches how your child already learns?",
+   "Comment BOARDS — I'll send the one-page comparison."
+  ],
+  "idea_group": "NEW-P4-01",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P4-02",
+  "pillar": "P4",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "IB",
+  "hook": "MYP to DP is the hardest jump in the IB, and almost nobody prepares for it.",
+  "body": "MYP rewards process, reflection and criteria. DP rewards content mastery under time pressure. A child fluent in one can be genuinely lost in the other for a whole term.",
+  "slides": [
+   "MYP → DP is the hardest jump in the IB.",
+   "Almost nobody prepares for it. Here's why it hurts.",
+   "MYP marks you on criteria A-D. Process, inquiry, reflection.",
+   "DP marks you on content mastery, under time pressure, against a global cohort.",
+   "A child fluent in one can be lost in the other for an entire term.",
+   "THE THREE GAPS: 1) Volume of content per week roughly doubles.",
+   "2) Internal Assessment demands independent research design, not guided inquiry.",
+   "3) Maths AA vs AI is chosen at 16 and quietly decides which degrees stay open.",
+   "Start the bridge in MYP 5. Not in DP1 September.",
+   "Comment IB — I'll send the transition guide."
+  ],
+  "idea_group": "NEW-P4-02",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P4-03",
+  "pillar": "P4",
+  "subject": "Mathematics",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "IB",
+  "hook": "Maths AA or AI? The choice your 16-year-old makes in ten minutes and lives with for four years.",
+  "body": "AA is analysis and proof. AI is application and modelling. Neither is easier — they're different subjects wearing the same name.\n\nThe filter that actually matters is the degree, because engineering and most economics courses want AA HL, and a wrong turn here closes doors quietly, two years before anyone notices.",
+  "slides": [
+   "Maths AA or AI?",
+   "Chosen in ten minutes at sixteen. Lived with for four years.",
+   "AA — Analysis & Approaches. Proof, calculus, algebraic rigour.",
+   "AI — Applications & Interpretation. Modelling, statistics, real-world data.",
+   "Neither is easier. They are different subjects with the same name.",
+   "THE FILTER THAT MATTERS: what does the degree require?",
+   "Engineering, most Economics, many Physics courses → AA HL.",
+   "A wrong turn closes doors quietly, two years before anyone notices.",
+   "Comment IB — I'll send the transition guide."
+  ],
+  "idea_group": "NEW-P4-03",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P4-04",
+  "pillar": "P4",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "Internal assessment is not homework, and treating it like homework costs a grade.",
+  "body": "In IGCSE and IB, coursework and IAs carry a fixed share of the final grade and are marked against published criteria that the student is allowed to read.\n\nMost students never read them. They write what they think is good, then get marked against what the criteria actually asked for.\n\nOne evening with the rubric, before the first draft, is worth more than three redrafts after.",
+  "slides": [
+   "Internal Assessment is not homework.",
+   "Treating it like homework costs a full grade.",
+   "It carries a FIXED share of the final grade.",
+   "It is marked against PUBLISHED criteria.",
+   "Criteria the student is allowed to read. In advance.",
+   "Almost nobody reads them.",
+   "So they write what they think is good — and get marked on what was asked.",
+   "One evening with the rubric before the first draft > three redrafts after."
+  ],
+  "idea_group": "NEW-P4-04",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P4-05",
+  "pillar": "P4",
+  "subject": "Science",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "BOARDS",
+  "hook": "The CBSE Grade 10 Science paper rewards a specific kind of answer. Most students don't write it.",
+  "body": "Marks are awarded per point, not per paragraph. A beautiful three-line explanation that contains one marking point scores one mark. Three ugly bullet points containing three marking points score three.",
+  "slides": [
+   "The CBSE Grade 10 Science paper rewards one specific kind of answer.",
+   "Most students don't write it.",
+   "Marks are awarded PER POINT. Not per paragraph.",
+   "A beautiful 3-line explanation with 1 marking point = 1 mark.",
+   "Three ugly bullets with 3 marking points = 3 marks.",
+   "So: count the marks. Write that many distinct points.",
+   "5-mark question? Five points. Labelled diagram counts as one of them.",
+   "This isn't gaming the exam. It's reading the instructions.",
+   "Comment BOARDS for the answer-structure sheet."
+  ],
+  "idea_group": "NEW-P4-05",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P4-06",
+  "pillar": "P4",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Grade 9 is not a light year. It is the year the next three are decided.",
+  "body": "Nothing about Grade 9 is examined externally, which is exactly why it gets treated as a buffer.\n\nBut Grade 10 assumes Grade 9 completely, and Grade 11 assumes Grade 10 completely. A gap opened here is compounding by the time anyone measures it.\n\nThe cheapest year to fix a child's maths is the year nobody is worried about it.",
+  "reel_script": "HOOK (0-5s): 'Grade 9 isn't a light year. It's the year the next three get decided.'\nBODY (5-20s): 'Nothing in Grade 9 is externally examined. Which is exactly why everyone treats it as a buffer year.'\nSTAKES (20-38s): 'But Grade 10 assumes Grade 9 completely. Grade 11 assumes Grade 10. A gap opened here is compounding before anyone measures it.'\nCLOSE (38-50s): 'The cheapest year to fix a child's maths is the year nobody is worried about it.'",
+  "idea_group": "NEW-P4-06",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P4-07",
+  "pillar": "P4",
+  "subject": "English",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "How an English examiner actually reads your child's answer.",
+  "body": "Not word by word. In about ninety seconds, looking for specific evidence against a band descriptor.",
+  "slides": [
+   "How an English examiner actually reads your child's answer.",
+   "Not word by word. In roughly 90 seconds.",
+   "They are hunting for evidence against a band descriptor.",
+   "FIRST — Is there a clear position in the opening lines? (Band decided, roughly, here.)",
+   "SECOND — Is each paragraph doing one job for that position?",
+   "THIRD — Is there textual evidence, or just assertion?",
+   "FOURTH — Does the vocabulary serve the point, or decorate it?",
+   "Which is why 'write more' is bad advice.",
+   "'Write with a position, and prove it' is the whole subject."
+  ],
+  "idea_group": "NEW-P4-07",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P4-08",
+  "pillar": "P4",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "EXAM",
+  "hook": "Three weeks to the board exam. Here is what actually moves marks now.",
+  "body": "At three weeks out, learning new chapters has a poor return. Three things don't:\n\nPast papers under real time pressure, because most lost marks are pacing, not knowledge.\nThe error log — every mistake from the last month, re-attempted, no new questions.\nOne full sleep schedule, held, because a tired brain loses more marks than a weak chapter.",
+  "slides": [
+   "Three weeks to the board exam.",
+   "Stop learning new chapters. The return is terrible now.",
+   "DO THIS INSTEAD —",
+   "1. Past papers. Real clock. Most lost marks are pacing, not knowledge.",
+   "2. The error log. Every mistake from the last month, re-attempted.",
+   "3. No new questions. None. Only the ones you got wrong.",
+   "4. A sleep schedule you actually hold.",
+   "A tired brain loses more marks than a weak chapter.",
+   "Comment EXAM — I'll send the 3-week plan."
+  ],
+  "idea_group": "NEW-P4-08",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P4-09",
+  "pillar": "P4",
+  "subject": "French",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "FRENCH",
+  "hook": "What DELF A2 actually asks a 14-year-old to do.",
+  "body": "Parents hear 'French exam' and picture vocabulary lists. The exam is four skills, and the one that sinks students is the one nobody practises.",
+  "slides": [
+   "What DELF A2 actually asks a 14-year-old to do.",
+   "Four papers. Equal weight. Most people prepare for one.",
+   "LISTENING — short everyday recordings, played twice, real speed.",
+   "READING — signs, emails, short articles. Skimming, not translating.",
+   "WRITING — two short texts. A message, and a simple account of an event.",
+   "SPEAKING — guided conversation, then a role-play with an examiner.",
+   "The one that sinks students: SPEAKING. Because nobody practises it out loud.",
+   "Vocabulary lists don't pass DELF. Twenty minutes of talking a week does.",
+   "Comment FRENCH for the A1-A2 vocabulary pack."
+  ],
+  "idea_group": "NEW-P4-09",
+  "source": "authored 2026-08"
+ }
+]

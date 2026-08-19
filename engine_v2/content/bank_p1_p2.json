@@ -1,0 +1,345 @@
+[
+ {
+  "id": "P1-01",
+  "pillar": "P1",
+  "subject": "Mathematics",
+  "formats": [
+   "single"
+  ],
+  "keyword": "MATHS",
+  "hook": "Your child is not weak at Maths. They missed one chapter in Grade 6.",
+  "body": "Almost every Grade 9 algebra collapse traces back to one thing: fractions were never made automatic in Grade 6.\n\nThe child can do the new chapter. They just can't do the arithmetic underneath it fast enough, so the working memory runs out halfway through the sum and the answer comes out wrong.\n\nThe fix is not more Grade 9 practice. It is ten minutes a day on the Grade 6 gap, for about three weeks. Then Grade 9 stops feeling impossible.\n\nAsk your child to simplify 3/4 + 2/5 without a pen. If they hesitate, you've found it.",
+  "idea_group": "NEW-P1-01",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P1-02",
+  "pillar": "P1",
+  "subject": "Science",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "EXAM",
+  "hook": "78 in Science, but she can't explain photosynthesis at the dinner table.",
+  "body": "That gap has a name. It's called inert knowledge — facts that can be retrieved for a test and nowhere else.\n\nIt happens when a child learns to recognise questions instead of understanding ideas. The exam rewards it. Life doesn't.\n\nThe test for it is embarrassingly simple: ask them to explain the chapter to you like you're eight years old. If they can only recite, the marks are borrowed.\n\nOne question at dinner, twice a week. That's the whole intervention.",
+  "slides": [
+   "78 in Science.",
+   "Can't explain it at dinner.",
+   "This has a name: inert knowledge.",
+   "Facts that work in an exam and nowhere else.",
+   "It happens when a child learns to RECOGNISE questions, not understand ideas.",
+   "The test: 'Explain today's chapter like I'm eight.'",
+   "If they can only recite — the marks are borrowed.",
+   "Two dinner questions a week. That's the whole fix."
+  ],
+  "idea_group": "NEW-P1-02",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P1-03",
+  "pillar": "P1",
+  "subject": "English",
+  "formats": [
+   "single"
+  ],
+  "hook": "He reads fluently. He still scores 11 out of 20 in comprehension.",
+  "body": "Fluency and comprehension are two different skills, and Indian schooling tends to test the first while grading the second.\n\nA child can decode every word on the page and still not hold the paragraph in their head long enough to answer a question about it.\n\nWhat helps: after each paragraph, one sentence out loud — 'so what just happened?' It is slow for a week. Then it becomes silent, and automatic, and the comprehension marks move.",
+  "idea_group": "NEW-P1-03",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P1-04",
+  "pillar": "P1",
+  "subject": "Mathematics",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "MATHS",
+  "hook": "The five silent gaps that show up as 'careless mistakes'.",
+  "body": "No child is careless forty times in one paper. What looks like carelessness is almost always an automaticity gap — a step that should be free is costing effort.\n\nHere are the five that account for most of it, in the order they usually appear.",
+  "slides": [
+   "'Careless mistakes' is a diagnosis nobody checks.",
+   "No child is careless 40 times in one paper.",
+   "GAP 1 — Times tables past 7. Every long sum leaks time here.",
+   "GAP 2 — Negative signs. Not the concept. The speed.",
+   "GAP 3 — Fractions to decimals, both directions, no pen.",
+   "GAP 4 — Transposing terms across the equals sign.",
+   "GAP 5 — Reading the question twice. Genuinely. Twice.",
+   "Fix the automaticity and the 'carelessness' disappears.",
+   "Comment MATHS — I'll send the full Grade 9 checklist."
+  ],
+  "idea_group": "NEW-P1-04",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P1-05",
+  "pillar": "P1",
+  "subject": "General",
+  "formats": [
+   "single"
+  ],
+  "hook": "Your child studied for six hours and remembers nothing. Here's why.",
+  "body": "Six hours of re-reading is not six hours of studying. Re-reading creates a feeling of familiarity that the brain misreads as knowing.\n\nThe switch is to close the book and write down what you remember, badly, from memory. It feels worse. It works about three times better.\n\nThirty minutes of recall beats three hours of highlighting. Every study on this says the same thing, and every child resists it, because it's uncomfortable — which is exactly the point.",
+  "idea_group": "NEW-P1-05",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P1-06",
+  "pillar": "P1",
+  "subject": "Mathematics",
+  "formats": [
+   "single"
+  ],
+  "hook": "'I understood it in class' is the most expensive sentence in your house.",
+  "body": "Understanding in class is recognition. Solving alone is retrieval. They live in different parts of the brain and only one of them is examined.\n\nThe gap between the two is where most of a school year quietly disappears.\n\nSo change the question. Not 'did you understand?' — ask 'can you do one, right now, without looking?'",
+  "idea_group": "NEW-P1-06",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P1-07",
+  "pillar": "P1",
+  "subject": "Science",
+  "formats": [
+   "single"
+  ],
+  "hook": "Grade 8 Science is where most kids quietly decide they're 'not a science person'.",
+  "body": "It's the year the subject stops being stories about the world and starts being formulae, units and numerical problems.\n\nChildren who were curious at 12 become avoidant at 13, and everyone calls it 'losing interest'. It isn't. It's the arithmetic underneath physics arriving before anyone checked whether the arithmetic was ready.\n\nCatch it in Grade 8 and it's a six-week fix. Catch it in Grade 11 and it's a different conversation entirely.",
+  "idea_group": "NEW-P1-07",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P1-08",
+  "pillar": "P1",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "EXAM",
+  "hook": "Seven things a report card cannot tell you.",
+  "body": "A report card is a summary of outcomes. It contains almost no information about causes — which is the only thing a parent can actually act on.",
+  "slides": [
+   "Seven things a report card cannot tell you.",
+   "1. Whether 62 was a ceiling or a bad week.",
+   "2. Whether they understood it or memorised the pattern.",
+   "3. Which chapter the gap actually started in.",
+   "4. Whether they asked for help and were rushed past.",
+   "5. Whether they can do it alone, or only with the class.",
+   "6. How much of the mark was handwriting and presentation.",
+   "7. Whether they still believe they can get better.",
+   "A report card gives you outcomes. You need causes.",
+   "Comment EXAM — I'll send the diagnostic questions to ask."
+  ],
+  "idea_group": "NEW-P1-08",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P1-09",
+  "pillar": "P1",
+  "subject": "Public Speaking",
+  "formats": [
+   "single"
+  ],
+  "keyword": "SPEAK",
+  "hook": "She knows the answer. She won't raise her hand. That's not shyness.",
+  "body": "By Grade 6, most classroom silence is not personality. It is a risk calculation: the cost of being wrong in front of thirty people is higher than the reward of being right.\n\nThe child is being rational. The environment is the problem.\n\nWhat changes it is low-stakes reps — speaking to one person, then three, then the room. Confidence is not a trait you're born with. It's a rep count.",
+  "idea_group": "NEW-P1-09",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P1-10",
+  "pillar": "P1",
+  "subject": "General",
+  "formats": [
+   "single"
+  ],
+  "hook": "Stop asking 'how was school'. Ask this instead.",
+  "body": "'How was school' gets you 'fine' for eleven years. It's a closed question wearing an open question's clothes.\n\nThree that actually work: What did you get stuck on today? Who did you help? What did the teacher say that you didn't agree with?\n\nThe third one is the good one. It tells you whether your child is still thinking, or just receiving.",
+  "idea_group": "NEW-P1-10",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P2-01",
+  "pillar": "P2",
+  "subject": "Mathematics",
+  "formats": [
+   "reel"
+  ],
+  "hook": "The 11 times table trick nobody teaches, and it works up to 99.",
+  "body": "Take any two-digit number. Split the digits. Add them. Put the sum in the middle.\n\n32 × 11 → 3_2, 3+2=5 → 352.\n45 × 11 → 4_5, 4+5=9 → 495.\n\nIf the middle sum crosses 9, carry it left. 87 × 11 → 8_7, 8+7=15 → carry the 1 → 957.\n\nTeach it once. Your child will show it to everyone for a week, and that is exactly how a child decides Maths is interesting.",
+  "reel_script": "HOOK (0-3s): '32 times 11. Three seconds. Watch.'\nDEMO (3-15s): Write 3 _ 2. 'Split the digits. Add them. Three plus two is five. Put it in the middle. 352.'\nSECOND (15-24s): '45 times 11. Four, nine, five. 495.'\nEDGE CASE (24-38s): '87? 8 plus 7 is 15. Carry the one. 957.'\nCTA (38-44s): 'Show your kid tonight. They'll show everyone at school tomorrow.'",
+  "idea_group": "NEW-P2-01",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P2-02",
+  "pillar": "P2",
+  "subject": "English",
+  "formats": [
+   "reel"
+  ],
+  "hook": "'Its' and 'it's' — the rule that finally makes it stick.",
+  "body": "Forget everything about possession. Use one test.\n\nSay the sentence with 'it is'. If it survives, you need the apostrophe. If it collapses, you don't.\n\n'Its raining' → 'it is raining' → survives → it's raining.\n'The dog wagged it's tail' → 'the dog wagged it is tail' → collapses → its tail.\n\nOne test. No grammar vocabulary. Works forever.",
+  "reel_script": "HOOK (0-3s): 'Its versus it apostrophe s. One test. Forever.'\nRULE (3-12s): 'Say the sentence with IT IS. If it survives, apostrophe. If it collapses, no apostrophe.'\nDEMO 1 (12-22s): On screen: Its raining → it is raining → survives → IT'S.\nDEMO 2 (22-34s): The dog wagged it's tail → the dog wagged IT IS tail → collapses → ITS.\nCTA (34-40s): 'Save it. You'll use it in an email this week.'",
+  "idea_group": "NEW-P2-02",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P2-03",
+  "pillar": "P2",
+  "subject": "Science",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Why the sky is blue — explained so a nine-year-old actually gets it.",
+  "body": "Sunlight is all colours mixed. When it hits the air, the tiny molecules bounce the short, jumpy wavelengths around far more than the long, lazy ones.\n\nBlue is short and jumpy. So blue gets scattered across the whole sky, and you see it coming from everywhere at once.\n\nAt sunset the light travels through much more air, the blue is scattered away entirely before it reaches you, and the long lazy reds are all that survive the trip.\n\nSame physics. Two different skies.",
+  "reel_script": "HOOK (0-4s): 'Why is the sky blue? Not the textbook answer. The one a nine-year-old keeps.'\nBODY (4-20s): Torch through a glass of milky water. 'Sunlight is all colours mixed. Air molecules bounce the short jumpy waves much more than the long lazy ones.'\nPAYOFF (20-32s): 'Blue is short and jumpy. It gets thrown everywhere. So the sky is blue from every direction at once.'\nTWIST (32-44s): Tilt the torch through more water. 'At sunset the light travels through way more air. The blue is scattered away before it reaches you. Only the lazy reds survive.'\nCTA (44-48s): 'Same physics. Two skies. Save this one.'",
+  "idea_group": "NEW-P2-03",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P2-04",
+  "pillar": "P2",
+  "subject": "Mathematics",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Percentages in your head, in one line: x% of y = y% of x.",
+  "body": "They are the same number. Always.\n\n4% of 75 looks awful. Flip it: 75% of 4 = 3. Done.\n18% of 50? Flip it: 50% of 18 = 9.\n16% of 25? Flip it: 25% of 16 = 4.\n\nThe rule is one multiplication written in a different order, which is why it's true — and why nobody thinks to use it.",
+  "reel_script": "HOOK (0-4s): 'What is 4% of 75? Don't reach for the calculator.'\nRULE (4-12s): 'x percent of y equals y percent of x. Always. Same number.'\nDEMO (12-28s): 'So flip it. 75% of 4. That's 3. Done.' On screen: 18% of 50 → 50% of 18 → 9. And: 16% of 25 → 25% of 16 → 4.\nWHY (28-38s): 'It works because it's the same multiplication, written in a different order.'\nCTA (38-44s): 'Bookmark it. You'll use it on a restaurant bill.'",
+  "idea_group": "NEW-P2-04",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P2-05",
+  "pillar": "P2",
+  "subject": "French",
+  "formats": [
+   "reel"
+  ],
+  "keyword": "FRENCH",
+  "hook": "The French gender rule that covers about 80% of nouns.",
+  "body": "Nobody memorises 20,000 genders. They learn endings.\n\nMasculine endings: -age, -ment, -eau, -isme, -oir. Le fromage, le moment, le bateau.\nFeminine endings: -tion, -sion, -té, -ette, -ance, -ence. La nation, la beauté, la chance.\n\nThat covers most of what a Grade 6-10 student will meet. The exceptions get learned as exceptions, which is a much shorter list than the whole language.",
+  "reel_script": "HOOK (0-4s): 'Stop memorising French genders one word at a time.'\nBODY (4-10s): 'Learn the endings instead. Eighty percent of nouns follow them.'\nLIST 1 (10-24s): On screen: -age, -ment, -eau, -isme, -oir → LE. Say: 'le fromage, le moment, le bateau.'\nLIST 2 (24-38s): -tion, -sion, -té, -ette, -ance, -ence → LA. Say: 'la nation, la beauté, la chance.'\nCTA (38-46s): 'Comment FRENCH — I'll send the full vocabulary pack.'",
+  "idea_group": "NEW-P2-05",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P2-06",
+  "pillar": "P2",
+  "subject": "Coding",
+  "formats": [
+   "reel"
+  ],
+  "keyword": "CODE",
+  "hook": "Teach a 10-year-old what a loop is, using a toothbrush.",
+  "body": "'Brush your teeth' is not one instruction. It's: move the brush, repeat 200 times, stop when the timer ends.\n\nThat's a loop. A thing you do, a number of times, until a condition is met.\n\nEvery child already runs dozens of loops a day. Coding just gives them the notation. Start there and 'programming' stops sounding like a foreign country.",
+  "reel_script": "HOOK (0-4s): 'You can teach a ten-year-old what a loop is with a toothbrush.'\nBODY (4-18s): Hold up toothbrush. 'Brush your teeth isn't one instruction. It's: move the brush. Repeat. Stop when the timer ends.'\nNAME IT (18-30s): 'That's a loop. A thing you do, a number of times, until a condition is met. Write it on paper — they'll get it instantly.'\nPAYOFF (30-40s): 'Kids already run dozens of loops a day. Coding just gives them the notation.'\nCTA (40-46s): 'Comment CODE for the parent primer.'",
+  "idea_group": "NEW-P2-06",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P2-07",
+  "pillar": "P2",
+  "subject": "English",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Three words that make any school essay sound older than it is.",
+  "body": "However. Therefore. Nevertheless.\n\nNot because they're fancy — because each one forces a relationship between two ideas. A child who writes 'therefore' has to prove a consequence. A child who writes 'however' has to hold a contrast.\n\nThe vocabulary is the smallest part. The thinking is the point. Examiners are marking the joint between the sentences, not the sentences.",
+  "reel_script": "HOOK (0-4s): 'Three words that make a school essay sound two years older.'\nREVEAL (4-12s): On screen, one by one: However. Therefore. Nevertheless.\nWHY (12-28s): 'Not because they're fancy. Because each one forces a relationship. Write therefore and you have to prove a consequence. Write however and you have to hold a contrast.'\nPAYOFF (28-38s): 'The examiner is marking the joint between your sentences. Not the sentences.'\nCTA (38-44s): 'Save this before the next essay.'",
+  "idea_group": "NEW-P2-07",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P2-08",
+  "pillar": "P2",
+  "subject": "Mathematics",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Why a negative times a negative is positive — without saying 'it's a rule'.",
+  "body": "Watch the pattern and let it finish itself.\n\n3 × 2 = 6. 3 × 1 = 3. 3 × 0 = 0. 3 × (-1) = -3. Each step down the second number drops the answer by 3.\n\nNow do it with -3. -3 × 2 = -6. -3 × 1 = -3. -3 × 0 = 0. Each step down raises the answer by 3. So -3 × (-1) must be +3.\n\nNothing was memorised. The pattern had no choice.",
+  "reel_script": "HOOK (0-4s): 'Negative times negative is positive. Not because it's a rule. Watch.'\nPATTERN 1 (4-18s): Write on board, calling it out: 3×2=6, 3×1=3, 3×0=0, 3×(-1)=-3. 'Every step down drops the answer by three.'\nPATTERN 2 (18-34s): -3×2=-6, -3×1=-3, -3×0=0. 'Now every step down RAISES it by three. So the next one has to be...' Write +3.\nPAYOFF (34-42s): 'Nothing memorised. The pattern had no choice.'\nCTA (42-46s): 'Show this to a kid who says maths makes no sense.'",
+  "idea_group": "NEW-P2-08",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P2-09",
+  "pillar": "P2",
+  "subject": "Public Speaking",
+  "formats": [
+   "reel"
+  ],
+  "keyword": "SPEAK",
+  "hook": "The pause is the technique. Everything else is decoration.",
+  "body": "Children speak fast when they're nervous because speed shortens the exposure. It also destroys everything they meant to say.\n\nOne drill: after every full stop, count one in your head before the next sentence. Silently. That's it.\n\nIt feels enormous to the speaker and completely normal to the room. Every good speaker your child has ever heard is doing this, and none of them mention it.",
+  "reel_script": "HOOK (0-4s): 'The pause is the technique.' Pause a full beat. 'Everything else is decoration.'\nWHY (4-16s): 'Kids speak fast when they're nervous because speed shortens the exposure. It also destroys the content.'\nDRILL (16-30s): 'One drill. After every full stop — count one. Silently. Then the next sentence.'\nREASSURE (30-40s): 'It feels enormous to them. It sounds completely normal to the room.'\nCTA (40-46s): 'Comment SPEAK for the full drill sheet.'",
+  "idea_group": "NEW-P2-09",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P2-10",
+  "pillar": "P2",
+  "subject": "Science",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Balance any chemical equation with one rule: leave hydrogen and oxygen for last.",
+  "body": "Most students balance left to right and end up going in circles.\n\nOrder matters. Do the metals first. Then the non-metals that aren't H or O. Then hydrogen. Then oxygen, last, because oxygen appears in the most places and adjusts most easily.\n\nSame equation, same chemistry, a third of the time. This one sequencing habit is worth several marks a paper.",
+  "reel_script": "HOOK (0-4s): 'Balancing equations takes forever because you're doing it in the wrong order.'\nRULE (4-14s): On screen: 1 Metals → 2 Other non-metals → 3 Hydrogen → 4 Oxygen LAST.\nWHY (14-26s): 'Oxygen appears in the most places, so it adjusts most easily. Do it last and it falls into place instead of fighting you.'\nDEMO (26-40s): Balance one combustion equation live using the order.\nCTA (40-46s): 'Save this before your next chemistry test.'",
+  "idea_group": "NEW-P2-10",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P2-11",
+  "pillar": "P2",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Study 25 minutes, break 5. Not because it's trendy — because of what the break does.",
+  "body": "The break isn't rest. It's when the brain files what just happened.\n\nWhich is why the break has to be boring. Walking, water, staring out of a window. A five-minute scroll fills the exact space the filing needed and the session evaporates.\n\nSame 25 minutes of work. Completely different retention. The phone is the variable, not the timer.",
+  "reel_script": "HOOK (0-4s): '25 minutes on, 5 off. Everyone knows this. Almost everyone does it wrong.'\nINSIGHT (4-16s): 'The break isn't rest. It's when the brain files what just happened.'\nRULE (16-30s): 'Which is why the break has to be BORING. Walk. Water. Window. Not a scroll.'\nPAYOFF (30-40s): 'Five minutes of feed fills the exact space the filing needed. Same work, no retention.'\nCTA (40-46s): 'Send this to a teenager who studies with their phone face-up.'",
+  "idea_group": "NEW-P2-11",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P2-12",
+  "pillar": "P2",
+  "subject": "Mathematics",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Squaring any number ending in 5, in two seconds.",
+  "body": "Take the digits before the 5. Multiply by the next number up. Stick 25 on the end.\n\n35² → 3 × 4 = 12 → 1225.\n65² → 6 × 7 = 42 → 4225.\n95² → 9 × 10 = 90 → 9025.\n125² → 12 × 13 = 156 → 15625.\n\nIt works for every single one, and the algebra behind it is one line of expansion — which makes it a nice bridge into why identities are useful at all.",
+  "reel_script": "HOOK (0-3s): '65 squared. Two seconds. Go.'\nRULE (3-12s): 'Digits before the five. Times the next number up. Then stick 25 on the end.'\nDEMO (12-30s): '6 times 7 is 42. So 4225.' Then: 35² → 3×4=12 → 1225. 95² → 9×10=90 → 9025.\nBIG ONE (30-40s): '125 squared? 12 times 13 is 156. 15,625.'\nCTA (40-46s): 'Save it. Teach it. Watch a kid decide maths is a magic trick.'",
+  "idea_group": "NEW-P2-12",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P2-13",
+  "pillar": "P2",
+  "subject": "English",
+  "formats": [
+   "reel"
+  ],
+  "hook": "The one-sentence rule that fixes 90% of school paragraphs.",
+  "body": "Every paragraph makes one point. If you can't say the point in one sentence, it's two paragraphs.\n\nThat's it. That's the whole rule, and it's the difference between an answer that reads like thinking and one that reads like a bucket.\n\nHave your child underline the point sentence in each paragraph of their last essay. Where they can't find one, the marks went missing.",
+  "reel_script": "HOOK (0-4s): 'One rule fixes ninety percent of school paragraphs.'\nRULE (4-12s): 'Every paragraph makes ONE point. If you can't say the point in one sentence — it's two paragraphs.'\nDEMO (12-28s): Show a bloated paragraph on screen. Split it. 'Same words. Now it reads like thinking instead of a bucket.'\nHOMEWORK (28-40s): 'Take their last essay. Underline the point sentence in each paragraph. Where there isn't one — that's where the marks went.'\nCTA (40-44s): 'Save this for the next assignment.'",
+  "idea_group": "NEW-P2-13",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P2-14",
+  "pillar": "P2",
+  "subject": "Science",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Weight is not mass, and this is the sentence that finally separates them.",
+  "body": "Mass is how much of you there is. Weight is how hard the planet is pulling on it.\n\nOn the Moon your child's mass is identical and their weight is one-sixth. Nothing about them changed. The planet did.\n\nThis is why the unit for mass is kg and the unit for weight is newtons — and why a numerical that mixes them up is the single most common lost mark in Grade 9 physics.",
+  "reel_script": "HOOK (0-4s): 'Weight and mass are not the same thing, and one sentence separates them forever.'\nSENTENCE (4-14s): 'Mass is how much of you there is. Weight is how hard the planet is pulling on it.'\nDEMO (14-28s): 'On the Moon your mass is identical. Your weight is one-sixth. Nothing about YOU changed. The planet did.'\nEXAM (28-40s): 'Which is why mass is kilograms and weight is newtons — and mixing them is the most common lost mark in Grade 9 physics.'\nCTA (40-46s): 'Save it before the next physics test.'",
+  "idea_group": "NEW-P2-14",
+  "source": "authored 2026-08"
+ }
+]

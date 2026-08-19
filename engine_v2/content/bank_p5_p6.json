@@ -1,0 +1,146 @@
+[
+ {
+  "id": "P5-01",
+  "pillar": "P5",
+  "subject": "General",
+  "formats": [
+   "single"
+  ],
+  "hook": "Before a mentor teaches your child, they teach us. Badly, on purpose.",
+  "body": "Every Mentorsy mentor does a live demo before they're approved. We don't ask them to teach the topic well — we ask them to teach it to someone who is stuck.\n\nBecause explaining a concept and rescuing a confused child are two completely different skills, and only one of them is what you're paying for.\n\nSubject knowledge is the entry ticket. Diagnosis is the job.",
+  "idea_group": "NEW-P5-01",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P5-02",
+  "pillar": "P5",
+  "subject": "General",
+  "formats": [
+   "single"
+  ],
+  "needs_real_data": true,
+  "hook": "Meet [MENTOR_NAME], who teaches [SUBJECT] to Grades [RANGE].",
+  "body": "[MENTOR_NAME] has [N] years with [CURRICULUM] and a specific opinion about how [SUBJECT] should be taught: [ONE-LINE PHILOSOPHY].\n\nThe part parents notice first: [SPECIFIC HABIT — e.g. sends a three-line note after every session saying what was covered and what to watch].\n\nIf your child is in Grades [RANGE] and stuck on [TOPIC], this is who they'd meet in the trial class.",
+  "idea_group": "NEW-P5-02",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P5-03",
+  "pillar": "P5",
+  "subject": "General",
+  "formats": [
+   "single"
+  ],
+  "hook": "We turn away more tutors than we accept, and it's usually for the same reason.",
+  "body": "They answer the question.\n\nA child asks 'how do I do number 7' and a good tutor says 'show me what you tried'. A weak one solves number 7, the child writes it down, and neither of them learns anything about number 8.\n\nAnswering feels like teaching. It's the opposite of it. That's the single biggest filter in our process.",
+  "idea_group": "NEW-P5-03",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P5-04",
+  "pillar": "P5",
+  "subject": "General",
+  "formats": [
+   "single"
+  ],
+  "hook": "The three-line note that goes to a parent after every single session.",
+  "body": "What we covered. What clicked. What to watch this week.\n\nThat's it. No dashboards, no percentage bars, nothing you need to log in for.\n\nBecause the thing parents actually want isn't analytics. It's to know whether the hour worked, in language they can act on before dinner.",
+  "idea_group": "NEW-P5-04",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P5-05",
+  "pillar": "P5",
+  "subject": "General",
+  "formats": [
+   "single"
+  ],
+  "hook": "If the mentor isn't right for your child, that is our mistake to fix, not yours to tolerate.",
+  "body": "Fit is not a soft variable. A brilliant mentor who moves too fast for a particular child is the wrong mentor for that child, and no amount of hours fixes it.\n\nSo: tell us in week one. We change the mentor, not the child. It costs you nothing and it's a normal part of the process, not a complaint.\n\nMost families never need it. The ones who do shouldn't have to ask twice.",
+  "idea_group": "NEW-P5-05",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P6-01",
+  "pillar": "P6",
+  "subject": "General",
+  "formats": [
+   "single"
+  ],
+  "keyword": "TRIAL",
+  "hook": "One free class. 55 minutes. 1:1. No card, no commitment.",
+  "body": "Here's exactly what happens.\n\nYou tell us the subject and where your child is stuck. We match a mentor and send a time. The class runs for 55 minutes, live, one-to-one — and it's a real class, not a sales call.\n\nSame day, you get a written plan: what we found, what we'd do, how long it would take. You decide after that, with something concrete in front of you.",
+  "idea_group": "NEW-P6-01",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P6-02",
+  "pillar": "P6",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "TRIAL",
+  "hook": "Everything we'd need from you to start. It's shorter than you think.",
+  "body": "No assessments, no forms, no onboarding call. Five answers.",
+  "slides": [
+   "Everything we need to start.",
+   "It's shorter than you think.",
+   "1. Your child's grade and board.",
+   "2. The subject.",
+   "3. Where they're stuck — 'trigonometry' is enough.",
+   "4. A WhatsApp number.",
+   "5. Two times in the week that would work.",
+   "That's it. No assessment, no onboarding call, no forms.",
+   "Free 55-minute trial class. Link in bio."
+  ],
+  "idea_group": "NEW-P6-02",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P6-03",
+  "pillar": "P6",
+  "subject": "General",
+  "formats": [
+   "single"
+  ],
+  "hook": "You don't need to know what's wrong before you book. That's our job.",
+  "body": "The most common reason a parent waits is not money. It's not knowing what to ask for — 'she's just not doing well in Maths' feels too vague to hand to anyone.\n\nIt isn't. That sentence is the entire brief. Finding the specific gap underneath it is the first thing the trial class does.\n\nCome with the vague version. Leave with the specific one.",
+  "idea_group": "NEW-P6-03",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P6-04",
+  "pillar": "P6",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "Three honest reasons not to book with us.",
+  "body": "Because a decision you can make properly is worth more to us than a booking you regret.",
+  "slides": [
+   "Three honest reasons NOT to book with us.",
+   "1. If your child needs 45 minutes of homework supervision, not teaching — a 1:1 mentor is overkill. Hire help, not a specialist.",
+   "2. If the issue is motivation, not ability, start with a conversation at home. We can help after that. Not instead of it.",
+   "3. If you want a guarantee of marks, we won't give you one. Nobody honest can.",
+   "What we will do: find the actual gap, in one free class, and tell you plainly how long it takes to close.",
+   "If that's useful — link in bio.",
+   "If it isn't, this post did its job."
+  ],
+  "idea_group": "NEW-P6-04",
+  "source": "authored 2026-08"
+ },
+ {
+  "id": "P6-05",
+  "pillar": "P6",
+  "subject": "General",
+  "formats": [
+   "single"
+  ],
+  "keyword": "TRIAL",
+  "hook": "'We'll start after the exams' is how a whole year goes.",
+  "body": "It's the most reasonable sentence a parent says, and it's usually wrong — because the gap that caused this exam is the same gap that will be there for the next one, and it will have had three more months to widen.\n\nYou don't need to start a full programme mid-term. You need one hour, to find out what's actually happening.\n\nThe free trial exists precisely so this decision doesn't have to wait for a calendar.",
+  "idea_group": "NEW-P6-05",
+  "source": "authored 2026-08"
+ }
+]

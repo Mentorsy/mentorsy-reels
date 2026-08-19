@@ -1,0 +1,190 @@
+{
+ "brand": {
+  "name": "Mentorsy",
+  "site": "https://mentorsy.in",
+  "whatsapp": "+917015338058",
+  "primary_offer": "Book a Free Trial Class (55 min, 1:1, live)",
+  "buyer": "Parents of children aged 6-18 (mother is usually the decision maker)",
+  "end_user": "Students aged 6-18",
+  "subjects": [
+   "Mathematics",
+   "Science",
+   "English",
+   "French",
+   "Coding",
+   "Public Speaking"
+  ],
+  "curricula": [
+   "CBSE",
+   "ICSE",
+   "IGCSE",
+   "British",
+   "IB PYP",
+   "IB MYP",
+   "IB DP",
+   "American / Common Core"
+  ],
+  "voice": [
+   "Calm authority, never panic-selling. We reduce a parent's anxiety, we do not manufacture it.",
+   "Specific over generic: name the chapter, the grade, the board.",
+   "Teacher-first, not marketer-first. Teach in the post; sell in the last line.",
+   "No guilt-tripping parents. No shaming students. No 'your child is falling behind' fear bait.",
+   "Indian-English, warm, plain. No emoji walls. Max 3 emojis per caption."
+  ],
+  "banned_phrases": [
+   "guaranteed results",
+   "topper guaranteed",
+   "100% marks",
+   "secret formula",
+   "don't let your child fail",
+   "every parent's nightmare",
+   "limited seats only!!"
+  ]
+ },
+ "pillars": [
+  {
+   "id": "P1",
+   "name": "Report Card Reality",
+   "job": "Name the real, specific cause behind a bad grade. Parent feels understood, not blamed.",
+   "cta_strength": "mid",
+   "target_share": 0.2,
+   "formats": [
+    "reel",
+    "carousel",
+    "single"
+   ]
+  },
+  {
+   "id": "P2",
+   "name": "60-Second Lesson",
+   "job": "Actually teach one concept. Earns saves and shares. Proves teaching quality without a testimonial.",
+   "cta_strength": "soft",
+   "target_share": 0.28,
+   "formats": [
+    "reel",
+    "single"
+   ]
+  },
+  {
+   "id": "P3",
+   "name": "Proof & Progress",
+   "job": "Show a real student arc or a mentor's method. Builds belief that change is possible.",
+   "cta_strength": "mid",
+   "target_share": 0.15,
+   "formats": [
+    "reel",
+    "carousel"
+   ]
+  },
+  {
+   "id": "P4",
+   "name": "Curriculum Decoded",
+   "job": "Explain boards, criteria, exam patterns. Highest-authority pillar. Parents save and forward these.",
+   "cta_strength": "soft",
+   "target_share": 0.17,
+   "formats": [
+    "carousel",
+    "reel"
+   ]
+  },
+  {
+   "id": "P5",
+   "name": "Meet the Mentor",
+   "job": "Faces and vetting. Converts the 'who will actually teach my child' objection.",
+   "cta_strength": "mid",
+   "target_share": 0.1,
+   "formats": [
+    "reel",
+    "single"
+   ]
+  },
+  {
+   "id": "P6",
+   "name": "The Ask",
+   "job": "Direct offer. Free trial, how it works, why 1:1 beats a batch of 40.",
+   "cta_strength": "hard",
+   "target_share": 0.1,
+   "formats": [
+    "reel",
+    "carousel",
+    "single"
+   ]
+  }
+ ],
+ "cta_ladder": {
+  "soft": {
+   "intent": "No ask. Earn the save.",
+   "lines": [
+    "Save this for exam week.",
+    "Send this to a parent who needs it tonight.",
+    "Bookmark it — you'll want it in December.",
+    "Screenshot the last slide."
+   ],
+   "max_per_week": 99
+  },
+  "mid": {
+   "intent": "Low-friction DM trigger. Keyword in comments -> auto-DM the resource.",
+   "lines": [
+    "Comment {KEYWORD} and I'll send you the {MAGNET}.",
+    "Type {KEYWORD} below — the {MAGNET} goes straight to your DMs.",
+    "Want the {MAGNET}? Comment {KEYWORD} and it's yours.",
+    "{KEYWORD} in the comments gets you the {MAGNET}. No email needed."
+   ],
+   "max_per_week": 4
+  },
+  "hard": {
+   "intent": "Direct booking. Free trial class.",
+   "lines": [
+    "Free 55-minute trial class, 1:1, no card needed. Link in bio.",
+    "Book the free trial — link in bio. We'll send a plan the same day.",
+    "One free class. One mentor. Link in bio."
+   ],
+   "max_per_week": 2
+  }
+ },
+ "lead_magnets": {
+  "MATHS": "Grade 9 Maths gap checklist",
+  "IB": "MYP to DP transition guide",
+  "BOARDS": "CBSE vs ICSE vs IGCSE one-pager",
+  "SPEAK": "at-home public speaking drill sheet",
+  "FRENCH": "A1-A2 French vocabulary pack",
+  "CODE": "parent's primer on coding",
+  "EXAM": "3-week board exam revision plan",
+  "TRIAL": "free trial class link"
+ },
+ "rules": {
+  "content_cooldown_days": 365,
+  "hook_cooldown_days": 30,
+  "subject_cooldown_posts": 2,
+  "pillar_no_repeat_within_posts": 1,
+  "near_duplicate_jaccard_threshold": 0.62,
+  "min_bank_runway_posts": 14,
+  "formats_are_isolated": true,
+  "posts_per_week": 10,
+  "idea_cooldown_days": 365,
+  "_tuning_note": "Pillar gap and subject cooldown are VARIETY rules, not repeat rules. Measured over the 108-piece bank: gap 2 / cooldown 4 stranded 29 pieces and starved at 6.3 weeks; gap 1 / cooldown 2 ships 91 unique posts and runs 8.6 weeks clean. The zero-repeat guarantees (content, hook, body-hash, near-duplicate, idea_group, format lock) are unaffected by this tuning."
+ },
+ "subject_default_keyword": {
+  "Mathematics": "MATHS",
+  "Science": "EXAM",
+  "English": "EXAM",
+  "French": "FRENCH",
+  "Coding": "CODE",
+  "Public Speaking": "SPEAK",
+  "General": [
+   "EXAM",
+   "BOARDS",
+   "SPEAK"
+  ]
+ },
+ "lead_magnet_titles": {
+  "MATHS": "The 12 Chapters That Quietly Break Grade 9 Maths (parent checklist)",
+  "IB": "IB MYP to DP Transition Guide for Parents",
+  "BOARDS": "CBSE vs ICSE vs IGCSE: a one-page comparison for parents",
+  "SPEAK": "10 Public Speaking Drills You Can Run at Home in 10 Minutes",
+  "FRENCH": "A1-A2 French Vocabulary Pack for Grades 6-10",
+  "CODE": "What Coding Actually Teaches a 10-Year-Old (parent primer)",
+  "EXAM": "The 3-Week Board Exam Revision Plan",
+  "TRIAL": "Free trial class booking link"
+ }
+}
