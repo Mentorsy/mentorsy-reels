@@ -81,10 +81,10 @@ what a script does when the bank is smaller than the cadence. Your current
 system almost certainly has 12–20 pieces feeding a 10/week schedule, which is
 why the same post appeared four times.
 
-This repo ships **108 pieces across 106 distinct ideas** — 50 written fresh and
+This repo ships **142 pieces across 134 distinct ideas** — 84 written fresh and
 58 salvaged from your existing bank after the duplicate halves were deleted
-(see `MIGRATION.md`). It runs **10 weeks clean: 91 unique posts, 24 Aug to
-1 Nov**, then stops rather than repeat. After that you have three honest
+(see `MIGRATION.md`). It runs **10 weeks with zero empty slots: 100 posts,
+24 Aug to 1 Nov**, then stops rather than repeat. After that you have three honest
 options:
 
 1. **Refill monthly.** ~43 new pieces a month, forever. Realistic only if

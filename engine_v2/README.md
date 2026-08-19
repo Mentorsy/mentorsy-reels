@@ -12,6 +12,7 @@ content/
   bank_p3_p4.json
   bank_p5_p6.json
   bank_legacy.json    58 pieces migrated from mentorsy-reels (see MIGRATION.md)
+  bank_*_extra.json   34 further pieces written to guarantee the 2-month runway
   bank.json           generated — never edit by hand
   media.json          you create this: content_id:format -> asset URL
 engine/
@@ -117,8 +118,9 @@ must match.
 
 ## Refilling the bank
 
-The bank holds **108 pieces / 106 distinct ideas** and runs **10 weeks clean**
-(91 unique posts, 24 Aug – 1 Nov) before it refuses to continue. At 10/week you
+The bank holds **142 pieces / 134 distinct ideas** and runs **10 weeks with
+zero empty slots** — 100 posts, 24 Aug to 1 Nov. `tests/simulate.py` treats a
+gap inside the first 70 days as a build failure, not a warning. At 10/week you
 need ~43 new pieces a month after that. Add them to the `bank_p*.json` files
 using the same shape — **exactly one format per piece, and its own
 `idea_group`** — then:
