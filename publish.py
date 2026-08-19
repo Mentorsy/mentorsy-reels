@@ -302,7 +302,7 @@ def main():
             continue
         if a.slot and s["key"] != a.slot:
             continue
-        if a.due and s["when"] > now:
+        if a.due and not (0 <= (now - s["when"]).total_seconds() <= 10800):
             continue
         todo.append(s)
 
