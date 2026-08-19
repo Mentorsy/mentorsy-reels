@@ -1,0 +1,213 @@
+[
+ {
+  "id": "P5-06",
+  "idea_group": "HOW-WE-VET",
+  "source": "authored 2026-08",
+  "pillar": "P5",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "What we ask a mentor in the interview that has nothing to do with the subject.",
+  "body": "Subject knowledge is the entry ticket. These five questions decide whether someone teaches your child or just talks near them.",
+  "slides": [
+   "Five interview questions. None are about the subject.",
+   "1. 'A child says they understand, then gets it wrong. What do you do next?'",
+   "2. 'Teach me something you're bad at explaining.'",
+   "3. 'What would you do in the first ten minutes with a child who doesn't want to be there?'",
+   "4. 'When have you been wrong in front of a student?'",
+   "5. 'What do you send the parent afterwards?'",
+   "Answering these badly is the most common reason we say no.",
+   "Subject knowledge is the entry ticket. Diagnosis is the job."
+  ]
+ },
+ {
+  "id": "P5-07",
+  "idea_group": "NEW-P5-07",
+  "source": "authored 2026-08",
+  "pillar": "P5",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "A good mentor talks less than you think.",
+  "body": "Count it in any session. If the adult is speaking for more than half the hour, the child is watching a lecture, not learning.\n\nThe ratio that works is closer to 30-70: the mentor sets up the problem, then shuts up while the child struggles productively.\n\nSilence in a tutoring session is not wasted money. It's usually the only part that was.",
+  "reel_script": "HOOK (0-4s): 'A good mentor talks less than you think.'\nTEST (4-16s): 'Count it. If the adult is speaking more than half the hour, your child is watching a lecture.'\nRATIO (16-30s): 'The ratio that works is closer to 30-70. Set up the problem, then shut up while the child struggles.'\nREFRAME (30-42s): 'Silence in a session isn't wasted money. It's usually the only part that wasn't.'\nCTA (42-46s): 'Listen in on the next one. Count.'"
+ },
+ {
+  "id": "P5-08",
+  "idea_group": "NEW-P5-08",
+  "source": "authored 2026-08",
+  "pillar": "P5",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "How we match a mentor to a child, and why it isn't by marks.",
+  "body": "The wrong match is not usually a knowledge gap. It's a pace and temperament mismatch, and it shows up in week one if anyone is paying attention.",
+  "slides": [
+   "How we match a mentor to a child.",
+   "Not by marks. By four things.",
+   "PACE — Does this child need time to think, or momentum to stay interested?",
+   "ENTRY POINT — Where is the last thing they can do confidently?",
+   "TEMPERAMENT — Some children need warmth first. Some find it patronising.",
+   "GOAL — A board exam in March and 'enjoying maths again' need different people.",
+   "We get it wrong sometimes. Tell us in week one and we change the mentor.",
+   "We change the mentor, not the child."
+  ]
+ },
+ {
+  "id": "P5-09",
+  "idea_group": "NEW-P5-09",
+  "source": "authored 2026-08",
+  "pillar": "P5",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "The question a mentor should never answer.",
+  "body": "'Is this right?'\n\nIf the mentor says yes, the child learns nothing except that the adult knows. If the mentor says 'how would you check?', the child leaves with a method they can use in an exam hall where nobody is available to ask.\n\nThat one substitution, made a hundred times over a term, is most of what you're paying for.",
+  "reel_script": "HOOK (0-4s): 'There's one question a mentor should never answer.'\nREVEAL (4-9s): Pause. 'Is this right?'\nWHY (9-24s): 'Say yes, and the child learns only that you know. Say how would you check — and they leave with a method.'\nSTAKES (24-38s): 'A method they can use in an exam hall, where nobody is available to ask.'\nCLOSE (38-48s): 'That one substitution, made a hundred times a term, is most of what you're paying for.'"
+ },
+ {
+  "id": "P5-10",
+  "idea_group": "NEW-P5-10",
+  "source": "authored 2026-08",
+  "pillar": "P5",
+  "subject": "General",
+  "formats": [
+   "single"
+  ],
+  "hook": "You are allowed to sit in on a session. You probably shouldn't.",
+  "body": "Parents ask this often and the honest answer is uncomfortable: your presence changes what your child is willing to be bad at.\n\nMost children will not say 'I don't understand' in front of a parent. They will say it to a stranger who has no history with them, which is exactly why one-to-one works.\n\nSit in on the first one if it settles you. Then let them have the room."
+ },
+ {
+  "id": "P5-11",
+  "idea_group": "NEW-P5-11",
+  "source": "authored 2026-08",
+  "pillar": "P5",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "What happens in the first ten minutes of a Mentorsy session.",
+  "body": "No small talk, no settling in. The first ten minutes decide whether the other fifty are useful.",
+  "slides": [
+   "The first ten minutes of a session.",
+   "No small talk. No settling in.",
+   "MIN 1-3 — What did you get stuck on since we last spoke?",
+   "MIN 3-6 — Show me. Don't tell me. Work it here.",
+   "MIN 6-8 — The mentor watches WHERE the hesitation is, not whether the answer is right.",
+   "MIN 8-10 — That hesitation becomes today's lesson.",
+   "This is why we don't follow a fixed syllabus.",
+   "The child's actual gap sets the agenda, every single time."
+  ]
+ },
+ {
+  "id": "P6-06",
+  "idea_group": "THE-FREE-TRIAL",
+  "source": "authored 2026-08",
+  "pillar": "P6",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "TRIAL",
+  "hook": "What the free trial class is not.",
+  "body": "Being clear about this saves everyone an hour.",
+  "slides": [
+   "What the free trial class is NOT.",
+   "It is not a sales call with a teacher present.",
+   "It is not a test. Nobody is graded, and nothing is reported anywhere.",
+   "It is not 55 minutes of us describing our method.",
+   "It IS a real lesson, on a real topic your child is stuck on.",
+   "And a written note the same day: what we found, what we'd do, how long it takes.",
+   "If the answer is 'you don't need us', we'll say that too.",
+   "Free. 55 minutes. No card. Link in bio."
+  ]
+ },
+ {
+  "id": "P6-07",
+  "idea_group": "NEW-P6-07",
+  "source": "authored 2026-08",
+  "pillar": "P6",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "How much should tutoring cost? Here's how to judge it.",
+  "body": "We don't publish a single price because a weekly Grade 4 English session and a DP Maths HL push before mocks are not the same product.\n\nBut here's the test that works on anyone, us included: ask what happens in week one, ask what you receive after each session, and ask what they do if it isn't working.\n\nA provider who can answer those three specifically is worth more than one who is cheaper and vague.",
+  "reel_script": "HOOK (0-5s): 'How much should tutoring cost? Here's how to judge it — for anyone, not just us.'\nCONTEXT (5-16s): 'We don't publish one price, because Grade 4 English weekly and a DP Maths HL push before mocks aren't the same product.'\nTEST (16-36s): On screen, one at a time: 'What happens in week ONE?' / 'What do I RECEIVE after each session?' / 'What do you do if it ISN'T working?'\nCLOSE (36-48s): 'Anyone who answers those three specifically is worth more than someone cheaper and vague.'\nCTA (48-52s): 'Ask us. Link in bio.'"
+ },
+ {
+  "id": "P6-08",
+  "idea_group": "WHEN-NOT-TO-BOOK",
+  "source": "authored 2026-08",
+  "pillar": "P6",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "When one-to-one is genuinely the wrong answer.",
+  "body": "We turn away work every month. Here is when, so you don't waste a trial finding out.",
+  "slides": [
+   "When 1:1 is genuinely the wrong answer.",
+   "We turn away work every month for these.",
+   "IF the child needs supervision to start homework — that's a routine problem, not a teaching one.",
+   "IF the whole class is failing the same topic — talk to the school first. It's cheaper and it's their job.",
+   "IF the child is exhausted — adding an hour to a 10-hour day makes it worse.",
+   "IF you want a specific mark guaranteed — nobody honest will give you that.",
+   "What we're for: a specific gap, a specific child, a specific plan.",
+   "If that's you — link in bio. If it isn't, this post did its job."
+  ]
+ },
+ {
+  "id": "P6-09",
+  "idea_group": "HOW-TO-SIGN-UP",
+  "source": "authored 2026-08",
+  "pillar": "P6",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "keyword": "TRIAL",
+  "hook": "Two questions and a WhatsApp number. That's the whole sign-up.",
+  "body": "Which grade and board, and where they're stuck. 'Somewhere in maths' is a complete answer — narrowing it down is our job, not yours.\n\nWe reply the same day with a mentor and two possible times. The class is 55 minutes, live, one-to-one, and free.\n\nThat's it. There is no form with fourteen fields, because nobody has ever been helped by one.",
+  "reel_script": "HOOK (0-5s): 'Two questions and a WhatsApp number. That's the whole sign-up.'\nONE (5-14s): 'Which grade and which board.'\nTWO (14-26s): 'Where they're stuck. Somewhere in maths is a complete answer — narrowing it is our job.'\nTHEN (26-40s): 'Same day, we send a mentor and two times. 55 minutes, live, one to one, free.'\nCLOSE (40-50s): 'No form with fourteen fields. Nobody has ever been helped by one.'\nCTA (50-54s): 'Comment TRIAL or use the link in bio.'"
+ },
+ {
+  "id": "P6-10",
+  "idea_group": "PROGRAMME-SHAPE",
+  "source": "authored 2026-08",
+  "pillar": "P6",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "A term with a mentor, week by week, so you know what you're buying.",
+  "body": "Twelve weeks is the usual unit. Here is the shape of it, so nothing is a surprise.",
+  "slides": [
+   "A term with a mentor. Twelve weeks.",
+   "So you know what you're buying.",
+   "WEEK 1 — Diagnosis. We find the floor, not the syllabus point.",
+   "WEEKS 2-4 — The gap. Often below their current grade. This is the uncomfortable part.",
+   "WEEKS 5-8 — Current topics, at proper speed now, ending every session book-shut.",
+   "WEEKS 9-11 — Past papers, timed, marked live so reasoning gets corrected.",
+   "WEEK 12 — A written review: what moved, what didn't, whether to continue.",
+   "Marks usually move around week six. Confidence moves earlier.",
+   "Start with one free class. Link in bio."
+  ]
+ },
+ {
+  "id": "P6-11",
+  "idea_group": "NEW-P6-11",
+  "source": "authored 2026-08",
+  "pillar": "P6",
+  "subject": "General",
+  "formats": [
+   "single"
+  ],
+  "hook": "If money is the reason you're hesitating, say so.",
+  "body": "It's the most common reason and the least often said out loud, and it usually leads to a worse decision made quietly — a cheaper option that doesn't work, or nothing at all.\n\nTell us the number that's realistic. Sometimes the answer is fewer sessions targeted at one gap rather than a weekly commitment, and that genuinely works.\n\nWe'd rather build something you can sustain than sell you a term you resent by October."
+ }
+]

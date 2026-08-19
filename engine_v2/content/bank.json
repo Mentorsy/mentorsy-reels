@@ -1251,6 +1251,436 @@
   "source": "authored 2026-08"
  },
  {
+  "id": "P1-11",
+  "idea_group": "NEW-P1-11",
+  "source": "authored 2026-08",
+  "pillar": "P1",
+  "subject": "Mathematics",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "MATHS",
+  "hook": "The order maths actually breaks in, and where to look first.",
+  "body": "A collapse in Grade 10 almost never starts in Grade 10. Work backwards through this chain and you'll usually find it in one evening.",
+  "slides": [
+   "Maths breaks in a predictable order.",
+   "Work backwards down this chain. You'll find it in an evening.",
+   "GRADE 10 stuck on trigonometry?",
+   "→ Check ratio and proportion (Grade 7).",
+   "GRADE 9 stuck on algebra?",
+   "→ Check fractions and negative numbers (Grade 6).",
+   "GRADE 8 stuck on percentages?",
+   "→ Check decimals and place value (Grade 5).",
+   "The failing chapter is almost never the broken one.",
+   "Comment MATHS for the full diagnostic chain."
+  ]
+ },
+ {
+  "id": "P1-12",
+  "idea_group": "NEW-P1-12",
+  "source": "authored 2026-08",
+  "pillar": "P1",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "Six things that look like laziness and are not.",
+  "body": "Almost every child called lazy is avoiding something specific. Naming it correctly changes what you do next.",
+  "slides": [
+   "Six things that look like laziness.",
+   "None of them are.",
+   "'Won't start' — often doesn't know what the first step IS. Avoidance of ambiguity, not effort.",
+   "'Rushes everything' — finishing fast ends the discomfort faster.",
+   "'Says it's boring' — the most socially safe way a 13-year-old can say 'I can't do this'.",
+   "'Forgets the homework' — sometimes genuinely organisational. Sometimes convenient.",
+   "'Only does the easy questions' — protecting a self-image. Very common in bright children.",
+   "'Fine at home, silent in class' — the room is the variable, not the child.",
+   "Each one has a different fix. 'Try harder' fixes none of them."
+  ]
+ },
+ {
+  "id": "P1-13",
+  "idea_group": "NEW-P1-13",
+  "source": "authored 2026-08",
+  "pillar": "P1",
+  "subject": "Science",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "Your child revised for eight hours and dropped four marks. Here's where they went.",
+  "body": "Lost marks sort into four types and each needs an opposite response. Sorting them takes twenty minutes and is worth more than the next eight hours.",
+  "slides": [
+   "Eight hours of revision. Four marks lower.",
+   "Lost marks come in four types. Each needs an opposite fix.",
+   "DIDN'T KNOW IT → more revision. This is the only one extra hours fix.",
+   "KNEW IT, RAN OUT OF TIME → pacing. Fix with timed papers, not content.",
+   "KNEW IT, MISREAD THE QUESTION → command words. A vocabulary problem.",
+   "KNEW IT, ARITHMETIC SLIPPED → automaticity. Ten minutes a day, not more revision.",
+   "Three of the four get WORSE with more revision hours.",
+   "That's why the effort felt wasted. It was aimed at the wrong bucket."
+  ]
+ },
+ {
+  "id": "P3-08",
+  "idea_group": "NEW-P3-08",
+  "source": "authored 2026-08",
+  "pillar": "P3",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "What we do in week two, when the marks haven't moved yet.",
+  "body": "Week two is where most tutoring arrangements quietly fail, because nothing visible has changed and everyone starts to doubt it.",
+  "slides": [
+   "Week two is where most tutoring quietly fails.",
+   "Nothing visible has changed. Everyone starts to doubt it.",
+   "WHAT'S ACTUALLY HAPPENING: we're working below their grade, on the gap.",
+   "That work does not show up in this week's test. It shows up in week six.",
+   "WHAT WE SEND YOU instead of marks:",
+   "— what your child could not do on day one",
+   "— what they can do now",
+   "— what we're doing next, and why",
+   "Progress you can read before the marks arrive.",
+   "If we can't show you that in week two, be suspicious. Of anyone."
+  ]
+ },
+ {
+  "id": "P3-09",
+  "idea_group": "NEW-P3-09",
+  "source": "authored 2026-08",
+  "pillar": "P3",
+  "subject": "Mathematics",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "The 'book shut' rule, and why every session ends with it.",
+  "body": "A child who can do a question with the example visible has not learned it. They have copied it. The difference only shows up in an exam hall.",
+  "slides": [
+   "Every session ends the same way. Book shut.",
+   "Three problems. No example visible. No notes.",
+   "WHY: a child who solves with the example open has copied, not learned.",
+   "Recognition and retrieval live in different places. Only one is examined.",
+   "It is uncomfortable, and the discomfort IS the learning.",
+   "If they can't do it book-shut, we haven't finished — so we don't move on.",
+   "This is the single habit that most separates tutoring that works from tutoring that feels nice.",
+   "Ask any tutor: what does the last five minutes look like?"
+  ]
+ },
+ {
+  "id": "P3-10",
+  "idea_group": "NEW-P3-10",
+  "source": "authored 2026-08",
+  "pillar": "P3",
+  "subject": "English",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "How an essay actually improves, in the order it happens.",
+  "body": "English feels unfixable to parents because progress isn't visible line by line. It arrives in a fixed sequence, and knowing the sequence tells you where your child currently is.",
+  "slides": [
+   "How an essay actually improves. In order.",
+   "English feels unfixable because progress isn't visible line by line.",
+   "STAGE 1 — Has a point. Most essays don't. This alone moves a grade.",
+   "STAGE 2 — Every paragraph serves that point. Nothing decorative survives.",
+   "STAGE 3 — Evidence, not assertion. Quote, then explain why it proves the point.",
+   "STAGE 4 — Handles a counter-argument without collapsing.",
+   "STAGE 5 — Sentence rhythm and vocabulary. This is LAST, not first.",
+   "Most students are pushed straight to stage 5. That's why 'use better words' never works.",
+   "Find which stage your child is on. Work on that one only."
+  ]
+ },
+ {
+  "id": "P2-15",
+  "idea_group": "NEW-P2-15",
+  "source": "authored 2026-08",
+  "pillar": "P2",
+  "subject": "Mathematics",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Divide anything by 5 in your head: double it, move the point.",
+  "body": "Dividing by 5 is the same as multiplying by 2 and dividing by 10, and the second one is free.\n\n340 ÷ 5 → 680 → 68.\n85 ÷ 5 → 170 → 17.\n1,240 ÷ 5 → 2,480 → 248.\n\nSame for multiplying by 5: halve it, move the point the other way. 86 × 5 → 43 → 430.",
+  "reel_script": "HOOK (0-4s): '340 divided by 5. Two seconds, no pen.'\nRULE (4-13s): 'Double it. Move the decimal point. That's it.'\nDEMO (13-28s): '340 doubled is 680. Move the point: 68.' Then 85 → 170 → 17. Then 1240 → 2480 → 248.\nWHY (28-38s): 'It works because dividing by 5 IS multiplying by 2 and dividing by 10 — and dividing by 10 is free.'\nFLIP (38-48s): 'Multiplying by 5? Halve it, move the point the other way. 86 times 5 — 43 — 430.'\nCTA (48-52s): 'Save it. Test them at dinner.'"
+ },
+ {
+  "id": "P2-16",
+  "idea_group": "NEW-P2-16",
+  "source": "authored 2026-08",
+  "pillar": "P2",
+  "subject": "Science",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "The five words that fix almost every science definition.",
+  "body": "Definitions lose marks not because the child doesn't know the idea, but because the sentence has no structure. These five words impose one.",
+  "slides": [
+   "Five words that fix almost every science definition.",
+   "The idea is usually known. The sentence has no shape.",
+   "IS — start by naming the category. 'Osmosis IS the movement of...'",
+   "OF — say what it acts on. '...of water molecules...'",
+   "FROM / TO — give the direction. '...from high to low concentration...'",
+   "THROUGH — name the condition. '...through a partially permeable membrane.'",
+   "One sentence. Four marks. No memorised wording needed.",
+   "Try it on any definition in tonight's chapter."
+  ]
+ },
+ {
+  "id": "P2-17",
+  "idea_group": "NEW-P2-17",
+  "source": "authored 2026-08",
+  "pillar": "P2",
+  "subject": "English",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Semicolons, settled in fifteen seconds.",
+  "body": "A semicolon joins two things that could each survive alone as a sentence.\n\n'She revised for hours; the marks did not move.' Both halves stand up on their own. Semicolon is correct.\n'She revised for hours; because she was worried.' The second half collapses. Semicolon is wrong — use a comma.\n\nThat's the entire rule. Everything else about semicolons is decoration.",
+  "reel_script": "HOOK (0-4s): 'Semicolons. Fifteen seconds. Settled forever.'\nRULE (4-13s): 'A semicolon joins two things that could each be a sentence on their own.'\nRIGHT (13-26s): On screen: 'She revised for hours; the marks did not move.' 'Cover either half. Both stand up. Correct.'\nWRONG (26-40s): 'She revised for hours; because she was worried.' 'Cover the first half. The second collapses. Wrong — use a comma.'\nCLOSE (40-48s): 'That's the whole rule. Everything else is decoration.'"
+ },
+ {
+  "id": "P2-18",
+  "idea_group": "NEW-P2-18",
+  "source": "authored 2026-08",
+  "pillar": "P2",
+  "subject": "Mathematics",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "MATHS",
+  "hook": "Six words in a maths question that tell you exactly what to do.",
+  "body": "Exam boards use a fixed vocabulary. Children who know it stop guessing at what's being asked and start answering it.",
+  "slides": [
+   "Six words that tell you exactly what the question wants.",
+   "Exam boards use a fixed vocabulary. Most students never learn it.",
+   "STATE / WRITE DOWN — no working needed. Just the answer. Don't waste time.",
+   "SHOW THAT — the answer is given. Marks are ONLY for the steps.",
+   "HENCE — you must use the previous part. Starting fresh scores zero.",
+   "DETERMINE / FIND — working required, method carries marks.",
+   "EXPLAIN — words, not numbers. A calculation alone gets nothing.",
+   "SKETCH vs PLOT — sketch is shape and key points. Plot means accurate scale.",
+   "Comment MATHS for the full command-word sheet."
+  ]
+ },
+ {
+  "id": "P2-19",
+  "idea_group": "NEW-P2-19",
+  "source": "authored 2026-08",
+  "pillar": "P2",
+  "subject": "French",
+  "formats": [
+   "reel"
+  ],
+  "keyword": "FRENCH",
+  "hook": "Why 'je suis 14 ans' makes a French examiner wince.",
+  "body": "In French you don't 'be' an age, you 'have' one. J'ai quatorze ans — literally, I have fourteen years.\n\nThe same verb runs a whole family of expressions English gets wrong: j'ai faim (I have hunger), j'ai froid (I have cold), j'ai peur (I have fear), j'ai raison (I have reason — I'm right).\n\nLearn the pattern once and six mistakes disappear together.",
+  "reel_script": "HOOK (0-5s): 'Je suis quatorze ans. Every French examiner just winced.'\nRULE (5-15s): 'In French you don't BE an age. You HAVE one. J'ai quatorze ans — I have fourteen years.'\nFAMILY (15-35s): On screen: j'ai faim — I have hunger. j'ai froid — I have cold. j'ai peur — I have fear. j'ai raison — I have reason.\nPAYOFF (35-45s): 'One pattern. Six mistakes gone at once.'\nCTA (45-50s): 'Comment FRENCH for the vocabulary pack.'"
+ },
+ {
+  "id": "P2-20",
+  "idea_group": "NEW-P2-20",
+  "source": "authored 2026-08",
+  "pillar": "P2",
+  "subject": "Coding",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "CODE",
+  "hook": "Debugging, taught as a method instead of a mood.",
+  "body": "Most children debug by staring harder and changing things at random. It's a procedure, and it can be taught in an afternoon.",
+  "slides": [
+   "Debugging is a method, not a mood.",
+   "Most kids debug by staring harder and changing things at random.",
+   "1. READ the error. Out loud. It usually names the line and the problem.",
+   "2. PRINT the value just before it breaks. Assume nothing.",
+   "3. HALVE it. Comment out half the code. Which half still fails?",
+   "4. Repeat step 3 until the broken line is obvious.",
+   "5. Only THEN change something. One thing. Then re-run.",
+   "This is the same procedure a professional uses. It scales to any language.",
+   "Comment CODE for the parent primer."
+  ]
+ },
+ {
+  "id": "P2-21",
+  "idea_group": "NEW-P2-21",
+  "source": "authored 2026-08",
+  "pillar": "P2",
+  "subject": "Public Speaking",
+  "formats": [
+   "reel"
+  ],
+  "keyword": "SPEAK",
+  "hook": "Nerves are not the enemy. Unrehearsed openings are.",
+  "body": "Almost all visible panic happens in the first fifteen seconds, before the speaker has found their footing.\n\nSo rehearse only the opening. Not the whole speech — the first three sentences, until they're automatic. Once those are out, the body of the talk usually looks after itself.\n\nThe rest of the nerves stay. They just stop showing.",
+  "reel_script": "HOOK (0-5s): 'Nerves aren't the enemy. Unrehearsed openings are.'\nOBSERVATION (5-18s): 'Almost all visible panic happens in the first fifteen seconds — before the speaker finds their footing.'\nDRILL (18-33s): 'So rehearse ONLY the opening. Not the whole speech. The first three sentences, until they're automatic.'\nPAYOFF (33-45s): 'Once those are out, the body of the talk looks after itself. The nerves stay. They stop showing.'\nCTA (45-52s): 'Comment SPEAK for the drill sheet.'"
+ },
+ {
+  "id": "P2-22",
+  "idea_group": "NEW-P2-22",
+  "source": "authored 2026-08",
+  "pillar": "P2",
+  "subject": "Mathematics",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Estimate first. It catches almost every calculator disaster.",
+  "body": "A mistyped digit turns 4.7 into 47 and nobody notices, because the calculator answers with total confidence.\n\nSo before pressing anything, round hard and say the rough answer out loud. 4.7 × 19.6 is 'about 5 times 20, so about 100'. If the screen says 921, you've found the typo before it cost you the mark.\n\nTwo seconds. It saves marks in every numerical paper a child will ever sit.",
+  "reel_script": "HOOK (0-5s): 'Estimate first. It catches almost every calculator disaster.'\nPROBLEM (5-16s): 'A mistyped digit turns 4.7 into 47 — and the calculator answers with total confidence.'\nMETHOD (16-32s): 'Before you press anything: round hard, say it out loud. 4.7 times 19.6 is about 5 times 20. About 100.'\nCATCH (32-44s): 'If the screen says 921, you've found the typo before it cost you the mark.'\nCLOSE (44-52s): 'Two seconds. Works in every numerical paper they'll ever sit.'"
+ },
+ {
+  "id": "P2-23",
+  "idea_group": "NEW-P2-23",
+  "source": "authored 2026-08",
+  "pillar": "P2",
+  "subject": "Science",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Why ice floats, and why that one oddity is the reason you exist.",
+  "body": "Nearly every substance is denser as a solid. Water is not: the molecules lock into a lattice with gaps, so ice takes up more room than the water it froze from.\n\nWhich means lakes freeze from the top down, not the bottom up. A sheet of ice forms and insulates everything underneath it, so the water below stays liquid all winter.\n\nIf ice sank, ponds would freeze solid to the floor and take every living thing with them.",
+  "reel_script": "HOOK (0-5s): 'Ice floats. That one oddity is the reason there's anything alive in a frozen lake.'\nSCIENCE (5-20s): 'Almost every substance is denser as a solid. Water isn't — the molecules lock into a lattice WITH GAPS, so ice takes more room.'\nCONSEQUENCE (20-36s): 'So lakes freeze from the TOP down. A sheet forms and insulates everything under it. The water below stays liquid all winter.'\nSTAKES (36-48s): 'If ice sank, ponds would freeze solid to the floor — and take every living thing with them.'\nCTA (48-52s): 'Send this to a curious 12-year-old.'"
+ },
+ {
+  "id": "P2-24",
+  "idea_group": "NEW-P2-24",
+  "source": "authored 2026-08",
+  "pillar": "P2",
+  "subject": "English",
+  "formats": [
+   "single"
+  ],
+  "hook": "Read the question twice. Genuinely twice. Here's what changes.",
+  "body": "On the first read a student is looking for what the question is about. On the second they see what it actually asks them to do — and those are different things far more often than anyone expects.\n\n'Discuss how the writer presents grief' is not 'write about grief'. One is about technique, the other is about theme, and only one of them scores.\n\nTwenty seconds. Usually worth more than the last hour of revision."
+ },
+ {
+  "id": "P4-10",
+  "idea_group": "NEW-P4-10",
+  "source": "authored 2026-08",
+  "pillar": "P4",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "BOARDS",
+  "hook": "Changing boards mid-school: what actually transfers and what doesn't.",
+  "body": "Families move countries and schools more than the syllabus designers assume. Here is where the seams show.",
+  "slides": [
+   "Changing boards mid-school.",
+   "What transfers, and what quietly doesn't.",
+   "MATHS transfers well. Topics are ordered differently, but the content overlaps heavily.",
+   "SCIENCE transfers at content level; the PRACTICAL and coursework requirements often don't.",
+   "ENGLISH is the hardest jump. Set texts differ, and so does what an examiner rewards.",
+   "LANGUAGES: a CBSE French student meeting IGCSE speaking assessment is a real shock.",
+   "THE REAL GAP is assessment style, not knowledge.",
+   "Budget one term to learn the new exam, not the new subject.",
+   "Comment BOARDS for the comparison one-pager."
+  ]
+ },
+ {
+  "id": "P4-11",
+  "idea_group": "NEW-P4-11",
+  "source": "authored 2026-08",
+  "pillar": "P4",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "Predicted grades: how they're actually decided, and how to influence them honestly.",
+  "body": "Predicted grades open or close university applications, and most families discover how they work about a year too late.",
+  "slides": [
+   "Predicted grades decide which universities are even possible.",
+   "Most families learn how they work a year too late.",
+   "They are based on EVIDENCE the school already holds — mocks, classwork, internal assessment.",
+   "Not on potential. Not on how hard your child is trying now.",
+   "Which means the work that sets them happens 12-18 months before the prediction.",
+   "A weak mock in Year 12 can cap a Year 13 prediction.",
+   "HONEST influence: ask which pieces of evidence count, and when.",
+   "Then improve those specific pieces. That's it. There's no other lever."
+  ]
+ },
+ {
+  "id": "P4-12",
+  "idea_group": "NEW-P4-12",
+  "source": "authored 2026-08",
+  "pillar": "P4",
+  "subject": "Mathematics",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "Grade 10 to Grade 11 maths is a bigger jump than Grade 9 to 10. Here's the actual reason.",
+  "body": "Every year the same shock: a child comfortable at 85% in Grade 10 struggles badly in Grade 11. It isn't difficulty. It's a change of species.",
+  "slides": [
+   "Grade 10 → 11 maths is a bigger jump than 9 → 10.",
+   "A child at 85% in Grade 10 can genuinely struggle in Grade 11.",
+   "It isn't difficulty. The subject changes species.",
+   "GRADE 10 rewards PROCEDURE — recognise the type, apply the method.",
+   "GRADE 11 rewards STRUCTURE — choose the method, justify it, combine two.",
+   "Calculus arrives assuming algebra is automatic, not merely known.",
+   "Procedural students hit a wall the term calculus starts.",
+   "The prep isn't harder questions. It's unfamiliar ones, in Grade 10."
+  ]
+ },
+ {
+  "id": "P4-13",
+  "idea_group": "NEW-P4-13",
+  "source": "authored 2026-08",
+  "pillar": "P4",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "EXAM",
+  "hook": "Mock exams are being used wrong in most houses.",
+  "body": "A mock is not a prediction. It is the highest-quality diagnostic your child will get for free, and most of its value is thrown away within a week of the result.",
+  "slides": [
+   "Mock exams are being used wrong in most houses.",
+   "A mock is not a prediction. It's a free, high-quality diagnostic.",
+   "THE MISTAKE: look at the mark, feel something, move on.",
+   "THE USE: go through the paper question by question and sort every lost mark.",
+   "BUCKET 1 — Didn't know it. That's revision.",
+   "BUCKET 2 — Knew it, ran out of time. That's pacing, and it's fixable fastest.",
+   "BUCKET 3 — Knew it, misread the question. That's command words.",
+   "BUCKET 4 — Knew it, arithmetic slipped. That's automaticity, not carelessness.",
+   "Four buckets need four different responses. The mark alone tells you none of it.",
+   "Comment EXAM for the sorting sheet."
+  ]
+ },
+ {
+  "id": "P4-14",
+  "idea_group": "NEW-P4-14",
+  "source": "authored 2026-08",
+  "pillar": "P4",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "Questions worth asking at a parent-teacher meeting, and three that waste it.",
+  "body": "You get about eight minutes. Most of it usually goes on questions the report already answered.",
+  "slides": [
+   "Parent-teacher meeting. You get about eight minutes.",
+   "Most of it goes on questions the report already answered.",
+   "DON'T ASK: 'How is she doing?' You have the grades. You're asking them to read them aloud.",
+   "DON'T ASK: 'Is he behaving?' It's a yes/no you'd already know if it were no.",
+   "DON'T ASK: 'What can we do at home?' Too broad. You'll get 'keep reading'.",
+   "DO ASK: 'Which specific topic is she weakest on right now?'",
+   "DO ASK: 'When he's stuck, what does he do — ask, guess, or stop?'",
+   "DO ASK: 'If you had one more hour a week with him, what would you use it on?'",
+   "That last one gets you the honest answer. It always does."
+  ]
+ },
+ {
+  "id": "P4-15",
+  "idea_group": "NEW-P4-15",
+  "source": "authored 2026-08",
+  "pillar": "P4",
+  "subject": "Science",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Required practicals are free marks that most students donate back.",
+  "body": "In IGCSE and A-level sciences, a fixed set of practicals is examinable — and the questions are predictable: variables, control, error, improvement.\n\nStudents revise the theory and skip the practicals, then meet six marks on apparatus they last touched in October.\n\nGo through each required practical and write four lines: what was measured, what was controlled, where the error came from, how you'd improve it. That's the whole exam question, every time.",
+  "reel_script": "HOOK (0-5s): 'Required practicals are free marks. Most students donate them back.'\nFACT (5-18s): 'In IGCSE and A-level science, a fixed set of practicals is examinable — and the questions are always the same four.'\nTHE FOUR (18-34s): On screen: What was MEASURED? What was CONTROLLED? Where's the ERROR? How would you IMPROVE it?\nPROBLEM (34-44s): 'Students revise theory and skip practicals, then meet six marks on apparatus they last touched in October.'\nCTA (44-52s): 'Four lines per practical. Do it this weekend.'"
+ },
+ {
   "id": "P3-01",
   "pillar": "P3",
   "subject": "Mathematics",
@@ -1270,7 +1700,7 @@
    "Confidence moved in week 2.",
    "That was the part that mattered."
   ],
-  "idea_group": "NEW-P3-01",
+  "idea_group": "PROGRAMME-SHAPE",
   "source": "authored 2026-08"
  },
  {
@@ -1599,7 +2029,7 @@
   ],
   "hook": "Before a mentor teaches your child, they teach us. Badly, on purpose.",
   "body": "Every Mentorsy mentor does a live demo before they're approved. We don't ask them to teach the topic well — we ask them to teach it to someone who is stuck.\n\nBecause explaining a concept and rescuing a confused child are two completely different skills, and only one of them is what you're paying for.\n\nSubject knowledge is the entry ticket. Diagnosis is the job.",
-  "idea_group": "NEW-P5-01",
+  "idea_group": "HOW-WE-VET",
   "source": "authored 2026-08"
  },
  {
@@ -1661,7 +2091,7 @@
   "keyword": "TRIAL",
   "hook": "One free class. 55 minutes. 1:1. No card, no commitment.",
   "body": "Here's exactly what happens.\n\nYou tell us the subject and where your child is stuck. We match a mentor and send a time. The class runs for 55 minutes, live, one-to-one — and it's a real class, not a sales call.\n\nSame day, you get a written plan: what we found, what we'd do, how long it would take. You decide after that, with something concrete in front of you.",
-  "idea_group": "NEW-P6-01",
+  "idea_group": "THE-FREE-TRIAL",
   "source": "authored 2026-08"
  },
  {
@@ -1685,7 +2115,7 @@
    "That's it. No assessment, no onboarding call, no forms.",
    "Free 55-minute trial class. Link in bio."
   ],
-  "idea_group": "NEW-P6-02",
+  "idea_group": "HOW-TO-SIGN-UP",
   "source": "authored 2026-08"
  },
  {
@@ -1718,7 +2148,7 @@
    "If that's useful — link in bio.",
    "If it isn't, this post did its job."
   ],
-  "idea_group": "NEW-P6-04",
+  "idea_group": "WHEN-NOT-TO-BOOK",
   "source": "authored 2026-08"
  },
  {
@@ -1733,5 +2163,216 @@
   "body": "It's the most reasonable sentence a parent says, and it's usually wrong — because the gap that caused this exam is the same gap that will be there for the next one, and it will have had three more months to widen.\n\nYou don't need to start a full programme mid-term. You need one hour, to find out what's actually happening.\n\nThe free trial exists precisely so this decision doesn't have to wait for a calendar.",
   "idea_group": "NEW-P6-05",
   "source": "authored 2026-08"
+ },
+ {
+  "id": "P5-06",
+  "idea_group": "HOW-WE-VET",
+  "source": "authored 2026-08",
+  "pillar": "P5",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "What we ask a mentor in the interview that has nothing to do with the subject.",
+  "body": "Subject knowledge is the entry ticket. These five questions decide whether someone teaches your child or just talks near them.",
+  "slides": [
+   "Five interview questions. None are about the subject.",
+   "1. 'A child says they understand, then gets it wrong. What do you do next?'",
+   "2. 'Teach me something you're bad at explaining.'",
+   "3. 'What would you do in the first ten minutes with a child who doesn't want to be there?'",
+   "4. 'When have you been wrong in front of a student?'",
+   "5. 'What do you send the parent afterwards?'",
+   "Answering these badly is the most common reason we say no.",
+   "Subject knowledge is the entry ticket. Diagnosis is the job."
+  ]
+ },
+ {
+  "id": "P5-07",
+  "idea_group": "NEW-P5-07",
+  "source": "authored 2026-08",
+  "pillar": "P5",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "A good mentor talks less than you think.",
+  "body": "Count it in any session. If the adult is speaking for more than half the hour, the child is watching a lecture, not learning.\n\nThe ratio that works is closer to 30-70: the mentor sets up the problem, then shuts up while the child struggles productively.\n\nSilence in a tutoring session is not wasted money. It's usually the only part that was.",
+  "reel_script": "HOOK (0-4s): 'A good mentor talks less than you think.'\nTEST (4-16s): 'Count it. If the adult is speaking more than half the hour, your child is watching a lecture.'\nRATIO (16-30s): 'The ratio that works is closer to 30-70. Set up the problem, then shut up while the child struggles.'\nREFRAME (30-42s): 'Silence in a session isn't wasted money. It's usually the only part that wasn't.'\nCTA (42-46s): 'Listen in on the next one. Count.'"
+ },
+ {
+  "id": "P5-08",
+  "idea_group": "NEW-P5-08",
+  "source": "authored 2026-08",
+  "pillar": "P5",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "How we match a mentor to a child, and why it isn't by marks.",
+  "body": "The wrong match is not usually a knowledge gap. It's a pace and temperament mismatch, and it shows up in week one if anyone is paying attention.",
+  "slides": [
+   "How we match a mentor to a child.",
+   "Not by marks. By four things.",
+   "PACE — Does this child need time to think, or momentum to stay interested?",
+   "ENTRY POINT — Where is the last thing they can do confidently?",
+   "TEMPERAMENT — Some children need warmth first. Some find it patronising.",
+   "GOAL — A board exam in March and 'enjoying maths again' need different people.",
+   "We get it wrong sometimes. Tell us in week one and we change the mentor.",
+   "We change the mentor, not the child."
+  ]
+ },
+ {
+  "id": "P5-09",
+  "idea_group": "NEW-P5-09",
+  "source": "authored 2026-08",
+  "pillar": "P5",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "The question a mentor should never answer.",
+  "body": "'Is this right?'\n\nIf the mentor says yes, the child learns nothing except that the adult knows. If the mentor says 'how would you check?', the child leaves with a method they can use in an exam hall where nobody is available to ask.\n\nThat one substitution, made a hundred times over a term, is most of what you're paying for.",
+  "reel_script": "HOOK (0-4s): 'There's one question a mentor should never answer.'\nREVEAL (4-9s): Pause. 'Is this right?'\nWHY (9-24s): 'Say yes, and the child learns only that you know. Say how would you check — and they leave with a method.'\nSTAKES (24-38s): 'A method they can use in an exam hall, where nobody is available to ask.'\nCLOSE (38-48s): 'That one substitution, made a hundred times a term, is most of what you're paying for.'"
+ },
+ {
+  "id": "P5-10",
+  "idea_group": "NEW-P5-10",
+  "source": "authored 2026-08",
+  "pillar": "P5",
+  "subject": "General",
+  "formats": [
+   "single"
+  ],
+  "hook": "You are allowed to sit in on a session. You probably shouldn't.",
+  "body": "Parents ask this often and the honest answer is uncomfortable: your presence changes what your child is willing to be bad at.\n\nMost children will not say 'I don't understand' in front of a parent. They will say it to a stranger who has no history with them, which is exactly why one-to-one works.\n\nSit in on the first one if it settles you. Then let them have the room."
+ },
+ {
+  "id": "P5-11",
+  "idea_group": "NEW-P5-11",
+  "source": "authored 2026-08",
+  "pillar": "P5",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "What happens in the first ten minutes of a Mentorsy session.",
+  "body": "No small talk, no settling in. The first ten minutes decide whether the other fifty are useful.",
+  "slides": [
+   "The first ten minutes of a session.",
+   "No small talk. No settling in.",
+   "MIN 1-3 — What did you get stuck on since we last spoke?",
+   "MIN 3-6 — Show me. Don't tell me. Work it here.",
+   "MIN 6-8 — The mentor watches WHERE the hesitation is, not whether the answer is right.",
+   "MIN 8-10 — That hesitation becomes today's lesson.",
+   "This is why we don't follow a fixed syllabus.",
+   "The child's actual gap sets the agenda, every single time."
+  ]
+ },
+ {
+  "id": "P6-06",
+  "idea_group": "THE-FREE-TRIAL",
+  "source": "authored 2026-08",
+  "pillar": "P6",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "TRIAL",
+  "hook": "What the free trial class is not.",
+  "body": "Being clear about this saves everyone an hour.",
+  "slides": [
+   "What the free trial class is NOT.",
+   "It is not a sales call with a teacher present.",
+   "It is not a test. Nobody is graded, and nothing is reported anywhere.",
+   "It is not 55 minutes of us describing our method.",
+   "It IS a real lesson, on a real topic your child is stuck on.",
+   "And a written note the same day: what we found, what we'd do, how long it takes.",
+   "If the answer is 'you don't need us', we'll say that too.",
+   "Free. 55 minutes. No card. Link in bio."
+  ]
+ },
+ {
+  "id": "P6-07",
+  "idea_group": "NEW-P6-07",
+  "source": "authored 2026-08",
+  "pillar": "P6",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "How much should tutoring cost? Here's how to judge it.",
+  "body": "We don't publish a single price because a weekly Grade 4 English session and a DP Maths HL push before mocks are not the same product.\n\nBut here's the test that works on anyone, us included: ask what happens in week one, ask what you receive after each session, and ask what they do if it isn't working.\n\nA provider who can answer those three specifically is worth more than one who is cheaper and vague.",
+  "reel_script": "HOOK (0-5s): 'How much should tutoring cost? Here's how to judge it — for anyone, not just us.'\nCONTEXT (5-16s): 'We don't publish one price, because Grade 4 English weekly and a DP Maths HL push before mocks aren't the same product.'\nTEST (16-36s): On screen, one at a time: 'What happens in week ONE?' / 'What do I RECEIVE after each session?' / 'What do you do if it ISN'T working?'\nCLOSE (36-48s): 'Anyone who answers those three specifically is worth more than someone cheaper and vague.'\nCTA (48-52s): 'Ask us. Link in bio.'"
+ },
+ {
+  "id": "P6-08",
+  "idea_group": "WHEN-NOT-TO-BOOK",
+  "source": "authored 2026-08",
+  "pillar": "P6",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "When one-to-one is genuinely the wrong answer.",
+  "body": "We turn away work every month. Here is when, so you don't waste a trial finding out.",
+  "slides": [
+   "When 1:1 is genuinely the wrong answer.",
+   "We turn away work every month for these.",
+   "IF the child needs supervision to start homework — that's a routine problem, not a teaching one.",
+   "IF the whole class is failing the same topic — talk to the school first. It's cheaper and it's their job.",
+   "IF the child is exhausted — adding an hour to a 10-hour day makes it worse.",
+   "IF you want a specific mark guaranteed — nobody honest will give you that.",
+   "What we're for: a specific gap, a specific child, a specific plan.",
+   "If that's you — link in bio. If it isn't, this post did its job."
+  ]
+ },
+ {
+  "id": "P6-09",
+  "idea_group": "HOW-TO-SIGN-UP",
+  "source": "authored 2026-08",
+  "pillar": "P6",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "keyword": "TRIAL",
+  "hook": "Two questions and a WhatsApp number. That's the whole sign-up.",
+  "body": "Which grade and board, and where they're stuck. 'Somewhere in maths' is a complete answer — narrowing it down is our job, not yours.\n\nWe reply the same day with a mentor and two possible times. The class is 55 minutes, live, one-to-one, and free.\n\nThat's it. There is no form with fourteen fields, because nobody has ever been helped by one.",
+  "reel_script": "HOOK (0-5s): 'Two questions and a WhatsApp number. That's the whole sign-up.'\nONE (5-14s): 'Which grade and which board.'\nTWO (14-26s): 'Where they're stuck. Somewhere in maths is a complete answer — narrowing it is our job.'\nTHEN (26-40s): 'Same day, we send a mentor and two times. 55 minutes, live, one to one, free.'\nCLOSE (40-50s): 'No form with fourteen fields. Nobody has ever been helped by one.'\nCTA (50-54s): 'Comment TRIAL or use the link in bio.'"
+ },
+ {
+  "id": "P6-10",
+  "idea_group": "PROGRAMME-SHAPE",
+  "source": "authored 2026-08",
+  "pillar": "P6",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "A term with a mentor, week by week, so you know what you're buying.",
+  "body": "Twelve weeks is the usual unit. Here is the shape of it, so nothing is a surprise.",
+  "slides": [
+   "A term with a mentor. Twelve weeks.",
+   "So you know what you're buying.",
+   "WEEK 1 — Diagnosis. We find the floor, not the syllabus point.",
+   "WEEKS 2-4 — The gap. Often below their current grade. This is the uncomfortable part.",
+   "WEEKS 5-8 — Current topics, at proper speed now, ending every session book-shut.",
+   "WEEKS 9-11 — Past papers, timed, marked live so reasoning gets corrected.",
+   "WEEK 12 — A written review: what moved, what didn't, whether to continue.",
+   "Marks usually move around week six. Confidence moves earlier.",
+   "Start with one free class. Link in bio."
+  ]
+ },
+ {
+  "id": "P6-11",
+  "idea_group": "NEW-P6-11",
+  "source": "authored 2026-08",
+  "pillar": "P6",
+  "subject": "General",
+  "formats": [
+   "single"
+  ],
+  "hook": "If money is the reason you're hesitating, say so.",
+  "body": "It's the most common reason and the least often said out loud, and it usually leads to a worse decision made quietly — a cheaper option that doesn't work, or nothing at all.\n\nTell us the number that's realistic. Sometimes the answer is fewer sessions targeted at one gap rather than a weekly commitment, and that genuinely works.\n\nWe'd rather build something you can sustain than sell you a term you resent by October."
  }
 ]
