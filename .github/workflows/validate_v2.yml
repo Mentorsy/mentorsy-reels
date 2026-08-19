@@ -1,0 +1,24 @@
+name: Validate v2 content bank
+
+on:
+  push:
+    paths: ["engine_v2/**"]
+  pull_request:
+    paths: ["engine_v2/**"]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: engine_v2
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - name: Merge and validate the bank
+        run: python3 tools/merge_bank.py
+      - name: Audit the bank for any duplication
+        run: python3 tests/audit_no_repeats.py
+      - name: Prove a year of posting with zero repeats
+        run: python3 tests/simulate.py 365
