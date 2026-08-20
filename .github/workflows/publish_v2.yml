@@ -17,6 +17,11 @@ on:
     - cron: "30 2 * * 1,3,5"       # 08:00 IST — Mon / Wed / Fri morning
     - cron: "30 5 * * 6"           # 11:00 IST — Saturday
     - cron: "0 14 * * 0,1,2,3,4,5" # 19:30 IST — Sun/Mon/Tue/Wed/Thu/Fri evening
+    # Catch-up: GitHub cron drifts, sometimes past the window. These re-run
+    # 2h later. The date#slot ledger key makes a repeat impossible, so a
+    - cron: "30 4 * * 1,3,5"
+    - cron: "30 7 * * 6"
+    - cron: "0 16 * * 0,1,2,3,4,5"
   workflow_dispatch:
     inputs:
       slot:
