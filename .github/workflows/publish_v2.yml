@@ -9,7 +9,8 @@ name: Publish v2 (one slot, never twice)
 #     time you edit the repo.
 #   * concurrency serialises runs, so a slow run cannot overlap the next.
 #   * engine_v2/state/ledger.json is committed back. That commit IS the memory.
-#   * dry_run defaults to true, INCLUDING on a schedule. Flip it deliberately.
+#   * LIVE. Scheduled runs publish for real. A manual dispatch still defaults
+#     to dry_run: true, so you can always preview without posting.
 
 on:
   schedule:
@@ -63,9 +64,10 @@ jobs:
           IG_USER_ID:        ${{ secrets.IG_USER_ID }}
           FB_PAGE_ID:        ${{ secrets.FB_PAGE_ID }}
         run: |
-          # On a schedule trigger inputs.dry_run is EMPTY. Default to dry-run;
-          # only an explicit "false" is allowed to post.
-          if [ "${{ github.event.inputs.dry_run || 'true' }}" != "false" ]; then
+          # On a schedule trigger inputs.dry_run is EMPTY, and the schedule is
+          # meant to publish -- so empty means live. A manual dispatch sends
+          # "true" by default, which still previews without posting.
+          if [ "${{ github.event.inputs.dry_run || 'false' }}" != "false" ]; then
             python3 engine/run.py --slot "${{ github.event.inputs.slot || 'auto' }}" --dry-run
           else
             python3 engine/run.py --slot "${{ github.event.inputs.slot || 'auto' }}"
