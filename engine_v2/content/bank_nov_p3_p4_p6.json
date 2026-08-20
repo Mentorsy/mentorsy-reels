@@ -1,0 +1,289 @@
+[
+ {
+  "id": "N-P4-01",
+  "idea_group": "NEW-N-P4-01",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P4",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "EXAM",
+  "hook": "Board exams are in ten weeks. Here's the only schedule that survives contact.",
+  "body": "Elaborate timetables fail in week one and the failure costs more than the plan was worth. This one is deliberately crude.",
+  "slides": [
+   "Ten weeks to boards.",
+   "Elaborate timetables fail in week one. This one is crude on purpose.",
+   "WEEKS 10-8 — Past papers, untimed, open book. Find the gaps. Don't panic about scores.",
+   "WEEKS 7-5 — Close the book. Same papers. Now the score means something.",
+   "WEEKS 4-2 — Full papers, full time, in one sitting. Stamina is a separate skill.",
+   "WEEK 1 — Error log only. No new content. No new papers.",
+   "THROUGHOUT — One subject per day. Not three. Switching costs more than it looks.",
+   "Sleep is not the thing you cut. It's the thing that makes the rest work.",
+   "Comment EXAM for the printable version."
+  ]
+ },
+ {
+  "id": "N-P4-02",
+  "idea_group": "NEW-N-P4-02",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P4",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Your child's mock result is not a prediction. It's a measurement taken mid-treatment.",
+  "body": "Mocks happen with weeks of syllabus still unfinished and revision barely started. Reading them as a forecast of the final grade is like weighing someone halfway through a diet and declaring the outcome.\n\nWhat a mock is genuinely good for: showing which topics are unfinished, and how the pacing holds up under a real clock.\n\nUse it for that. Then put the number away.",
+  "reel_script": "HOOK (0-6s): 'A mock result is not a prediction. It's a measurement taken mid-treatment.'\nCONTEXT (6-20s): 'Mocks happen with syllabus unfinished and revision barely started.'\nANALOGY (20-32s): 'Reading it as a forecast is like weighing someone halfway through a diet and declaring the outcome.'\nUSE (32-46s): 'What it IS good for: which topics are unfinished, and whether pacing holds under a clock.'\nCLOSE (46-54s): 'Use it for that. Then put the number away.'"
+ },
+ {
+  "id": "N-P4-03",
+  "idea_group": "NEW-N-P4-03",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P4",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "BOARDS",
+  "hook": "Choosing streams after Grade 10: the four questions that actually matter.",
+  "body": "This decision gets made on prestige and parental hope more often than on evidence. Four questions cut through most of it.",
+  "slides": [
+   "Choosing streams after Grade 10.",
+   "Usually decided on prestige. Here's what evidence would say.",
+   "1. WHICH SUBJECT DOES SHE READ ABOUT WITHOUT BEING ASKED? Not which she scores highest in.",
+   "2. WHICH DEGREES REQUIRE WHICH SUBJECTS? Look it up. Actually look it up, this month.",
+   "3. WHAT DOES SHE DO WHEN A PROBLEM GETS HARD? Persist, or switch? That predicts more than marks.",
+   "4. WHAT'S REVERSIBLE? Science to commerce is easy. The other direction rarely is.",
+   "The honest one nobody asks: whose ambition is this?",
+   "A stream chosen for someone else is abandoned in the second year."
+  ]
+ },
+ {
+  "id": "N-P4-04",
+  "idea_group": "NEW-N-P4-04",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P4",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "What examiners are told to do with an answer they can't read.",
+  "body": "Handwriting isn't marked. But an examiner marking 300 scripts cannot award a mark for a word they cannot decipher, and they will not spend ninety seconds deciphering it.",
+  "slides": [
+   "What examiners do with an answer they can't read.",
+   "Handwriting isn't marked. But this still costs.",
+   "An examiner marks ~300 scripts. Roughly 90 seconds each.",
+   "They cannot award a mark for a word they can't read.",
+   "And they will not spend the extra 60 seconds working it out.",
+   "THE FIX ISN'T NEATER WRITING. It's fewer, shorter sentences.",
+   "Number your points. Leave a line between them. Underline the key term.",
+   "A structured page is read faster and marked more generously.",
+   "This is worth more in December than another revision hour."
+  ]
+ },
+ {
+  "id": "N-P4-05",
+  "idea_group": "NEW-N-P4-05",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P4",
+  "subject": "Mathematics",
+  "formats": [
+   "reel"
+  ],
+  "hook": "The calculator paper and the non-calculator paper need different revision. Most students do one.",
+  "body": "The non-calculator paper tests arithmetic fluency, estimation and number sense. The calculator paper tests method selection, multi-step reasoning and knowing what to type.\n\nRevising 'maths' generally prepares you for neither specifically. Students who lose marks on paper 1 rarely lose them on paper 2 for the same reason.\n\nSort your lost marks by paper. The two lists look nothing alike.",
+  "reel_script": "HOOK (0-6s): 'The calculator paper and the non-calculator paper need different revision. Most students do one.'\nPAPER 1 (6-18s): 'Non-calculator tests arithmetic fluency, estimation, number sense.'\nPAPER 2 (18-30s): 'Calculator tests method selection, multi-step reasoning, knowing what to type.'\nPOINT (30-44s): 'Revising maths generally prepares you for neither. Students who lose marks on paper 1 rarely lose them on paper 2 for the same reason.'\nCTA (44-54s): 'Sort your lost marks by paper. The two lists look nothing alike.'"
+ },
+ {
+  "id": "N-P4-06",
+  "idea_group": "NEW-N-P4-06",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P4",
+  "subject": "English",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "The unseen text question, in the order an examiner wants it.",
+  "body": "Students panic at unseen passages because they treat them as a comprehension test. They're a technique test, and technique can be prepared even when the text can't.",
+  "slides": [
+   "The unseen text question.",
+   "You can't prepare the text. You can prepare the technique.",
+   "1. READ THE QUESTION FIRST. Then the passage. Never the other way round.",
+   "2. ANNOTATE FOR THE QUESTION ONLY. Ignore everything else, however interesting.",
+   "3. FIND THREE MOMENTS, spread across the passage. Beginning, middle, end.",
+   "4. FOR EACH: what the writer does, then WHY it works on a reader.",
+   "5. The 'why it works on a reader' is where almost all the marks live.",
+   "Most students describe the technique and stop. That's half a mark of a possible three.",
+   "Prepare the shape. The text takes care of itself."
+  ]
+ },
+ {
+  "id": "N-P4-07",
+  "idea_group": "NEW-N-P4-07",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P4",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "keyword": "IB",
+  "hook": "IB students: your Extended Essay deadline is closer than the calendar says.",
+  "body": "The formal deadline is not the real one. The real one is the last week your supervisor has time to read a full draft and give you something you can act on.\n\nThat's usually three to four weeks earlier, and it's the difference between a grade band.\n\nAsk your supervisor today: when do you need my complete draft to be able to comment properly? Then work back from that.",
+  "reel_script": "HOOK (0-6s): 'IB students — your Extended Essay deadline is closer than the calendar says.'\nPOINT (6-20s): 'The formal deadline isn't the real one. The real one is the last week your supervisor can read a FULL draft and give you something usable.'\nGAP (20-32s): 'That's usually three to four weeks earlier.'\nSTAKES (32-42s): 'And it's the difference between a grade band.'\nACTION (42-54s): 'Ask them today: when do you need my complete draft to comment properly? Work back from that.'\nCTA (54-58s): 'Comment IB for the guide.'"
+ },
+ {
+  "id": "N-P4-08",
+  "idea_group": "NEW-N-P4-08",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P4",
+  "subject": "Science",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "Six-mark questions have a shape. Learn the shape, not more content.",
+  "body": "Extended-response questions are marked on a band, not on a point count. Students who write more content and less structure score lower than students who do the reverse.",
+  "slides": [
+   "Six-mark questions have a shape.",
+   "They're banded, not point-counted. Structure beats volume.",
+   "OPEN with the direct answer. One sentence. No preamble.",
+   "THEN the mechanism — the because. This is the largest band.",
+   "THEN a specific example or piece of data.",
+   "THEN the limitation, or the other side, if the command word invites it.",
+   "CLOSE by answering the question again in different words.",
+   "Five short paragraphs beats one long one, every time.",
+   "Practise the shape on a topic you know. Then it's automatic on one you don't."
+  ]
+ },
+ {
+  "id": "N-P4-09",
+  "idea_group": "NEW-N-P4-09",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P4",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "January admissions: the three documents schools ask for that nobody prepares.",
+  "body": "Everyone prepares for the entrance test. Almost nobody prepares the rest, and the rest is where avoidable rejections happen.\n\nA current transfer certificate and report set, obtained before the December break, not during the January rush.\nA short parent statement — why this school, in your words, not a template.\nAnd the child's own two minutes, because most schools interview and most children have never been asked why they want to come.\n\nPrepare all three in November.",
+  "reel_script": "HOOK (0-6s): 'January admissions. Three things schools ask for that nobody prepares.'\nONE (6-18s): 'Current transfer certificate and reports. Get them BEFORE the December break, not in the January rush.'\nTWO (18-30s): 'A short parent statement. Why this school, in your words. Not a template.'\nTHREE (30-44s): 'The child's own two minutes. Most schools interview — and most children have never been asked why they want to come.'\nCLOSE (44-54s): 'Prepare all three in November. It's the cheapest advantage available.'"
+ },
+ {
+  "id": "N-P4-10",
+  "idea_group": "NEW-N-P4-10",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P4",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "Grade boundaries move every year. What that means for your child.",
+  "body": "Parents plan around a fixed number — 'she needs 75 for an A'. Boundaries are set after the papers are marked, against how the whole cohort performed.",
+  "slides": [
+   "Grade boundaries move every year.",
+   "Parents plan around a fixed number. Boundaries aren't fixed.",
+   "They're set AFTER marking, against how the whole cohort did.",
+   "A hard paper lowers the boundary. An easy one raises it.",
+   "WHICH MEANS: a mark isn't a grade. Your child is being measured against a year group.",
+   "So 'she needs 75' is not a real target. It's last year's number.",
+   "THE USEFUL TARGET: comfortably above the boundary, not on it.",
+   "And a three-year boundary range, not a single figure, is what you should be planning with.",
+   "Ask the school for the last three years. They have them."
+  ]
+ },
+ {
+  "id": "N-P3-01",
+  "idea_group": "NEW-N-P3-01",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P3",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "What eight weeks with a mentor looks like when it's working.",
+  "body": "Not marks. Marks are the last thing to move. These are the signals that arrive first, in the order they arrive.",
+  "slides": [
+   "Eight weeks in, when it's working.",
+   "Marks move last. These arrive first, in this order.",
+   "WEEK 2 — They stop saying 'I don't get any of it' and name a specific topic.",
+   "WEEK 3 — They attempt a question before asking for help.",
+   "WEEK 4 — They can say what they got wrong, not just that they got it wrong.",
+   "WEEK 6 — They correct themselves mid-answer. This one matters most.",
+   "WEEK 8 — A mark moves.",
+   "If you're at week six and none of these have happened, say so. Don't wait for week twelve.",
+   "This list is also how you judge any tutor, including us."
+  ]
+ },
+ {
+  "id": "N-P3-02",
+  "idea_group": "NEW-N-P3-02",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P3",
+  "subject": "Mathematics",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "Why we spend the first December session doing nothing but past papers.",
+  "body": "Not to test them. To watch them work under a clock, which is a different activity to teaching and reveals different things.",
+  "slides": [
+   "The first December session is a past paper. Nothing else.",
+   "Not to test them. To WATCH them under a clock.",
+   "WHAT WE'RE LOOKING FOR — not the score.",
+   "Where do they stall? Which question do they skip and never come back to?",
+   "Do they read the whole paper first, or start at Q1 and hope?",
+   "How long before they abandon a question? Usually far too soon.",
+   "Do they check anything at the end, or put the pen down?",
+   "Every one of those is fixable in a fortnight — and none of them are maths.",
+   "Together they're usually worth more marks than the content revision."
+  ]
+ },
+ {
+  "id": "N-P6-01",
+  "idea_group": "DECEMBER-BOARD-OFFER",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P6",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "keyword": "TRIAL",
+  "hook": "Starting in December is not too late. Starting in February is.",
+  "body": "Ten weeks before boards, there is still time to fix pacing, close two topics and rebuild the habit of finishing a paper. Those are the highest-yield things available and they're all still open.\n\nBy February the only honest offer anyone can make is damage limitation.\n\nOne free class this month tells you which of those is actually on the table for your child.",
+  "reel_script": "HOOK (0-6s): 'Starting in December isn't too late. Starting in February is.'\nDECEMBER (6-22s): 'Ten weeks out, you can still fix pacing, close two topics, and rebuild the habit of finishing a paper. Highest-yield things available.'\nFEBRUARY (22-34s): 'By February the only honest offer anyone can make is damage limitation.'\nCTA (34-48s): 'One free class this month tells you which of those is on the table. Link in bio.'"
+ },
+ {
+  "id": "N-P6-02",
+  "idea_group": "DECEMBER-BOARD-OFFER",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P6",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "What we'd do with your child in the ten weeks before a board exam.",
+  "body": "Written out plainly so you can compare it with anyone else you're considering, including doing nothing.",
+  "slides": [
+   "Ten weeks before a board exam. What we'd actually do.",
+   "Written plainly, so you can compare it with anyone. Including doing nothing.",
+   "SESSION 1 — A full past paper. We watch. We don't teach.",
+   "SESSIONS 2-4 — The two topics costing the most marks. Only those two.",
+   "SESSIONS 5-8 — Timed sections. Pacing, not content.",
+   "SESSIONS 9-12 — Error log. Every mistake from the last eight weeks, re-attempted.",
+   "LAST 2 WEEKS — Nothing new. Consolidation and sleep.",
+   "WHAT WE WON'T DO: race through the whole syllabus again. There isn't time and it doesn't work.",
+   "Free trial class. Link in bio."
+  ]
+ },
+ {
+  "id": "N-P6-03",
+  "idea_group": "NEW-N-P6-03",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P6",
+  "subject": "General",
+  "formats": [
+   "single"
+  ],
+  "hook": "We're not taking new board-exam students after 15 December. Here's why that's not a sales line.",
+  "body": "Under ten weeks, the honest arithmetic stops working. There isn't room to diagnose properly, close a real gap and then build exam stamina on top — and a programme that skips the first step is just expensive revision.\n\nWe'd rather say no in December than take the money in January and manage your expectations in March.\n\nIf boards are this year and you're considering it, this month is the decision, not next."
+ }
+]

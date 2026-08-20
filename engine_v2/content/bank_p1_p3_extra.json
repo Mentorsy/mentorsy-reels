@@ -1,31 +1,141 @@
 [
-{"id":"P1-11","idea_group":"NEW-P1-11","source":"authored 2026-08","pillar":"P1","subject":"Mathematics","formats":["carousel"],"keyword":"MATHS",
- "hook":"The order maths actually breaks in, and where to look first.",
- "body":"A collapse in Grade 10 almost never starts in Grade 10. Work backwards through this chain and you'll usually find it in one evening.",
- "slides":["Maths breaks in a predictable order.","Work backwards down this chain. You'll find it in an evening.","GRADE 10 stuck on trigonometry?","→ Check ratio and proportion (Grade 7).","GRADE 9 stuck on algebra?","→ Check fractions and negative numbers (Grade 6).","GRADE 8 stuck on percentages?","→ Check decimals and place value (Grade 5).","The failing chapter is almost never the broken one.","Comment MATHS for the full diagnostic chain."]},
-
-{"id":"P1-12","idea_group":"NEW-P1-12","source":"authored 2026-08","pillar":"P1","subject":"General","formats":["carousel"],
- "hook":"Six things that look like laziness and are not.",
- "body":"Almost every child called lazy is avoiding something specific. Naming it correctly changes what you do next.",
- "slides":["Six things that look like laziness.","None of them are.","'Won't start' — often doesn't know what the first step IS. Avoidance of ambiguity, not effort.","'Rushes everything' — finishing fast ends the discomfort faster.","'Says it's boring' — the most socially safe way a 13-year-old can say 'I can't do this'.","'Forgets the homework' — sometimes genuinely organisational. Sometimes convenient.","'Only does the easy questions' — protecting a self-image. Very common in bright children.","'Fine at home, silent in class' — the room is the variable, not the child.","Each one has a different fix. 'Try harder' fixes none of them."]},
-
-{"id":"P1-13","idea_group":"NEW-P1-13","source":"authored 2026-08","pillar":"P1","subject":"Science","formats":["carousel"],
- "hook":"Your child revised for eight hours and dropped four marks. Here's where they went.",
- "body":"Lost marks sort into four types and each needs an opposite response. Sorting them takes twenty minutes and is worth more than the next eight hours.",
- "slides":["Eight hours of revision. Four marks lower.","Lost marks come in four types. Each needs an opposite fix.","DIDN'T KNOW IT → more revision. This is the only one extra hours fix.","KNEW IT, RAN OUT OF TIME → pacing. Fix with timed papers, not content.","KNEW IT, MISREAD THE QUESTION → command words. A vocabulary problem.","KNEW IT, ARITHMETIC SLIPPED → automaticity. Ten minutes a day, not more revision.","Three of the four get WORSE with more revision hours.","That's why the effort felt wasted. It was aimed at the wrong bucket."]},
-
-{"id":"P3-08","idea_group":"NEW-P3-08","source":"authored 2026-08","pillar":"P3","subject":"General","formats":["carousel"],
- "hook":"What we do in week two, when the marks haven't moved yet.",
- "body":"Week two is where most tutoring arrangements quietly fail, because nothing visible has changed and everyone starts to doubt it.",
- "slides":["Week two is where most tutoring quietly fails.","Nothing visible has changed. Everyone starts to doubt it.","WHAT'S ACTUALLY HAPPENING: we're working below their grade, on the gap.","That work does not show up in this week's test. It shows up in week six.","WHAT WE SEND YOU instead of marks:","— what your child could not do on day one","— what they can do now","— what we're doing next, and why","Progress you can read before the marks arrive.","If we can't show you that in week two, be suspicious. Of anyone."]},
-
-{"id":"P3-09","idea_group":"NEW-P3-09","source":"authored 2026-08","pillar":"P3","subject":"Mathematics","formats":["carousel"],
- "hook":"The 'book shut' rule, and why every session ends with it.",
- "body":"A child who can do a question with the example visible has not learned it. They have copied it. The difference only shows up in an exam hall.",
- "slides":["Every session ends the same way. Book shut.","Three problems. No example visible. No notes.","WHY: a child who solves with the example open has copied, not learned.","Recognition and retrieval live in different places. Only one is examined.","It is uncomfortable, and the discomfort IS the learning.","If they can't do it book-shut, we haven't finished — so we don't move on.","This is the single habit that most separates tutoring that works from tutoring that feels nice.","Ask any tutor: what does the last five minutes look like?"]},
-
-{"id":"P3-10","idea_group":"NEW-P3-10","source":"authored 2026-08","pillar":"P3","subject":"English","formats":["carousel"],
- "hook":"How an essay actually improves, in the order it happens.",
- "body":"English feels unfixable to parents because progress isn't visible line by line. It arrives in a fixed sequence, and knowing the sequence tells you where your child currently is.",
- "slides":["How an essay actually improves. In order.","English feels unfixable because progress isn't visible line by line.","STAGE 1 — Has a point. Most essays don't. This alone moves a grade.","STAGE 2 — Every paragraph serves that point. Nothing decorative survives.","STAGE 3 — Evidence, not assertion. Quote, then explain why it proves the point.","STAGE 4 — Handles a counter-argument without collapsing.","STAGE 5 — Sentence rhythm and vocabulary. This is LAST, not first.","Most students are pushed straight to stage 5. That's why 'use better words' never works.","Find which stage your child is on. Work on that one only."]}
+ {
+  "id": "P1-11",
+  "idea_group": "NEW-P1-11",
+  "source": "authored 2026-08",
+  "pillar": "P1",
+  "subject": "Mathematics",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "MATHS",
+  "hook": "The order maths actually breaks in, and where to look first.",
+  "body": "A collapse in Grade 10 almost never starts in Grade 10. Work backwards through this chain and you'll usually find it in one evening.",
+  "slides": [
+   "Maths breaks in a predictable order.",
+   "Work backwards down this chain. You'll find it in an evening.",
+   "GRADE 10 stuck on trigonometry?",
+   "→ Check ratio and proportion (Grade 7).",
+   "GRADE 9 stuck on algebra?",
+   "→ Check fractions and negative numbers (Grade 6).",
+   "GRADE 8 stuck on percentages?",
+   "→ Check decimals and place value (Grade 5).",
+   "The failing chapter is almost never the broken one.",
+   "Comment MATHS for the full diagnostic chain."
+  ]
+ },
+ {
+  "id": "P1-12",
+  "idea_group": "NEW-P1-12",
+  "source": "authored 2026-08",
+  "pillar": "P1",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "Six things that look like laziness and are not.",
+  "body": "Almost every child called lazy is avoiding something specific. Naming it correctly changes what you do next.",
+  "slides": [
+   "Six things that look like laziness.",
+   "None of them are.",
+   "'Won't start' — often doesn't know what the first step IS. Avoidance of ambiguity, not effort.",
+   "'Rushes everything' — finishing fast ends the discomfort faster.",
+   "'Says it's boring' — the most socially safe way a 13-year-old can say 'I can't do this'.",
+   "'Forgets the homework' — sometimes genuinely organisational. Sometimes convenient.",
+   "'Only does the easy questions' — protecting a self-image. Very common in bright children.",
+   "'Fine at home, silent in class' — the room is the variable, not the child.",
+   "Each one has a different fix. 'Try harder' fixes none of them."
+  ]
+ },
+ {
+  "id": "P1-13",
+  "idea_group": "LOST-MARK-BUCKETS",
+  "source": "authored 2026-08",
+  "pillar": "P1",
+  "subject": "Science",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "Your child revised for eight hours and dropped four marks. Here's where they went.",
+  "body": "Lost marks sort into four types and each needs an opposite response. Sorting them takes twenty minutes and is worth more than the next eight hours.",
+  "slides": [
+   "Eight hours of revision. Four marks lower.",
+   "Lost marks come in four types. Each needs an opposite fix.",
+   "DIDN'T KNOW IT → more revision. This is the only one extra hours fix.",
+   "KNEW IT, RAN OUT OF TIME → pacing. Fix with timed papers, not content.",
+   "KNEW IT, MISREAD THE QUESTION → command words. A vocabulary problem.",
+   "KNEW IT, ARITHMETIC SLIPPED → automaticity. Ten minutes a day, not more revision.",
+   "Three of the four get WORSE with more revision hours.",
+   "That's why the effort felt wasted. It was aimed at the wrong bucket."
+  ]
+ },
+ {
+  "id": "P3-08",
+  "idea_group": "NEW-P3-08",
+  "source": "authored 2026-08",
+  "pillar": "P3",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "What we do in week two, when the marks haven't moved yet.",
+  "body": "Week two is where most tutoring arrangements quietly fail, because nothing visible has changed and everyone starts to doubt it.",
+  "slides": [
+   "Week two is where most tutoring quietly fails.",
+   "Nothing visible has changed. Everyone starts to doubt it.",
+   "WHAT'S ACTUALLY HAPPENING: we're working below their grade, on the gap.",
+   "That work does not show up in this week's test. It shows up in week six.",
+   "WHAT WE SEND YOU instead of marks:",
+   "— what your child could not do on day one",
+   "— what they can do now",
+   "— what we're doing next, and why",
+   "Progress you can read before the marks arrive.",
+   "If we can't show you that in week two, be suspicious. Of anyone."
+  ]
+ },
+ {
+  "id": "P3-09",
+  "idea_group": "NEW-P3-09",
+  "source": "authored 2026-08",
+  "pillar": "P3",
+  "subject": "Mathematics",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "The 'book shut' rule, and why every session ends with it.",
+  "body": "A child who can do a question with the example visible has not learned it. They have copied it. The difference only shows up in an exam hall.",
+  "slides": [
+   "Every session ends the same way. Book shut.",
+   "Three problems. No example visible. No notes.",
+   "WHY: a child who solves with the example open has copied, not learned.",
+   "Recognition and retrieval live in different places. Only one is examined.",
+   "It is uncomfortable, and the discomfort IS the learning.",
+   "If they can't do it book-shut, we haven't finished — so we don't move on.",
+   "This is the single habit that most separates tutoring that works from tutoring that feels nice.",
+   "Ask any tutor: what does the last five minutes look like?"
+  ]
+ },
+ {
+  "id": "P3-10",
+  "idea_group": "NEW-P3-10",
+  "source": "authored 2026-08",
+  "pillar": "P3",
+  "subject": "English",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "How an essay actually improves, in the order it happens.",
+  "body": "English feels unfixable to parents because progress isn't visible line by line. It arrives in a fixed sequence, and knowing the sequence tells you where your child currently is.",
+  "slides": [
+   "How an essay actually improves. In order.",
+   "English feels unfixable because progress isn't visible line by line.",
+   "STAGE 1 — Has a point. Most essays don't. This alone moves a grade.",
+   "STAGE 2 — Every paragraph serves that point. Nothing decorative survives.",
+   "STAGE 3 — Evidence, not assertion. Quote, then explain why it proves the point.",
+   "STAGE 4 — Handles a counter-argument without collapsing.",
+   "STAGE 5 — Sentence rhythm and vocabulary. This is LAST, not first.",
+   "Most students are pushed straight to stage 5. That's why 'use better words' never works.",
+   "Find which stage your child is on. Work on that one only."
+  ]
+ }
 ]

@@ -167,7 +167,7 @@
   "hook": "The 11 times table trick nobody teaches, and it works up to 99.",
   "body": "Take any two-digit number. Split the digits. Add them. Put the sum in the middle.\n\n32 × 11 → 3_2, 3+2=5 → 352.\n45 × 11 → 4_5, 4+5=9 → 495.\n\nIf the middle sum crosses 9, carry it left. 87 × 11 → 8_7, 8+7=15 → carry the 1 → 957.\n\nTeach it once. Your child will show it to everyone for a week, and that is exactly how a child decides Maths is interesting.",
   "reel_script": "HOOK (0-3s): '32 times 11. Three seconds. Watch.'\nDEMO (3-15s): Write 3 _ 2. 'Split the digits. Add them. Three plus two is five. Put it in the middle. 352.'\nSECOND (15-24s): '45 times 11. Four, nine, five. 495.'\nEDGE CASE (24-38s): '87? 8 plus 7 is 15. Carry the one. 957.'\nCTA (38-44s): 'Show your kid tonight. They'll show everyone at school tomorrow.'",
-  "idea_group": "NEW-P2-01",
+  "idea_group": "MENTAL-MULTIPLICATION",
   "source": "authored 2026-08"
  },
  {

@@ -1,0 +1,225 @@
+[
+ {
+  "id": "N-P2-01",
+  "idea_group": "MENTAL-MULTIPLICATION",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "Mathematics",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Multiply any two-digit numbers in the fifties, in your head.",
+  "body": "Both in the fifties? 54 × 57.\n\nAdd the units to 25: 4 + 7 = 11 → 25 + 11 = 36. That's the front.\nMultiply the units: 4 × 7 = 28. That's the back.\n\n3628.\n\n53 × 56 → 25+9 = 34, and 3×6 = 18 → 3418. It works because both numbers sit either side of fifty, and fifty squared is a very friendly number.",
+  "reel_script": "HOOK (0-4s): '54 times 57. In your head. Watch.'\nSTEP 1 (4-16s): 'Add the units to 25. Four plus seven is eleven. 25 plus 11 is 36. That's the front.'\nSTEP 2 (16-26s): 'Multiply the units. Four times seven is 28. That's the back.'\nANSWER (26-34s): '3628.'\nSECOND (34-46s): '53 times 56. 25 plus 9 is 34. 3 times 6 is 18. 3418.'\nCTA (46-52s): 'Works for anything in the fifties. Show a kid tonight.'"
+ },
+ {
+  "id": "N-P2-02",
+  "idea_group": "NEW-N-P2-02",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "English",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "How to plan an essay in four minutes, so the writing takes half as long.",
+  "body": "Most students write to find out what they think. Four minutes of planning turns that into writing down what they already decided, which is a completely different task.",
+  "slides": [
+   "Plan an essay in four minutes.",
+   "Then the writing takes half as long.",
+   "MIN 1 — Answer the question in ONE sentence. That's your position.",
+   "MIN 2 — List three reasons it's true. Just three words each.",
+   "MIN 3 — Next to each, note the evidence. Quote, event, figure.",
+   "MIN 4 — Order them: second-strongest, weakest, strongest. Finish hard.",
+   "Now write. You're transcribing a decision, not making one.",
+   "Students who skip this write for 40 minutes and discover their argument in the last paragraph."
+  ]
+ },
+ {
+  "id": "N-P2-03",
+  "idea_group": "NEW-N-P2-03",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "Science",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Why you feel colder in water than in air at the same temperature.",
+  "body": "20°C air feels mild. 20°C water feels freezing. The temperature is identical — what changes is the rate.\n\nWater conducts heat away from your skin roughly 25 times faster than air, so your body loses warmth far quicker even though the water isn't colder.\n\nThis is the difference between temperature and heat transfer, and it's the single idea most Grade 8 students never quite separate.",
+  "reel_script": "HOOK (0-5s): '20 degree air feels mild. 20 degree water feels freezing. Same temperature.'\nQUESTION (5-14s): 'So what's different?'\nANSWER (14-30s): 'The RATE. Water pulls heat off your skin about 25 times faster than air. You're not colder. You're losing warmth quicker.'\nPAYOFF (30-44s): 'That's the difference between temperature and heat transfer — the one idea most Grade 8 students never separate.'\nCTA (44-50s): 'Save it for the next physics chapter.'"
+ },
+ {
+  "id": "N-P2-04",
+  "idea_group": "NEW-N-P2-04",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "Mathematics",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "EXAM",
+  "hook": "Six marks students throw away in every maths paper, and how to stop.",
+  "body": "None of these are about knowing more maths. All of them are about not donating marks you've already earned.",
+  "slides": [
+   "Six marks thrown away in every maths paper.",
+   "None of them are about knowing more maths.",
+   "1. NO UNITS. cm, kg, seconds. One mark, every time.",
+   "2. NO WORKING SHOWN. Right answer, no method — you lose the method marks.",
+   "3. ROUNDING TOO EARLY. Round at the END, or the final answer drifts.",
+   "4. NOT ANSWERING THE QUESTION ASKED. You found x. It wanted the area.",
+   "5. BLANK SPACE. An attempt scores more than nothing. Always write something.",
+   "6. NOT CHECKING THE MARK ALLOCATION. 4 marks means four things to say.",
+   "Comment EXAM for the checklist to tape inside a pencil case."
+  ]
+ },
+ {
+  "id": "N-P2-05",
+  "idea_group": "NEW-N-P2-05",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "French",
+  "formats": [
+   "reel"
+  ],
+  "keyword": "FRENCH",
+  "hook": "The French past tense, decided by one question.",
+  "body": "Passé composé or imparfait? Ask: is this a photograph or a film?\n\nA photograph is a finished moment — j'ai mangé, I ate. Passé composé.\nA film is background, ongoing, repeated — je mangeais, I was eating, I used to eat. Imparfait.\n\n'Il pleuvait quand je suis sorti.' It was raining — film. I went out — photograph. Both in one sentence, and now you can hear why.",
+  "reel_script": "HOOK (0-5s): 'Passé composé or imparfait? One question settles it.'\nQUESTION (5-12s): 'Is this a photograph, or a film?'\nPHOTO (12-24s): 'A photograph is a finished moment. J'ai mangé. I ate. Passé composé.'\nFILM (24-36s): 'A film is background, ongoing, repeated. Je mangeais. I was eating. Imparfait.'\nBOTH (36-50s): 'Il pleuvait quand je suis sorti. It was raining — film. I went out — photograph. Both in one sentence.'\nCTA (50-56s): 'Comment FRENCH for the tense sheet.'"
+ },
+ {
+  "id": "N-P2-06",
+  "idea_group": "NEW-N-P2-06",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Revise the thing you got wrong, not the subject you're worried about.",
+  "body": "Anxiety picks the subject. Evidence should pick the topic.\n\nMost students spend December revising the subject that scares them, which is often not the one leaking the most marks. The error log knows; the feeling doesn't.\n\nOpen the last three tests. Count the lost marks by topic. Revise the top two. Everything else waits.",
+  "reel_script": "HOOK (0-5s): 'Revise what you got wrong. Not the subject you're worried about.'\nPOINT (5-18s): 'Anxiety picks the subject. Evidence should pick the topic. They're rarely the same.'\nMETHOD (18-34s): 'Open the last three tests. Count lost marks by topic. Revise the top two.'\nCLOSE (34-46s): 'Everything else waits. The error log knows where the marks are. The feeling doesn't.'"
+ },
+ {
+  "id": "N-P2-07",
+  "idea_group": "NEW-N-P2-07",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "Public Speaking",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "SPEAK",
+  "hook": "How to structure any two-minute talk, in four lines.",
+  "body": "Children over-prepare content and under-prepare shape. Shape is what makes it feel confident.",
+  "slides": [
+   "Any two-minute talk. Four lines.",
+   "Kids over-prepare content and under-prepare shape.",
+   "LINE 1 — The claim. 'Homework should be optional after Grade 8.'",
+   "LINE 2 — The reason. 'Because it stops measuring learning and starts measuring compliance.'",
+   "LINE 3 — The example. One. Specific. Real.",
+   "LINE 4 — The return. Say the claim again, in different words.",
+   "That's it. Everything else is filling in the middle.",
+   "A talk with shape sounds confident even when the speaker isn't.",
+   "Comment SPEAK for the practice drills."
+  ]
+ },
+ {
+  "id": "N-P2-08",
+  "idea_group": "NEW-N-P2-08",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "Coding",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Variables, explained with a shoebox. Works on any eight-year-old.",
+  "body": "A variable is a labelled box. You write a name on the outside — score — and put something inside. Later you can look in, or swap what's in there for something else.\n\nThe name stays. The contents change. That's the whole idea, and it's the thing children actually get stuck on.\n\nGive them three boxes and some paper. Ten minutes of that beats an hour of syntax.",
+  "reel_script": "HOOK (0-5s): 'Variables. Explained with a shoebox. Works on any eight-year-old.'\nBODY (5-20s): Hold up a box with SCORE written on it. 'Write a name on the outside. Put something in. Later, look in — or swap it for something else.'\nKEY (20-32s): 'The name stays. The contents change. That's the whole idea.'\nWHY (32-44s): 'And it's exactly where children get stuck — they think the name IS the thing.'\nCTA (44-52s): 'Three boxes and some paper. Ten minutes beats an hour of syntax.'"
+ },
+ {
+  "id": "N-P2-09",
+  "idea_group": "NEW-N-P2-09",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "Mathematics",
+  "formats": [
+   "reel"
+  ],
+  "hook": "The 15% tip trick that teaches percentages better than a worksheet.",
+  "body": "10% is moving the decimal point. 5% is half of that. Add them.\n\nBill of ₹840? 10% is 84. Half of 84 is 42. So 15% is 126.\n\nWhat makes this teach so well is that it breaks an awkward percentage into two easy ones — which is the actual skill percentages are testing, and the one worksheets rarely make visible.",
+  "reel_script": "HOOK (0-4s): '15% of 840. No calculator. Five seconds.'\nSTEP (4-16s): '10 percent is just moving the decimal. 84. Five percent is half of that. 42.'\nADD (16-24s): 'Add them. 126.'\nWHY IT TEACHES (24-40s): 'The real skill is breaking an awkward percentage into two easy ones. That's what the exam is testing. Worksheets rarely make it visible.'\nCTA (40-48s): 'Do it out loud at the next restaurant bill.'"
+ },
+ {
+  "id": "N-P2-10",
+  "idea_group": "NEW-N-P2-10",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "English",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Cut every 'very' and watch the writing get older.",
+  "body": "'Very sad' is weaker than 'devastated'. 'Very big' is weaker than 'vast'. 'Very tired' is weaker than 'exhausted'.\n\nThe word 'very' is a signal that a better word exists and hasn't been found yet. So it becomes a search prompt, not a crime.\n\nHave your child underline every 'very' in their last essay and replace it. Vocabulary marks move within a fortnight.",
+  "reel_script": "HOOK (0-4s): 'Cut every very. The writing gets two years older.'\nEXAMPLES (4-20s): On screen: very sad → devastated. very big → vast. very tired → exhausted.\nREFRAME (20-34s): 'Very is a signal that a better word exists and hasn't been found yet. It's a search prompt, not a crime.'\nHOMEWORK (34-46s): 'Underline every very in the last essay. Replace it.'\nCTA (46-52s): 'Vocabulary marks move inside a fortnight.'"
+ },
+ {
+  "id": "N-P2-11",
+  "idea_group": "NEW-N-P2-11",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "Science",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "Graph questions are free marks. Here's the order to answer them in.",
+  "body": "Almost every science paper has one, and almost every student loses marks in the same four places.",
+  "slides": [
+   "Graph questions are free marks.",
+   "Most students lose them in the same four places.",
+   "1. READ THE AXES FIRST. Including the units and the scale. Ten seconds.",
+   "2. STATE THE TREND before the numbers. 'As X increases, Y decreases.'",
+   "3. QUOTE DATA. Two points, with units. This is where the marks are.",
+   "4. NAME THE ANOMALY if there is one. Examiners put it there on purpose.",
+   "5. ONLY THEN explain WHY, if asked.",
+   "Students do 5 first and skip 3. That's the lost mark, every time.",
+   "Trend → data → anomaly → explanation. In that order."
+  ]
+ },
+ {
+  "id": "N-P2-12",
+  "idea_group": "NEW-N-P2-12",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "General",
+  "formats": [
+   "single"
+  ],
+  "hook": "Teach it to someone. It's not a study tip, it's a test.",
+  "body": "Explaining a topic out loud to another person exposes exactly where the understanding stops, because you cannot bluff through a sentence you don't have.\n\nThe listener doesn't need to know the subject. A younger sibling, a parent, a wall. The value is in the speaking, not the audience.\n\nWhere they stumble is the revision list. Everything they explained fluently is already done."
+ },
+ {
+  "id": "N-P2-13",
+  "idea_group": "NEW-N-P2-13",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "Mathematics",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Why dividing by a fraction makes the answer bigger.",
+  "body": "6 ÷ ½ = 12, and every child finds that offensive.\n\nBut read the question properly: how many halves fit inside six? Twelve. Obviously twelve.\n\nDivision has always meant 'how many of these fit inside that'. Nothing changed when the divisor became a fraction — only the intuition did, because we spend six years dividing by numbers bigger than one.",
+  "reel_script": "HOOK (0-5s): 'Six divided by a half is twelve. Every child finds that offensive.'\nREFRAME (5-18s): 'Read it properly. How many halves fit inside six? Twelve. Obviously twelve.'\nPOINT (18-34s): 'Division has always meant how many of these fit inside that. Nothing changed when the divisor became a fraction.'\nWHY IT FEELS WRONG (34-48s): 'Only the intuition changed — because we spend six years dividing by numbers bigger than one.'\nCTA (48-54s): 'Try the question on them tonight.'"
+ },
+ {
+  "id": "N-P2-14",
+  "idea_group": "NEW-N-P2-14",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Study with the phone in another room. Not face-down. Another room.",
+  "body": "Face-down still costs you. Research on this is unusually consistent: the presence of a phone reduces available attention even when it's silent and untouched, because part of the mind is spent not-checking it.\n\nThat's not weakness, it's load. You can't will it away, you can only remove the source.\n\nAnother room. Ninety minutes. The difference is measurable in a fortnight.",
+  "reel_script": "HOOK (0-5s): 'Study with the phone in another room. Not face-down. Another room.'\nEVIDENCE (5-20s): 'The research here is unusually consistent — a phone reduces available attention even when it's silent and untouched.'\nWHY (20-34s): 'Because part of the mind is spent NOT checking it. That's not weakness. It's load.'\nCLOSE (34-48s): 'You can't will it away. You can only remove the source. Another room. Ninety minutes.'"
+ }
+]

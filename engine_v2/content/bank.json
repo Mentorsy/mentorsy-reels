@@ -1,5 +1,518 @@
 [
  {
+  "id": "D-C-01",
+  "idea_group": "NEW-D-C-01",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P1",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "Eight questions to ask your child over the winter break. None are about school.",
+  "body": "Three weeks of proximity is the best diagnostic window a parent gets all year, and it closes in January.",
+  "slides": [
+   "Eight questions for the winter break.",
+   "None of them are about school.",
+   "1. What's something you're better at than you were last year?",
+   "2. What do your friends think you're good at?",
+   "3. If you could drop one subject, which — and what would you do with the time?",
+   "4. Who explains things in a way that makes sense to you?",
+   "5. What's the hardest thing you did this term?",
+   "6. What did you want to try this year and didn't?",
+   "7. What do you think I worry about too much?",
+   "8. What would make next term better?",
+   "Number 7 is the one that will surprise you."
+  ]
+ },
+ {
+  "id": "D-C-02",
+  "idea_group": "NEW-D-C-02",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P4",
+  "subject": "Mathematics",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "MATHS",
+  "hook": "The twelve topics that carry the most marks in a Grade 10 maths paper.",
+  "body": "Not all chapters are equal. If revision time is short, these are where it should go, roughly in order of marks carried.",
+  "slides": [
+   "Twelve topics. Most of the marks.",
+   "If revision time is short, spend it here.",
+   "1. Algebraic manipulation — appears inside almost everything else.",
+   "2. Linear and quadratic equations.",
+   "3. Trigonometry — right-angled first, then the rules.",
+   "4. Mensuration: surface area and volume.",
+   "5. Coordinate geometry.",
+   "6. Statistics: mean, median, mode from grouped data.",
+   "7. Probability — the tree diagram questions.",
+   "8. Similarity and congruence.",
+   "9. Circles: theorems and arc length.",
+   "10. Ratio, proportion and percentage.",
+   "11. Number: HCF, LCM, surds, indices.",
+   "12. Simple and compound interest.",
+   "Comment MATHS for the marks-per-topic breakdown."
+  ]
+ },
+ {
+  "id": "D-C-03",
+  "idea_group": "NEW-D-C-03",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P4",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "Exam morning: the six things that actually change the score.",
+  "body": "Everything else is superstition. These six are worth real marks and cost nothing.",
+  "slides": [
+   "Exam morning. Six things that change the score.",
+   "Everything else is superstition.",
+   "1. EAT. Working memory runs on glucose. This is not a cliché.",
+   "2. NO NEW CONTENT. Anything learned this morning displaces something solid.",
+   "3. ARRIVE EARLY ENOUGH TO BE BORED. Rushing costs the first ten minutes of the paper.",
+   "4. READ THE WHOLE PAPER FIRST. Two minutes. Decide the order.",
+   "5. START WITH A QUESTION YOU CAN DO. Not question 1. One you can DO.",
+   "6. WATCH THE CLOCK AT THE HALFWAY MARK. Only then. Not every five minutes.",
+   "Notice that five of the six have nothing to do with knowing the subject.",
+   "That's usually where the missing marks are."
+  ]
+ },
+ {
+  "id": "D-C-04",
+  "idea_group": "NEW-D-C-04",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P3",
+  "subject": "English",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "How we teach a child to mark their own work, and why it's the whole game.",
+  "body": "A student who can mark accurately no longer needs anyone in the room. That's the actual goal of tutoring, and almost nobody teaches it explicitly.",
+  "slides": [
+   "We teach children to mark their own work.",
+   "A student who can mark accurately doesn't need anyone in the room.",
+   "STEP 1 — They answer. We say nothing.",
+   "STEP 2 — They get the mark scheme. Not the answer. The mark scheme.",
+   "STEP 3 — They mark it themselves, out loud, saying why each mark is or isn't there.",
+   "STEP 4 — We only intervene where their marking is wrong.",
+   "What this builds: the examiner's voice in their head.",
+   "By week eight they're catching their own errors before we see them.",
+   "That's the point at which tutoring should start winding down. We say so."
+  ]
+ },
+ {
+  "id": "D-C-05",
+  "idea_group": "NEW-D-C-05",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P4",
+  "subject": "Science",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "Every science definition you need, in one revision method.",
+  "body": "Definitions are free marks that students lose because they revise them by reading. Reading is the one method that doesn't work here.",
+  "slides": [
+   "Science definitions are free marks.",
+   "Students lose them because they revise by READING.",
+   "THE METHOD — three columns on one page.",
+   "COLUMN 1: the term. COLUMN 2: your definition from memory. COLUMN 3: the textbook's.",
+   "Write column 2 before you look at column 3. Always.",
+   "Where they differ is your revision list. Nothing else is.",
+   "Do ten terms a day. It takes twelve minutes.",
+   "Reading definitions creates recognition. This creates recall.",
+   "Only one of those is examined."
+  ]
+ },
+ {
+  "id": "D-C-06",
+  "idea_group": "NEW-D-C-06",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P1",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "Signs it's the school, not your child.",
+  "body": "Parents almost always look inward first. Sometimes that's wrong, and staying too long costs more than moving.",
+  "slides": [
+   "Signs it's the school, not your child.",
+   "Parents look inward first. Sometimes that's the wrong direction.",
+   "1. The same complaint from several unconnected families.",
+   "2. Marks that dropped across ALL subjects at once, in one term.",
+   "3. Teacher turnover mid-year in a core subject.",
+   "4. 'She needs to try harder' with no specifics — repeatedly, from different staff.",
+   "5. Your child was fine at the last school.",
+   "6. Homework that is copying, not thinking, for months.",
+   "None of these on its own means much. Three of them together does.",
+   "Ask other parents before you ask your child again."
+  ]
+ },
+ {
+  "id": "D-C-07",
+  "idea_group": "NEW-D-C-07",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P2",
+  "subject": "Coding",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "CODE",
+  "hook": "A first coding project that isn't a tutorial. Five evenings.",
+  "body": "Tutorials teach syntax. Projects teach problem-solving, and only one of those transfers. Here's a first one that any 10-14 year old can finish.",
+  "slides": [
+   "A first coding project. Not a tutorial. Five evenings.",
+   "Tutorials teach syntax. Projects teach problem-solving.",
+   "EVENING 1 — Decide what it does. Write it in one sentence, on paper.",
+   "EVENING 2 — Make the ugliest possible version that works. No styling.",
+   "EVENING 3 — Break it on purpose. Feed it bad input. Watch it fail.",
+   "EVENING 4 — Fix what broke. This is the evening that teaches the most.",
+   "EVENING 5 — Show someone. Explain a decision you made.",
+   "Good first projects: a quiz, a dice game, a units converter, a to-do list.",
+   "Bad first project: anything with a tutorial video attached.",
+   "Comment CODE for the parent primer."
+  ]
+ },
+ {
+  "id": "D-C-08",
+  "idea_group": "NEW-D-C-08",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P6",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "TRIAL",
+  "hook": "Everything we won't do. A list, so you can hold us to it.",
+  "body": "Most tutoring promises are about what will happen. These are the commitments that are easier to check.",
+  "slides": [
+   "Everything we won't do.",
+   "Easier to check than a promise about results.",
+   "We won't guarantee a grade. Nobody honest can.",
+   "We won't recommend more hours than the diagnosis supports.",
+   "We won't teach past a child's attention. A tired hour is a wasted one.",
+   "We won't send you 'great session today!' with nothing in it.",
+   "We won't take a board-exam student with under ten weeks left.",
+   "We won't keep a mentor who isn't the right fit for your child.",
+   "We won't chase you. One follow-up, then we leave you alone.",
+   "If we break any of these, say so. Free trial class — link in bio."
+  ]
+ },
+ {
+  "id": "D-R-01",
+  "idea_group": "NEW-D-R-01",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P2",
+  "subject": "Mathematics",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Squaring numbers near 100, without writing anything down.",
+  "body": "97². How far below 100? Three. Subtract that from the number: 97 − 3 = 94. That's the front. Square the difference: 3² = 9, written as two digits, 09. That's the back.\n\n9409.\n\n96² → 96−4 = 92, and 4² = 16 → 9216. It works because of one algebraic identity, which is exactly why identities are worth learning.",
+  "reel_script": "HOOK (0-4s): '97 squared. No pen.'\nSTEP 1 (4-14s): 'How far below 100? Three. Take three off the number: 94. Front half.'\nSTEP 2 (14-24s): 'Square the difference. Three squared is nine. Write it as 09. Back half.'\nANSWER (24-32s): '9409.'\nSECOND (32-44s): '96 squared. 96 minus 4 is 92. 4 squared is 16. 9216.'\nCTA (44-52s): 'One identity does all of this. That's why identities are worth learning.'"
+ },
+ {
+  "id": "D-R-02",
+  "idea_group": "NEW-D-R-02",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P2",
+  "subject": "English",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Active voice, spotted in three seconds: add 'by zombies'.",
+  "body": "If you can put 'by zombies' after the verb and the sentence still works, it's passive.\n\n'The window was broken by zombies.' Works — passive.\n'The boy broke the window by zombies.' Nonsense — active.\n\nIt sounds like a joke. It is also the fastest reliable test anyone has found, and it survives into A-level.",
+  "reel_script": "HOOK (0-4s): 'Active or passive? Add by zombies.'\nTEST (4-14s): 'If you can put by zombies after the verb and it still works — it's passive.'\nDEMO (14-30s): On screen: 'The window was broken BY ZOMBIES.' Works. Passive. / 'The boy broke the window BY ZOMBIES.' Nonsense. Active.\nCLOSE (30-42s): 'It sounds like a joke. It's also the fastest reliable test anyone has found — and it works right through A-level.'"
+ },
+ {
+  "id": "D-R-03",
+  "idea_group": "NEW-D-R-03",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P2",
+  "subject": "Science",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Why a heavy thing and a light thing hit the ground together.",
+  "body": "Heavier objects are pulled harder — but they're also harder to move. The two effects cancel exactly.\n\nDouble the mass, double the force, same acceleration. That's not a coincidence, it's what makes gravity different from every other force a student meets.\n\nDrop a textbook and a pencil, flat, from the same height. They land together and nobody quite believes it the first time.",
+  "reel_script": "HOOK (0-5s): 'Heavy thing, light thing. Same height. They land together.'\nWHY (5-22s): 'Heavier objects are pulled harder — but they're also harder to move. The two effects cancel. Exactly.'\nMATH (22-34s): 'Double the mass, double the force, same acceleration.'\nPOINT (34-46s): 'That's not a coincidence. It's what makes gravity different from every other force they'll meet.'\nCTA (46-54s): 'Textbook and a pencil. Flat. Try it tonight.'"
+ },
+ {
+  "id": "D-R-04",
+  "idea_group": "NEW-D-R-04",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P1",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Don't ask if they revised. Ask what they got wrong.",
+  "body": "'Did you revise?' has one honest answer and one easy one, and you'll get the easy one.\n\n'What did you get wrong?' cannot be answered without having actually engaged with something. It's unfaultable as a question and impossible to bluff.\n\nIt also changes what revision means in your house — from time served to errors found.",
+  "reel_script": "HOOK (0-5s): 'Don't ask if they revised. Ask what they got WRONG.'\nWHY (5-18s): 'Did you revise has one honest answer and one easy one. You'll get the easy one.'\nCONTRAST (18-32s): 'What did you get wrong can't be answered without actually engaging with something. It's impossible to bluff.'\nCLOSE (32-46s): 'It also changes what revision means in your house. From time served, to errors found.'"
+ },
+ {
+  "id": "D-R-05",
+  "idea_group": "NEW-D-R-05",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P2",
+  "subject": "Mathematics",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Two negatives, one number line, no rules to memorise.",
+  "body": "Subtracting is walking left. Subtracting a negative is being told to walk left, backwards — which is walking right.\n\n5 − (−3): start at 5, face left, walk backwards three. You land on 8.\n\nChildren who are taught 'two minuses make a plus' forget it under pressure. Children who can see the walk don't.",
+  "reel_script": "HOOK (0-5s): 'Five minus negative three. Without the rule.'\nSETUP (5-16s): Draw a number line. 'Subtracting is walking LEFT.'\nTURN (16-30s): 'Subtracting a NEGATIVE is being told to walk left — backwards. Which is walking right.'\nDEMO (30-42s): 'Start at 5. Face left. Walk backwards three. You land on 8.'\nCLOSE (42-52s): 'Two minuses make a plus gets forgotten under pressure. The walk doesn't.'"
+ },
+ {
+  "id": "D-R-06",
+  "idea_group": "NEW-D-R-06",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P2",
+  "subject": "Public Speaking",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Where to look when you're speaking, so it isn't terrifying.",
+  "body": "Eye contact advice usually makes children worse, because scanning a room while thinking is genuinely hard.\n\nSimpler: pick three people — left, middle, right. One sentence each, then move. That's it.\n\nTo the audience it reads as confident and deliberate. To the speaker it's three friendly faces instead of four hundred, which is a manageable number.",
+  "reel_script": "HOOK (0-5s): 'Where to look while speaking, so it isn't terrifying.'\nPROBLEM (5-16s): 'Standard eye contact advice makes kids worse. Scanning a room while thinking is genuinely hard.'\nMETHOD (16-32s): 'Pick three people. Left, middle, right. One sentence each, then move.'\nPAYOFF (32-46s): 'To the room it looks deliberate. To the speaker it's three faces instead of four hundred.'\nCTA (46-52s): 'Have them try it on the family first.'"
+ },
+ {
+  "id": "D-R-07",
+  "idea_group": "NEW-D-R-07",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P4",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Read the mark scheme. Not the textbook. The mark scheme.",
+  "body": "Every board publishes them, free, alongside the past papers. They tell you the exact words that earn marks — and often that a whole family of phrasings does not.\n\nStudents revise from textbooks and are then marked against a document they've never read.\n\nOne evening with three mark schemes changes how a child writes answers for the rest of the year.",
+  "reel_script": "HOOK (0-5s): 'Read the mark scheme. Not the textbook. The mark scheme.'\nFACT (5-18s): 'Every board publishes them free, next to the past papers. They tell you the exact words that earn marks.'\nGAP (18-32s): 'Students revise from textbooks — then get marked against a document they've never read.'\nACTION (32-46s): 'One evening with three mark schemes changes how a child writes answers for the rest of the year.'\nCTA (46-52s): 'Download three tonight. They're free.'"
+ },
+ {
+  "id": "D-R-08",
+  "idea_group": "NEW-D-R-08",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P2",
+  "subject": "French",
+  "formats": [
+   "reel"
+  ],
+  "keyword": "FRENCH",
+  "hook": "Fifty French words you already know, because English borrowed them.",
+  "body": "Any English word ending in -tion is almost always identical in French, with a different pronunciation. Nation, situation, attention, information, éducation.\n\n-ible and -able transfer too: possible, terrible, capable, adorable.\n\nA Grade 6 student walking into French thinking they know nothing is starting from about two thousand words. Telling them that on day one changes the whole year.",
+  "reel_script": "HOOK (0-5s): 'You already know about two thousand French words. Nobody told you.'\nRULE 1 (5-20s): 'Anything ending in -tion is almost always identical. Nation. Situation. Attention. Information.'\nRULE 2 (20-32s): '-ible and -able transfer too. Possible. Terrible. Capable. Adorable.'\nPOINT (32-46s): 'A Grade 6 walking in thinking they know nothing is actually starting from two thousand words.'\nCTA (46-54s): 'Comment FRENCH for the list.'"
+ },
+ {
+  "id": "D-R-09",
+  "idea_group": "NEW-D-R-09",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P1",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "The child who finishes first is not the one who understands most.",
+  "body": "Speed feels like mastery and is often the opposite. Finishing early usually means skipping the checking, or not noticing the parts that deserved slowing down for.\n\nMeanwhile the child who finishes last is frequently the one doing the most thinking, and gets told to hurry up.\n\nIn a house, praise the checking, not the finishing. It costs nothing and it changes what a child optimises for.",
+  "reel_script": "HOOK (0-5s): 'The child who finishes first is not the one who understands most.'\nBODY (5-20s): 'Speed feels like mastery. It's often the opposite — finishing early usually means skipping the checking.'\nFLIP (20-34s): 'Meanwhile the child finishing last is frequently doing the most thinking. And gets told to hurry up.'\nCLOSE (34-48s): 'Praise the checking, not the finishing. It costs nothing, and it changes what they optimise for.'"
+ },
+ {
+  "id": "D-R-10",
+  "idea_group": "NEW-D-R-10",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P2",
+  "subject": "Coding",
+  "formats": [
+   "reel"
+  ],
+  "keyword": "CODE",
+  "hook": "If your child can explain a bug, they've learned more than if the code worked.",
+  "body": "Working code teaches you that it worked. A bug you diagnosed teaches you how the machine actually thinks, which is transferable to every language they'll ever touch.\n\nSo the question after a coding session isn't 'did it work'. It's 'what broke, and why'.\n\nA child who can answer that is doing computer science. A child whose code ran first time might just be copying.",
+  "reel_script": "HOOK (0-6s): 'If your child can explain a bug, they've learned more than if the code had worked.'\nWHY (6-22s): 'Working code teaches you that it worked. A bug you diagnosed teaches you how the machine actually thinks.'\nTRANSFER (22-34s): 'And that transfers to every language they'll ever touch.'\nQUESTION (34-48s): 'So don't ask did it work. Ask what broke, and why.'\nCTA (48-54s): 'Comment CODE for the parent primer.'"
+ },
+ {
+  "id": "D-R-11",
+  "idea_group": "NEW-D-R-11",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P2",
+  "subject": "Science",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Osmosis, using a raisin and a glass of water.",
+  "body": "Put a raisin in water overnight. It swells, because water moves from where there's more of it into where there's less, through the skin.\n\nPut a grape in very salty water instead. It shrivels — same rule, opposite direction.\n\nTwo glasses, one night. Every Grade 9 biology student who has watched this happen stops mixing up which way osmosis goes.",
+  "reel_script": "HOOK (0-5s): 'Osmosis. One raisin, one glass of water, one night.'\nDEMO A (5-18s): 'Raisin in plain water. It swells. Water moves from where there's MORE of it to where there's less.'\nDEMO B (18-32s): 'Grape in very salty water. It shrivels. Same rule, opposite direction.'\nPAYOFF (32-46s): 'Two glasses. One night. And they stop mixing up which way osmosis goes — permanently.'\nCTA (46-52s): 'Set it up before bed. Look in the morning.'"
+ },
+ {
+  "id": "D-R-12",
+  "idea_group": "NEW-D-R-12",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P4",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "The revision technique with the best evidence is the one nobody enjoys.",
+  "body": "Spaced retrieval. Test yourself, get things wrong, wait a few days, test again.\n\nIt is uncomfortable, it feels unproductive, and it consistently outperforms re-reading, highlighting and summarising by a wide margin in study after study.\n\nThe discomfort is the mechanism, not a side effect. Anything that feels smooth is probably familiarity, not learning.",
+  "reel_script": "HOOK (0-5s): 'The revision technique with the best evidence is the one nobody enjoys.'\nNAME (5-14s): 'Spaced retrieval. Test yourself. Get it wrong. Wait days. Test again.'\nEVIDENCE (14-30s): 'It feels unproductive. It consistently beats re-reading, highlighting and summarising — by a wide margin, study after study.'\nKEY (30-46s): 'The discomfort IS the mechanism. Anything that feels smooth is familiarity, not learning.'\nCTA (46-52s): 'Send this to someone highlighting a textbook.'"
+ },
+ {
+  "id": "D-R-13",
+  "idea_group": "NEW-D-R-13",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P1",
+  "subject": "Mathematics",
+  "formats": [
+   "reel"
+  ],
+  "hook": "'I'm just not a maths person' is a sentence with a date on it.",
+  "body": "Ask when they decided. Almost every child can tell you — a teacher, a test, a moment in Grade 4 or 6 where they concluded something permanent about themselves from one bad afternoon.\n\nThat belief then does the work. They stop trying on hard questions, which produces exactly the evidence that confirms it.\n\nFinding the date is often the whole intervention. It turns an identity back into an incident.",
+  "reel_script": "HOOK (0-6s): 'I'm just not a maths person. That sentence has a date on it.'\nASK (6-18s): 'Ask when they decided. Almost every child can tell you. A teacher. A test. One bad afternoon in Grade 4.'\nMECHANISM (18-34s): 'Then the belief does the work. They stop trying on hard questions — which produces the evidence that confirms it.'\nCLOSE (34-50s): 'Finding the date is often the whole intervention. It turns an identity back into an incident.'"
+ },
+ {
+  "id": "D-R-14",
+  "idea_group": "NEW-D-R-14",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P2",
+  "subject": "English",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Write the last line first. It fixes most weak essays.",
+  "body": "If you know where you're ending, every paragraph has somewhere to go. If you don't, you write until you run out of time and call it a conclusion.\n\nSo: before the introduction, write the final sentence. The one thing you want the examiner holding when they put the pen down.\n\nThen build backwards. Weak essays wander because nobody decided the destination.",
+  "reel_script": "HOOK (0-5s): 'Write the last line first. It fixes most weak essays.'\nWHY (5-20s): 'If you know where you're ending, every paragraph has somewhere to go. If you don't, you write until time runs out and call it a conclusion.'\nMETHOD (20-34s): 'Before the introduction — write the final sentence. The thing you want the examiner holding when they stop reading.'\nCLOSE (34-48s): 'Then build backwards. Essays wander because nobody decided the destination.'"
+ },
+ {
+  "id": "D-R-15",
+  "idea_group": "NEW-D-R-15",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P3",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "The session where we tell a child they were right and the textbook is confusing.",
+  "body": "It happens more than you'd think. A child's objection is often a sharper piece of thinking than the explanation they were given.\n\nWhen a mentor says 'no, you're right, that book explains it badly' — something changes. The child stops assuming that confusion is a personal failing.\n\nThat single reframe does more for a struggling student than a term of extra practice.",
+  "reel_script": "HOOK (0-6s): 'Sometimes a mentor's job is to say: you're right, the textbook is confusing.'\nFREQUENCY (6-18s): 'It happens more than you'd think. A child's objection is often sharper thinking than the explanation they were given.'\nEFFECT (18-34s): 'And when someone says it out loud, the child stops assuming confusion is a personal failing.'\nCLOSE (34-48s): 'That reframe does more for a struggling student than a term of extra practice.'"
+ },
+ {
+  "id": "D-R-16",
+  "idea_group": "NEW-D-R-16",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P2",
+  "subject": "Mathematics",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Ratio questions get easy the moment you find the one part.",
+  "body": "Split ₹4,500 in the ratio 4:5. Almost every mistake here comes from trying to do it in one step.\n\nAdd the parts: 4 + 5 = 9. Find one part: 4500 ÷ 9 = 500. Then multiply out: 4 × 500 = 2000, 5 × 500 = 2500.\n\nOne part. Always find one part first. It converts every ratio question in the syllabus into two multiplications.",
+  "reel_script": "HOOK (0-5s): 'Split 4,500 in the ratio 4 to 5. Most mistakes happen in the first three seconds.'\nCAUSE (5-14s): 'Because people try to do it in one step.'\nMETHOD (14-32s): 'Add the parts. 4 plus 5 is 9. One part is 4500 over 9 — that's 500. Then multiply out. 2000 and 2500.'\nRULE (32-46s): 'Always find ONE PART first. It turns every ratio question in the syllabus into two multiplications.'\nCTA (46-52s): 'Save it before the next test.'"
+ },
+ {
+  "id": "D-R-17",
+  "idea_group": "NEW-D-R-17",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P1",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "A tired child cannot be taught. That's physiology, not attitude.",
+  "body": "Working memory — the part that holds a new idea long enough to use it — is one of the first things sleep debt takes away.\n\nSo an extra hour of tuition at 9pm on a school night is often a net negative. You're teaching a system that has switched off the component you need.\n\nIf something has to give in December, it isn't sleep. It's one of the activities.",
+  "reel_script": "HOOK (0-5s): 'A tired child cannot be taught. That's physiology, not attitude.'\nMECHANISM (5-20s): 'Working memory — the part that holds a new idea long enough to use it — is one of the first things sleep debt takes.'\nCONSEQUENCE (20-36s): 'So an extra hour of tuition at 9pm is often a net negative. You're teaching a system with that component switched off.'\nCLOSE (36-50s): 'If something has to give in December, it isn't sleep. It's one of the activities.'"
+ },
+ {
+  "id": "D-R-18",
+  "idea_group": "NEW-D-R-18",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P2",
+  "subject": "Science",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Speed, distance, time — and why the triangle is doing them harm.",
+  "body": "The triangle gets marks in Grade 8 and collapses in Grade 11, because it's a memory aid, not an understanding.\n\nWhat survives: speed is how much distance per one unit of time. Say it that way and the formula rebuilds itself — 90 km in 2 hours is 45 km per one hour.\n\nA child who understands 'per' can derive every rate formula in physics. A child with a triangle has one.",
+  "reel_script": "HOOK (0-6s): 'The speed-distance-time triangle is doing your child harm.'\nWHY (6-20s): 'It gets marks in Grade 8 and collapses in Grade 11. It's a memory aid, not an understanding.'\nINSTEAD (20-36s): 'Speed is how much distance per ONE unit of time. 90 kilometres in 2 hours is 45 per one hour.'\nPAYOFF (36-50s): 'A child who understands PER can derive every rate formula in physics. A child with a triangle has one.'"
+ },
+ {
+  "id": "D-R-19",
+  "idea_group": "NEW-D-R-19",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P4",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Do the past paper before you finish revising. Not after.",
+  "body": "Everyone saves papers for the end, as a test. That wastes them.\n\nA paper attempted early — badly, with gaps — tells you exactly what to revise. A paper attempted at the end only tells you whether the guessing worked.\n\nUse the first two as diagnostics and expect a bad score. The score isn't the point; the map is.",
+  "reel_script": "HOOK (0-5s): 'Do the past paper BEFORE you finish revising. Not after.'\nPROBLEM (5-16s): 'Everyone saves papers for the end, as a test. That wastes them.'\nBETTER (16-32s): 'A paper attempted early — badly, with gaps — tells you exactly what to revise. One done at the end only tells you if the guessing worked.'\nCLOSE (32-46s): 'Use the first two as diagnostics. Expect a bad score. The score isn't the point. The map is.'"
+ },
+ {
+  "id": "D-R-20",
+  "idea_group": "NEW-D-R-20",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P5",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "What a mentor does in the last five minutes decides whether the hour worked.",
+  "body": "Not a summary. A retrieval.\n\nBook shut, notes away: tell me the three things we did, and do one of them. If that fails, the hour didn't land, and we'd rather find out now than next week.\n\nMost tutoring ends with 'any questions?' — which reliably produces 'no', from a tired child who wants to leave.",
+  "reel_script": "HOOK (0-6s): 'What a mentor does in the last five minutes decides whether the hour worked.'\nNOT (6-14s): 'Not a summary. A retrieval.'\nMETHOD (14-30s): 'Book shut. Notes away. Tell me the three things we did — and do one of them.'\nWHY (30-42s): 'If that fails, the hour didn't land. Better to know now than next week.'\nCONTRAST (42-54s): 'Most tutoring ends with any questions? Which reliably gets no, from a tired child who wants to leave.'"
+ },
+ {
+  "id": "D-R-21",
+  "idea_group": "NEW-D-R-21",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P2",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Handwrite the notes. The slower speed is the entire benefit.",
+  "body": "Typing is fast enough to transcribe without processing. Handwriting isn't — you physically cannot keep up, so you're forced to decide what matters and compress it.\n\nThat compression is the learning. The notes themselves are almost a by-product.\n\nWhich is also why copying someone else's notes does very little, however neat they are.",
+  "reel_script": "HOOK (0-5s): 'Handwrite the notes. The slower speed is the whole point.'\nCONTRAST (5-20s): 'Typing is fast enough to transcribe without processing. Handwriting isn't — you can't keep up.'\nMECHANISM (20-34s): 'So you're forced to decide what matters and compress it. That compression IS the learning.'\nCOROLLARY (34-48s): 'Which is why copying someone else's notes does almost nothing. However neat they are.'"
+ },
+ {
+  "id": "D-R-22",
+  "idea_group": "NEW-D-R-22",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P1",
+  "subject": "Science",
+  "formats": [
+   "reel"
+  ],
+  "hook": "She can do the practice questions and fails the test. That gap is predictable.",
+  "body": "Practice questions come in a chapter, so the method is given away by the page they're on. A test mixes topics, and suddenly the hard part isn't solving — it's recognising which tool to reach for.\n\nThat's a separate skill, and almost nobody practises it deliberately.\n\nThe fix: mixed sets. Twenty questions from five different chapters, shuffled. It feels much harder because it is the real task.",
+  "reel_script": "HOOK (0-6s): 'She can do the practice questions and fails the test. That gap is predictable.'\nCAUSE (6-22s): 'Practice questions sit inside a chapter — the page gives away the method. A test mixes topics.'\nSKILL (22-36s): 'So the hard part isn't solving. It's recognising which tool to reach for. Separate skill. Almost nobody practises it.'\nFIX (36-50s): 'Mixed sets. Twenty questions, five chapters, shuffled. Feels much harder — because it's the real task.'"
+ },
+ {
+  "id": "D-R-23",
+  "idea_group": "NEW-D-R-23",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P2",
+  "subject": "Public Speaking",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Reading aloud at home is the cheapest exam-technique practice there is.",
+  "body": "Fifteen minutes of reading out loud builds three things at once: fluency, comprehension pacing, and tolerance for hearing your own voice — which is most of what stops a child speaking in class.\n\nIt costs nothing, needs no materials, and works from age six to sixteen.\n\nAnything counts. A news article, a recipe, the back of a cereal box. The volume matters more than the text.",
+  "reel_script": "HOOK (0-6s): 'Reading aloud at home is the cheapest exam technique practice there is.'\nTHREE (6-24s): 'Fifteen minutes builds three things at once. Fluency. Comprehension pacing. And tolerance for hearing your own voice.'\nPOINT (24-36s): 'That last one is most of what stops a child speaking in class.'\nCLOSE (36-50s): 'Costs nothing. Works from six to sixteen. A news article, a recipe, a cereal box — the volume matters more than the text.'"
+ },
+ {
+  "id": "D-R-24",
+  "idea_group": "NEW-D-R-24",
+  "source": "authored 2026-08 (Dec)",
+  "pillar": "P6",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "January is when everyone starts. That's precisely why December is better.",
+  "body": "In January every tutor is full, every good slot is taken, and your child begins alongside a wave of others who all left it late.\n\nStarting in December means the diagnosis is done before the rush, the mentor has room, and week one of January is week four of the work.\n\nSame effort. Three weeks of head start. It's the cheapest advantage in the calendar.",
+  "reel_script": "HOOK (0-6s): 'January is when everyone starts. Which is exactly why December is better.'\nJANUARY (6-20s): 'In January every tutor is full, every good slot is taken, and your child starts alongside a wave of people who all left it late.'\nDECEMBER (20-36s): 'Start in December and the diagnosis is done before the rush. The mentor has room.'\nPAYOFF (36-48s): 'Week one of January becomes week four of the work. Same effort, three weeks ahead.'\nCTA (48-56s): 'Free trial class. Link in bio.'"
+ },
+ {
   "id": "L00C",
   "idea_group": "LEG00",
   "pillar": "P1",
@@ -908,6 +1421,758 @@
   "source": "legacy reel"
  },
  {
+  "id": "N-P1-01",
+  "idea_group": "NEW-N-P1-01",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P1",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "EXAM",
+  "hook": "The term report arrives this month. Read it in this order.",
+  "body": "Most parents read top to bottom and land on the number. The useful information is somewhere else entirely.",
+  "slides": [
+   "The term report lands this month.",
+   "Read it in this order, not top to bottom.",
+   "1. TEACHER COMMENTS FIRST. Specific comments mean they know your child. Generic ones mean they don't.",
+   "2. THE SPREAD, not the average. 80 in one subject and 45 in another is a different problem to 62 across the board.",
+   "3. CHANGE since last term. Direction matters more than position.",
+   "4. EFFORT vs ATTAINMENT. High effort, low attainment is a teaching problem. The reverse is a motivation one.",
+   "5. THE NUMBER. Last. It's a summary, not a diagnosis.",
+   "Then ask the school for the question-level breakdown. Most have it.",
+   "Comment EXAM for the questions to bring to the meeting."
+  ]
+ },
+ {
+  "id": "N-P1-02",
+  "idea_group": "NEW-N-P1-02",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P1",
+  "subject": "Mathematics",
+  "formats": [
+   "reel"
+  ],
+  "hook": "'She's fine, she just needs to practise more.' Ask which twenty minutes.",
+  "body": "Practice is not one thing. Twenty minutes on questions she can already do builds confidence and nothing else. Twenty minutes on the one topic she avoids is where the marks are.\n\nChildren, sensibly, choose the first. Nobody volunteers for the uncomfortable one.\n\nSo the question isn't whether she practises. It's whether anyone is choosing what she practises.",
+  "reel_script": "HOOK (0-5s): 'She just needs to practise more. Okay — which twenty minutes?'\nSPLIT (5-20s): 'Twenty minutes on what she can already do builds confidence and nothing else. Twenty on the topic she avoids is where the marks are.'\nWHY (20-32s): 'Children choose the first. Every time. Nobody volunteers for the uncomfortable one.'\nCLOSE (32-44s): 'The question isn't whether she practises. It's whether anyone is choosing what she practises.'"
+ },
+ {
+  "id": "N-P1-03",
+  "idea_group": "NEW-N-P1-03",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P1",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "The December slump is real, and it isn't laziness.",
+  "body": "By week fourteen of a term, most children are running on empty. Attention drops, marks wobble, and the household reads it as attitude.\n\nIt's usually accumulated fatigue meeting the hardest content of the year, because syllabuses back-load the difficult chapters into the term nobody has energy left for.\n\nThe right response is triage, not pressure. Pick one subject. Leave the others to coast for three weeks.",
+  "reel_script": "HOOK (0-5s): 'The December slump is real. It isn't laziness.'\nBODY (5-20s): 'By week fourteen most children are running on empty. Attention drops, marks wobble, and everyone reads it as attitude.'\nINSIGHT (20-36s): 'It's fatigue meeting the hardest content of the year — because syllabuses back-load the difficult chapters into the term nobody has energy left for.'\nADVICE (36-50s): 'Triage, not pressure. Pick ONE subject. Let the others coast for three weeks.'\nCTA (50-54s): 'Send this to a tired parent.'"
+ },
+ {
+  "id": "N-P1-04",
+  "idea_group": "NEW-N-P1-04",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P1",
+  "subject": "Science",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "Four sentences on a report card, and what each one actually means.",
+  "body": "Report comments are written under time pressure, in a shared vocabulary. Once you know the code they're surprisingly direct.",
+  "slides": [
+   "Four report card sentences. Decoded.",
+   "They're written fast, in a shared vocabulary. The code is readable.",
+   "'Could apply himself more' → usually one specific topic he's avoiding. Ask which.",
+   "'A pleasure to teach' → lovely, and tells you nothing academic. Ask a second question.",
+   "'Would benefit from consolidating basics' → there is a real gap below this year's work.",
+   "'Participates well in class' → check whether this survives written work. Often it doesn't.",
+   "None of these are criticisms of your child.",
+   "All four are invitations to ask one more question."
+  ]
+ },
+ {
+  "id": "N-P1-05",
+  "idea_group": "NEW-N-P1-05",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P1",
+  "subject": "English",
+  "formats": [
+   "single"
+  ],
+  "hook": "He can talk about the book brilliantly and writes half a page. That gap has a cause.",
+  "body": "Speaking is generative and forgiving — you can start a sentence without knowing where it ends. Writing is committed. Every sentence is permanent and judged.\n\nChildren who talk well and write badly are usually not short of ideas. They're short of a method for getting an idea out of their head and onto a page in a fixed order.\n\nThat method is teachable in about six weeks, and it's mostly planning, not vocabulary."
+ },
+ {
+  "id": "N-P1-06",
+  "idea_group": "NEW-N-P1-06",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P1",
+  "subject": "Mathematics",
+  "formats": [
+   "reel"
+  ],
+  "keyword": "MATHS",
+  "hook": "Two children, same 58. Completely different winters ahead.",
+  "body": "Child A got 58 by doing well on the first half of the paper and running out of time. Child B got 58 spread evenly, understanding roughly half of everything.\n\nA has a pacing problem, fixable in about three weeks of timed papers. B has a comprehension problem, and that's a term.\n\nThe number is identical. The response should be nothing alike. This is why the mark, on its own, is nearly useless.",
+  "reel_script": "HOOK (0-5s): 'Two children. Both got 58. Completely different winters ahead.'\nA (5-18s): 'Child A did well on the first half and ran out of time.'\nB (18-30s): 'Child B scored evenly — understanding about half of everything.'\nTURN (30-44s): 'A has a pacing problem. Three weeks of timed papers. B has a comprehension problem. That's a term.'\nCLOSE (44-54s): 'Same number. Opposite response. Which is why the mark alone is nearly useless.'\nCTA (54-58s): 'Comment MATHS for the diagnostic.'"
+ },
+ {
+  "id": "N-P1-07",
+  "idea_group": "NEW-N-P1-07",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P1",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "Winter break: what actually helps, and what just ruins the holiday.",
+  "body": "Three weeks off is long enough to lose fluency and short enough that cramming achieves nothing. There is a middle setting.",
+  "slides": [
+   "Winter break. Three weeks.",
+   "Long enough to lose fluency. Too short for cramming to work.",
+   "DON'T: a full revision timetable. It won't survive week one, and failing it costs more than it gains.",
+   "DON'T: nothing at all. Arithmetic fluency and language recall genuinely decay.",
+   "DO: twenty minutes, four days a week, on ONE weak topic. That's it.",
+   "DO: read anything. Fiction counts. Comprehension is built by volume, not by worksheets.",
+   "DO: let them be bored. Boredom is where the recovery happens.",
+   "A rested child in January beats a resentful one who did more."
+  ]
+ },
+ {
+  "id": "N-P1-08",
+  "idea_group": "NEW-N-P1-08",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P1",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Comparing your child to their sibling is the most expensive sentence in the house.",
+  "body": "It never produces effort. It produces a story: I'm the one who isn't good at this.\n\nOnce a child holds that story, low marks stop being information and start being confirmation, and they'll protect the story by not trying — because not trying is a safer explanation for failing than trying and failing.\n\nCompare a child to themselves last term. Nothing else.",
+  "reel_script": "HOOK (0-5s): 'Comparing your child to their sibling is the most expensive sentence in the house.'\nWHY (5-18s): 'It never produces effort. It produces a story: I'm the one who isn't good at this.'\nMECHANISM (18-36s): 'Once that story exists, low marks stop being information and start being confirmation. And they'll protect it by not trying — because not trying is a safer explanation than trying and failing.'\nFIX (36-48s): 'Compare a child to themselves last term. Nothing else.'"
+ },
+ {
+  "id": "N-P1-09",
+  "idea_group": "NEW-N-P1-09",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P1",
+  "subject": "Public Speaking",
+  "formats": [
+   "single"
+  ],
+  "keyword": "SPEAK",
+  "hook": "Annual day is coming. The child with the small part is learning more than you think.",
+  "body": "Parents worry about the size of the role. Children mostly worry about whether they'll be embarrassed.\n\nA three-line part, delivered without freezing, in front of four hundred people, does more for a child's willingness to speak in class in January than a lead role learned in panic.\n\nAsk about the freezing, not the lines."
+ },
+ {
+  "id": "N-P1-10",
+  "idea_group": "NEW-N-P1-10",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P1",
+  "subject": "Coding",
+  "formats": [
+   "reel"
+  ],
+  "hook": "'He's on the laptop all evening.' Ask what he's making.",
+  "body": "There is an enormous difference between consuming and building, and from the doorway they look identical.\n\nA child watching gameplay and a child modding a game are in completely different developmental positions, and the second one is doing something closer to homework than you'd guess.\n\nThe question that separates them takes four seconds: show me what you made.",
+  "reel_script": "HOOK (0-5s): 'He's on the laptop all evening. Okay — ask what he's MAKING.'\nCONTRAST (5-20s): 'Consuming and building look identical from the doorway. A child watching gameplay and a child modding a game are in completely different places.'\nPOINT (20-34s): 'The second one is doing something much closer to homework than you'd guess.'\nCLOSE (34-44s): 'The question that separates them takes four seconds. Show me what you made.'"
+ },
+ {
+  "id": "N-P5-01",
+  "idea_group": "NEW-N-P5-01",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P5",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "What our mentors do in December that they don't do in August.",
+  "body": "August is diagnosis and gap-filling. December is protection.\n\nBy now a child has a term of accumulated fatigue, a report card they've read, and mocks in sight. Sessions get shorter and more targeted, we stop introducing new material three weeks before an exam, and we spend more time on what they already half-know.\n\nSame mentor, different job. Teaching that ignores the calendar is teaching that ignores the child.",
+  "reel_script": "HOOK (0-5s): 'What our mentors do in December that they don't do in August.'\nAUGUST (5-15s): 'August is diagnosis and gap-filling.'\nDECEMBER (15-32s): 'December is protection. A term of fatigue, a report card they've read, mocks in sight. Sessions get shorter and more targeted.'\nRULE (32-46s): 'We stop introducing new material three weeks before an exam. We work on what they already half-know.'\nCLOSE (46-56s): 'Same mentor, different job. Teaching that ignores the calendar ignores the child.'"
+ },
+ {
+  "id": "N-P5-02",
+  "idea_group": "NEW-N-P5-02",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P5",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "Five things our mentors are told never to say.",
+  "body": "Every one of them is well-meant. Every one of them costs something.",
+  "slides": [
+   "Five things our mentors are told never to say.",
+   "All well-meant. All expensive.",
+   "'It's easy.' — If they can't do it, you've just told them what that makes them.",
+   "'You should know this by now.' — Shame doesn't teach. It closes the session.",
+   "'Just remember it.' — If memory were the problem, they'd have done it.",
+   "'We're behind.' — Adds urgency to a child who already feels it. Manage the schedule quietly.",
+   "'Your brother found this fine.' — Never. Not once.",
+   "What they say instead: 'Show me what you tried.'"
+  ]
+ },
+ {
+  "id": "N-P5-03",
+  "idea_group": "NEW-N-P5-03",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P5",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "We ask every mentor to teach the same topic badly on purpose. Here's what it reveals.",
+  "body": "In the trial we give them a topic and a student who is quietly lost, and we watch what they do when the first explanation doesn't land.\n\nWeak teachers say the same thing again, louder and slower. Good ones change the representation entirely — a diagram, an analogy, a smaller number.\n\nThe first explanation is easy. What you're hiring is the second and third.",
+  "reel_script": "HOOK (0-6s): 'We ask every mentor to teach a topic to someone who is quietly lost. Then we watch.'\nTEST (6-20s): 'What matters isn't the first explanation. It's what they do when it doesn't land.'\nWEAK (20-32s): 'Weak teachers repeat themselves. Louder. Slower.'\nGOOD (32-46s): 'Good ones change the representation completely. A diagram. An analogy. A smaller number.'\nCLOSE (46-56s): 'The first explanation is easy. What you're hiring is the second and the third.'"
+ },
+ {
+  "id": "N-P5-04",
+  "idea_group": "NEW-N-P5-04",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P5",
+  "subject": "General",
+  "formats": [
+   "single"
+  ],
+  "hook": "If your child likes their mentor but the marks haven't moved, say so.",
+  "body": "It's the hardest message for a parent to send, because the relationship is working and nobody wants to be the one who breaks it.\n\nSend it anyway. Warmth without progress is a pleasant hour, and after two months it's an expensive one.\n\nUsually it's a method problem, not a person problem, and it's fixable in a conversation. Occasionally it isn't, and then we change the mentor. Either way, week eight is the moment to raise it — not month five."
+ },
+ {
+  "id": "N-P5-05",
+  "idea_group": "NEW-N-P5-05",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P5",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "The note that goes home after a session your child found hard.",
+  "body": "The easy weeks write themselves. This is the template for the difficult ones, because that note is where trust is either built or lost.",
+  "slides": [
+   "The note after a session that went badly.",
+   "The easy weeks write themselves. This one matters more.",
+   "1. NAME IT PLAINLY. 'Today was hard. She got three of eight.'",
+   "2. SAY WHAT IT MEANS. 'That's the transposition gap, not the chapter.'",
+   "3. SAY WHAT'S NEXT. 'Two more sessions on this before we go back.'",
+   "4. SAY WHAT NOT TO DO. 'Please don't quiz her on it tonight.'",
+   "5. NO REASSURANCE PADDING. She'll be fine helps nobody.",
+   "A parent who gets this note stops guessing.",
+   "A parent who gets 'good session today!' starts."
+  ]
+ },
+ {
+  "id": "N-P2-01",
+  "idea_group": "MENTAL-MULTIPLICATION",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "Mathematics",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Multiply any two-digit numbers in the fifties, in your head.",
+  "body": "Both in the fifties? 54 × 57.\n\nAdd the units to 25: 4 + 7 = 11 → 25 + 11 = 36. That's the front.\nMultiply the units: 4 × 7 = 28. That's the back.\n\n3628.\n\n53 × 56 → 25+9 = 34, and 3×6 = 18 → 3418. It works because both numbers sit either side of fifty, and fifty squared is a very friendly number.",
+  "reel_script": "HOOK (0-4s): '54 times 57. In your head. Watch.'\nSTEP 1 (4-16s): 'Add the units to 25. Four plus seven is eleven. 25 plus 11 is 36. That's the front.'\nSTEP 2 (16-26s): 'Multiply the units. Four times seven is 28. That's the back.'\nANSWER (26-34s): '3628.'\nSECOND (34-46s): '53 times 56. 25 plus 9 is 34. 3 times 6 is 18. 3418.'\nCTA (46-52s): 'Works for anything in the fifties. Show a kid tonight.'"
+ },
+ {
+  "id": "N-P2-02",
+  "idea_group": "NEW-N-P2-02",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "English",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "How to plan an essay in four minutes, so the writing takes half as long.",
+  "body": "Most students write to find out what they think. Four minutes of planning turns that into writing down what they already decided, which is a completely different task.",
+  "slides": [
+   "Plan an essay in four minutes.",
+   "Then the writing takes half as long.",
+   "MIN 1 — Answer the question in ONE sentence. That's your position.",
+   "MIN 2 — List three reasons it's true. Just three words each.",
+   "MIN 3 — Next to each, note the evidence. Quote, event, figure.",
+   "MIN 4 — Order them: second-strongest, weakest, strongest. Finish hard.",
+   "Now write. You're transcribing a decision, not making one.",
+   "Students who skip this write for 40 minutes and discover their argument in the last paragraph."
+  ]
+ },
+ {
+  "id": "N-P2-03",
+  "idea_group": "NEW-N-P2-03",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "Science",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Why you feel colder in water than in air at the same temperature.",
+  "body": "20°C air feels mild. 20°C water feels freezing. The temperature is identical — what changes is the rate.\n\nWater conducts heat away from your skin roughly 25 times faster than air, so your body loses warmth far quicker even though the water isn't colder.\n\nThis is the difference between temperature and heat transfer, and it's the single idea most Grade 8 students never quite separate.",
+  "reel_script": "HOOK (0-5s): '20 degree air feels mild. 20 degree water feels freezing. Same temperature.'\nQUESTION (5-14s): 'So what's different?'\nANSWER (14-30s): 'The RATE. Water pulls heat off your skin about 25 times faster than air. You're not colder. You're losing warmth quicker.'\nPAYOFF (30-44s): 'That's the difference between temperature and heat transfer — the one idea most Grade 8 students never separate.'\nCTA (44-50s): 'Save it for the next physics chapter.'"
+ },
+ {
+  "id": "N-P2-04",
+  "idea_group": "NEW-N-P2-04",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "Mathematics",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "EXAM",
+  "hook": "Six marks students throw away in every maths paper, and how to stop.",
+  "body": "None of these are about knowing more maths. All of them are about not donating marks you've already earned.",
+  "slides": [
+   "Six marks thrown away in every maths paper.",
+   "None of them are about knowing more maths.",
+   "1. NO UNITS. cm, kg, seconds. One mark, every time.",
+   "2. NO WORKING SHOWN. Right answer, no method — you lose the method marks.",
+   "3. ROUNDING TOO EARLY. Round at the END, or the final answer drifts.",
+   "4. NOT ANSWERING THE QUESTION ASKED. You found x. It wanted the area.",
+   "5. BLANK SPACE. An attempt scores more than nothing. Always write something.",
+   "6. NOT CHECKING THE MARK ALLOCATION. 4 marks means four things to say.",
+   "Comment EXAM for the checklist to tape inside a pencil case."
+  ]
+ },
+ {
+  "id": "N-P2-05",
+  "idea_group": "NEW-N-P2-05",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "French",
+  "formats": [
+   "reel"
+  ],
+  "keyword": "FRENCH",
+  "hook": "The French past tense, decided by one question.",
+  "body": "Passé composé or imparfait? Ask: is this a photograph or a film?\n\nA photograph is a finished moment — j'ai mangé, I ate. Passé composé.\nA film is background, ongoing, repeated — je mangeais, I was eating, I used to eat. Imparfait.\n\n'Il pleuvait quand je suis sorti.' It was raining — film. I went out — photograph. Both in one sentence, and now you can hear why.",
+  "reel_script": "HOOK (0-5s): 'Passé composé or imparfait? One question settles it.'\nQUESTION (5-12s): 'Is this a photograph, or a film?'\nPHOTO (12-24s): 'A photograph is a finished moment. J'ai mangé. I ate. Passé composé.'\nFILM (24-36s): 'A film is background, ongoing, repeated. Je mangeais. I was eating. Imparfait.'\nBOTH (36-50s): 'Il pleuvait quand je suis sorti. It was raining — film. I went out — photograph. Both in one sentence.'\nCTA (50-56s): 'Comment FRENCH for the tense sheet.'"
+ },
+ {
+  "id": "N-P2-06",
+  "idea_group": "NEW-N-P2-06",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Revise the thing you got wrong, not the subject you're worried about.",
+  "body": "Anxiety picks the subject. Evidence should pick the topic.\n\nMost students spend December revising the subject that scares them, which is often not the one leaking the most marks. The error log knows; the feeling doesn't.\n\nOpen the last three tests. Count the lost marks by topic. Revise the top two. Everything else waits.",
+  "reel_script": "HOOK (0-5s): 'Revise what you got wrong. Not the subject you're worried about.'\nPOINT (5-18s): 'Anxiety picks the subject. Evidence should pick the topic. They're rarely the same.'\nMETHOD (18-34s): 'Open the last three tests. Count lost marks by topic. Revise the top two.'\nCLOSE (34-46s): 'Everything else waits. The error log knows where the marks are. The feeling doesn't.'"
+ },
+ {
+  "id": "N-P2-07",
+  "idea_group": "NEW-N-P2-07",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "Public Speaking",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "SPEAK",
+  "hook": "How to structure any two-minute talk, in four lines.",
+  "body": "Children over-prepare content and under-prepare shape. Shape is what makes it feel confident.",
+  "slides": [
+   "Any two-minute talk. Four lines.",
+   "Kids over-prepare content and under-prepare shape.",
+   "LINE 1 — The claim. 'Homework should be optional after Grade 8.'",
+   "LINE 2 — The reason. 'Because it stops measuring learning and starts measuring compliance.'",
+   "LINE 3 — The example. One. Specific. Real.",
+   "LINE 4 — The return. Say the claim again, in different words.",
+   "That's it. Everything else is filling in the middle.",
+   "A talk with shape sounds confident even when the speaker isn't.",
+   "Comment SPEAK for the practice drills."
+  ]
+ },
+ {
+  "id": "N-P2-08",
+  "idea_group": "NEW-N-P2-08",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "Coding",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Variables, explained with a shoebox. Works on any eight-year-old.",
+  "body": "A variable is a labelled box. You write a name on the outside — score — and put something inside. Later you can look in, or swap what's in there for something else.\n\nThe name stays. The contents change. That's the whole idea, and it's the thing children actually get stuck on.\n\nGive them three boxes and some paper. Ten minutes of that beats an hour of syntax.",
+  "reel_script": "HOOK (0-5s): 'Variables. Explained with a shoebox. Works on any eight-year-old.'\nBODY (5-20s): Hold up a box with SCORE written on it. 'Write a name on the outside. Put something in. Later, look in — or swap it for something else.'\nKEY (20-32s): 'The name stays. The contents change. That's the whole idea.'\nWHY (32-44s): 'And it's exactly where children get stuck — they think the name IS the thing.'\nCTA (44-52s): 'Three boxes and some paper. Ten minutes beats an hour of syntax.'"
+ },
+ {
+  "id": "N-P2-09",
+  "idea_group": "NEW-N-P2-09",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "Mathematics",
+  "formats": [
+   "reel"
+  ],
+  "hook": "The 15% tip trick that teaches percentages better than a worksheet.",
+  "body": "10% is moving the decimal point. 5% is half of that. Add them.\n\nBill of ₹840? 10% is 84. Half of 84 is 42. So 15% is 126.\n\nWhat makes this teach so well is that it breaks an awkward percentage into two easy ones — which is the actual skill percentages are testing, and the one worksheets rarely make visible.",
+  "reel_script": "HOOK (0-4s): '15% of 840. No calculator. Five seconds.'\nSTEP (4-16s): '10 percent is just moving the decimal. 84. Five percent is half of that. 42.'\nADD (16-24s): 'Add them. 126.'\nWHY IT TEACHES (24-40s): 'The real skill is breaking an awkward percentage into two easy ones. That's what the exam is testing. Worksheets rarely make it visible.'\nCTA (40-48s): 'Do it out loud at the next restaurant bill.'"
+ },
+ {
+  "id": "N-P2-10",
+  "idea_group": "NEW-N-P2-10",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "English",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Cut every 'very' and watch the writing get older.",
+  "body": "'Very sad' is weaker than 'devastated'. 'Very big' is weaker than 'vast'. 'Very tired' is weaker than 'exhausted'.\n\nThe word 'very' is a signal that a better word exists and hasn't been found yet. So it becomes a search prompt, not a crime.\n\nHave your child underline every 'very' in their last essay and replace it. Vocabulary marks move within a fortnight.",
+  "reel_script": "HOOK (0-4s): 'Cut every very. The writing gets two years older.'\nEXAMPLES (4-20s): On screen: very sad → devastated. very big → vast. very tired → exhausted.\nREFRAME (20-34s): 'Very is a signal that a better word exists and hasn't been found yet. It's a search prompt, not a crime.'\nHOMEWORK (34-46s): 'Underline every very in the last essay. Replace it.'\nCTA (46-52s): 'Vocabulary marks move inside a fortnight.'"
+ },
+ {
+  "id": "N-P2-11",
+  "idea_group": "NEW-N-P2-11",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "Science",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "Graph questions are free marks. Here's the order to answer them in.",
+  "body": "Almost every science paper has one, and almost every student loses marks in the same four places.",
+  "slides": [
+   "Graph questions are free marks.",
+   "Most students lose them in the same four places.",
+   "1. READ THE AXES FIRST. Including the units and the scale. Ten seconds.",
+   "2. STATE THE TREND before the numbers. 'As X increases, Y decreases.'",
+   "3. QUOTE DATA. Two points, with units. This is where the marks are.",
+   "4. NAME THE ANOMALY if there is one. Examiners put it there on purpose.",
+   "5. ONLY THEN explain WHY, if asked.",
+   "Students do 5 first and skip 3. That's the lost mark, every time.",
+   "Trend → data → anomaly → explanation. In that order."
+  ]
+ },
+ {
+  "id": "N-P2-12",
+  "idea_group": "NEW-N-P2-12",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "General",
+  "formats": [
+   "single"
+  ],
+  "hook": "Teach it to someone. It's not a study tip, it's a test.",
+  "body": "Explaining a topic out loud to another person exposes exactly where the understanding stops, because you cannot bluff through a sentence you don't have.\n\nThe listener doesn't need to know the subject. A younger sibling, a parent, a wall. The value is in the speaking, not the audience.\n\nWhere they stumble is the revision list. Everything they explained fluently is already done."
+ },
+ {
+  "id": "N-P2-13",
+  "idea_group": "NEW-N-P2-13",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "Mathematics",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Why dividing by a fraction makes the answer bigger.",
+  "body": "6 ÷ ½ = 12, and every child finds that offensive.\n\nBut read the question properly: how many halves fit inside six? Twelve. Obviously twelve.\n\nDivision has always meant 'how many of these fit inside that'. Nothing changed when the divisor became a fraction — only the intuition did, because we spend six years dividing by numbers bigger than one.",
+  "reel_script": "HOOK (0-5s): 'Six divided by a half is twelve. Every child finds that offensive.'\nREFRAME (5-18s): 'Read it properly. How many halves fit inside six? Twelve. Obviously twelve.'\nPOINT (18-34s): 'Division has always meant how many of these fit inside that. Nothing changed when the divisor became a fraction.'\nWHY IT FEELS WRONG (34-48s): 'Only the intuition changed — because we spend six years dividing by numbers bigger than one.'\nCTA (48-54s): 'Try the question on them tonight.'"
+ },
+ {
+  "id": "N-P2-14",
+  "idea_group": "NEW-N-P2-14",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P2",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Study with the phone in another room. Not face-down. Another room.",
+  "body": "Face-down still costs you. Research on this is unusually consistent: the presence of a phone reduces available attention even when it's silent and untouched, because part of the mind is spent not-checking it.\n\nThat's not weakness, it's load. You can't will it away, you can only remove the source.\n\nAnother room. Ninety minutes. The difference is measurable in a fortnight.",
+  "reel_script": "HOOK (0-5s): 'Study with the phone in another room. Not face-down. Another room.'\nEVIDENCE (5-20s): 'The research here is unusually consistent — a phone reduces available attention even when it's silent and untouched.'\nWHY (20-34s): 'Because part of the mind is spent NOT checking it. That's not weakness. It's load.'\nCLOSE (34-48s): 'You can't will it away. You can only remove the source. Another room. Ninety minutes.'"
+ },
+ {
+  "id": "N-P4-01",
+  "idea_group": "NEW-N-P4-01",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P4",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "EXAM",
+  "hook": "Board exams are in ten weeks. Here's the only schedule that survives contact.",
+  "body": "Elaborate timetables fail in week one and the failure costs more than the plan was worth. This one is deliberately crude.",
+  "slides": [
+   "Ten weeks to boards.",
+   "Elaborate timetables fail in week one. This one is crude on purpose.",
+   "WEEKS 10-8 — Past papers, untimed, open book. Find the gaps. Don't panic about scores.",
+   "WEEKS 7-5 — Close the book. Same papers. Now the score means something.",
+   "WEEKS 4-2 — Full papers, full time, in one sitting. Stamina is a separate skill.",
+   "WEEK 1 — Error log only. No new content. No new papers.",
+   "THROUGHOUT — One subject per day. Not three. Switching costs more than it looks.",
+   "Sleep is not the thing you cut. It's the thing that makes the rest work.",
+   "Comment EXAM for the printable version."
+  ]
+ },
+ {
+  "id": "N-P4-02",
+  "idea_group": "NEW-N-P4-02",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P4",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "Your child's mock result is not a prediction. It's a measurement taken mid-treatment.",
+  "body": "Mocks happen with weeks of syllabus still unfinished and revision barely started. Reading them as a forecast of the final grade is like weighing someone halfway through a diet and declaring the outcome.\n\nWhat a mock is genuinely good for: showing which topics are unfinished, and how the pacing holds up under a real clock.\n\nUse it for that. Then put the number away.",
+  "reel_script": "HOOK (0-6s): 'A mock result is not a prediction. It's a measurement taken mid-treatment.'\nCONTEXT (6-20s): 'Mocks happen with syllabus unfinished and revision barely started.'\nANALOGY (20-32s): 'Reading it as a forecast is like weighing someone halfway through a diet and declaring the outcome.'\nUSE (32-46s): 'What it IS good for: which topics are unfinished, and whether pacing holds under a clock.'\nCLOSE (46-54s): 'Use it for that. Then put the number away.'"
+ },
+ {
+  "id": "N-P4-03",
+  "idea_group": "NEW-N-P4-03",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P4",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "keyword": "BOARDS",
+  "hook": "Choosing streams after Grade 10: the four questions that actually matter.",
+  "body": "This decision gets made on prestige and parental hope more often than on evidence. Four questions cut through most of it.",
+  "slides": [
+   "Choosing streams after Grade 10.",
+   "Usually decided on prestige. Here's what evidence would say.",
+   "1. WHICH SUBJECT DOES SHE READ ABOUT WITHOUT BEING ASKED? Not which she scores highest in.",
+   "2. WHICH DEGREES REQUIRE WHICH SUBJECTS? Look it up. Actually look it up, this month.",
+   "3. WHAT DOES SHE DO WHEN A PROBLEM GETS HARD? Persist, or switch? That predicts more than marks.",
+   "4. WHAT'S REVERSIBLE? Science to commerce is easy. The other direction rarely is.",
+   "The honest one nobody asks: whose ambition is this?",
+   "A stream chosen for someone else is abandoned in the second year."
+  ]
+ },
+ {
+  "id": "N-P4-04",
+  "idea_group": "NEW-N-P4-04",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P4",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "What examiners are told to do with an answer they can't read.",
+  "body": "Handwriting isn't marked. But an examiner marking 300 scripts cannot award a mark for a word they cannot decipher, and they will not spend ninety seconds deciphering it.",
+  "slides": [
+   "What examiners do with an answer they can't read.",
+   "Handwriting isn't marked. But this still costs.",
+   "An examiner marks ~300 scripts. Roughly 90 seconds each.",
+   "They cannot award a mark for a word they can't read.",
+   "And they will not spend the extra 60 seconds working it out.",
+   "THE FIX ISN'T NEATER WRITING. It's fewer, shorter sentences.",
+   "Number your points. Leave a line between them. Underline the key term.",
+   "A structured page is read faster and marked more generously.",
+   "This is worth more in December than another revision hour."
+  ]
+ },
+ {
+  "id": "N-P4-05",
+  "idea_group": "NEW-N-P4-05",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P4",
+  "subject": "Mathematics",
+  "formats": [
+   "reel"
+  ],
+  "hook": "The calculator paper and the non-calculator paper need different revision. Most students do one.",
+  "body": "The non-calculator paper tests arithmetic fluency, estimation and number sense. The calculator paper tests method selection, multi-step reasoning and knowing what to type.\n\nRevising 'maths' generally prepares you for neither specifically. Students who lose marks on paper 1 rarely lose them on paper 2 for the same reason.\n\nSort your lost marks by paper. The two lists look nothing alike.",
+  "reel_script": "HOOK (0-6s): 'The calculator paper and the non-calculator paper need different revision. Most students do one.'\nPAPER 1 (6-18s): 'Non-calculator tests arithmetic fluency, estimation, number sense.'\nPAPER 2 (18-30s): 'Calculator tests method selection, multi-step reasoning, knowing what to type.'\nPOINT (30-44s): 'Revising maths generally prepares you for neither. Students who lose marks on paper 1 rarely lose them on paper 2 for the same reason.'\nCTA (44-54s): 'Sort your lost marks by paper. The two lists look nothing alike.'"
+ },
+ {
+  "id": "N-P4-06",
+  "idea_group": "NEW-N-P4-06",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P4",
+  "subject": "English",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "The unseen text question, in the order an examiner wants it.",
+  "body": "Students panic at unseen passages because they treat them as a comprehension test. They're a technique test, and technique can be prepared even when the text can't.",
+  "slides": [
+   "The unseen text question.",
+   "You can't prepare the text. You can prepare the technique.",
+   "1. READ THE QUESTION FIRST. Then the passage. Never the other way round.",
+   "2. ANNOTATE FOR THE QUESTION ONLY. Ignore everything else, however interesting.",
+   "3. FIND THREE MOMENTS, spread across the passage. Beginning, middle, end.",
+   "4. FOR EACH: what the writer does, then WHY it works on a reader.",
+   "5. The 'why it works on a reader' is where almost all the marks live.",
+   "Most students describe the technique and stop. That's half a mark of a possible three.",
+   "Prepare the shape. The text takes care of itself."
+  ]
+ },
+ {
+  "id": "N-P4-07",
+  "idea_group": "NEW-N-P4-07",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P4",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "keyword": "IB",
+  "hook": "IB students: your Extended Essay deadline is closer than the calendar says.",
+  "body": "The formal deadline is not the real one. The real one is the last week your supervisor has time to read a full draft and give you something you can act on.\n\nThat's usually three to four weeks earlier, and it's the difference between a grade band.\n\nAsk your supervisor today: when do you need my complete draft to be able to comment properly? Then work back from that.",
+  "reel_script": "HOOK (0-6s): 'IB students — your Extended Essay deadline is closer than the calendar says.'\nPOINT (6-20s): 'The formal deadline isn't the real one. The real one is the last week your supervisor can read a FULL draft and give you something usable.'\nGAP (20-32s): 'That's usually three to four weeks earlier.'\nSTAKES (32-42s): 'And it's the difference between a grade band.'\nACTION (42-54s): 'Ask them today: when do you need my complete draft to comment properly? Work back from that.'\nCTA (54-58s): 'Comment IB for the guide.'"
+ },
+ {
+  "id": "N-P4-08",
+  "idea_group": "NEW-N-P4-08",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P4",
+  "subject": "Science",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "Six-mark questions have a shape. Learn the shape, not more content.",
+  "body": "Extended-response questions are marked on a band, not on a point count. Students who write more content and less structure score lower than students who do the reverse.",
+  "slides": [
+   "Six-mark questions have a shape.",
+   "They're banded, not point-counted. Structure beats volume.",
+   "OPEN with the direct answer. One sentence. No preamble.",
+   "THEN the mechanism — the because. This is the largest band.",
+   "THEN a specific example or piece of data.",
+   "THEN the limitation, or the other side, if the command word invites it.",
+   "CLOSE by answering the question again in different words.",
+   "Five short paragraphs beats one long one, every time.",
+   "Practise the shape on a topic you know. Then it's automatic on one you don't."
+  ]
+ },
+ {
+  "id": "N-P4-09",
+  "idea_group": "NEW-N-P4-09",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P4",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "hook": "January admissions: the three documents schools ask for that nobody prepares.",
+  "body": "Everyone prepares for the entrance test. Almost nobody prepares the rest, and the rest is where avoidable rejections happen.\n\nA current transfer certificate and report set, obtained before the December break, not during the January rush.\nA short parent statement — why this school, in your words, not a template.\nAnd the child's own two minutes, because most schools interview and most children have never been asked why they want to come.\n\nPrepare all three in November.",
+  "reel_script": "HOOK (0-6s): 'January admissions. Three things schools ask for that nobody prepares.'\nONE (6-18s): 'Current transfer certificate and reports. Get them BEFORE the December break, not in the January rush.'\nTWO (18-30s): 'A short parent statement. Why this school, in your words. Not a template.'\nTHREE (30-44s): 'The child's own two minutes. Most schools interview — and most children have never been asked why they want to come.'\nCLOSE (44-54s): 'Prepare all three in November. It's the cheapest advantage available.'"
+ },
+ {
+  "id": "N-P4-10",
+  "idea_group": "NEW-N-P4-10",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P4",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "Grade boundaries move every year. What that means for your child.",
+  "body": "Parents plan around a fixed number — 'she needs 75 for an A'. Boundaries are set after the papers are marked, against how the whole cohort performed.",
+  "slides": [
+   "Grade boundaries move every year.",
+   "Parents plan around a fixed number. Boundaries aren't fixed.",
+   "They're set AFTER marking, against how the whole cohort did.",
+   "A hard paper lowers the boundary. An easy one raises it.",
+   "WHICH MEANS: a mark isn't a grade. Your child is being measured against a year group.",
+   "So 'she needs 75' is not a real target. It's last year's number.",
+   "THE USEFUL TARGET: comfortably above the boundary, not on it.",
+   "And a three-year boundary range, not a single figure, is what you should be planning with.",
+   "Ask the school for the last three years. They have them."
+  ]
+ },
+ {
+  "id": "N-P3-01",
+  "idea_group": "NEW-N-P3-01",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P3",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "What eight weeks with a mentor looks like when it's working.",
+  "body": "Not marks. Marks are the last thing to move. These are the signals that arrive first, in the order they arrive.",
+  "slides": [
+   "Eight weeks in, when it's working.",
+   "Marks move last. These arrive first, in this order.",
+   "WEEK 2 — They stop saying 'I don't get any of it' and name a specific topic.",
+   "WEEK 3 — They attempt a question before asking for help.",
+   "WEEK 4 — They can say what they got wrong, not just that they got it wrong.",
+   "WEEK 6 — They correct themselves mid-answer. This one matters most.",
+   "WEEK 8 — A mark moves.",
+   "If you're at week six and none of these have happened, say so. Don't wait for week twelve.",
+   "This list is also how you judge any tutor, including us."
+  ]
+ },
+ {
+  "id": "N-P3-02",
+  "idea_group": "NEW-N-P3-02",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P3",
+  "subject": "Mathematics",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "Why we spend the first December session doing nothing but past papers.",
+  "body": "Not to test them. To watch them work under a clock, which is a different activity to teaching and reveals different things.",
+  "slides": [
+   "The first December session is a past paper. Nothing else.",
+   "Not to test them. To WATCH them under a clock.",
+   "WHAT WE'RE LOOKING FOR — not the score.",
+   "Where do they stall? Which question do they skip and never come back to?",
+   "Do they read the whole paper first, or start at Q1 and hope?",
+   "How long before they abandon a question? Usually far too soon.",
+   "Do they check anything at the end, or put the pen down?",
+   "Every one of those is fixable in a fortnight — and none of them are maths.",
+   "Together they're usually worth more marks than the content revision."
+  ]
+ },
+ {
+  "id": "N-P6-01",
+  "idea_group": "DECEMBER-BOARD-OFFER",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P6",
+  "subject": "General",
+  "formats": [
+   "reel"
+  ],
+  "keyword": "TRIAL",
+  "hook": "Starting in December is not too late. Starting in February is.",
+  "body": "Ten weeks before boards, there is still time to fix pacing, close two topics and rebuild the habit of finishing a paper. Those are the highest-yield things available and they're all still open.\n\nBy February the only honest offer anyone can make is damage limitation.\n\nOne free class this month tells you which of those is actually on the table for your child.",
+  "reel_script": "HOOK (0-6s): 'Starting in December isn't too late. Starting in February is.'\nDECEMBER (6-22s): 'Ten weeks out, you can still fix pacing, close two topics, and rebuild the habit of finishing a paper. Highest-yield things available.'\nFEBRUARY (22-34s): 'By February the only honest offer anyone can make is damage limitation.'\nCTA (34-48s): 'One free class this month tells you which of those is on the table. Link in bio.'"
+ },
+ {
+  "id": "N-P6-02",
+  "idea_group": "DECEMBER-BOARD-OFFER",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P6",
+  "subject": "General",
+  "formats": [
+   "carousel"
+  ],
+  "hook": "What we'd do with your child in the ten weeks before a board exam.",
+  "body": "Written out plainly so you can compare it with anyone else you're considering, including doing nothing.",
+  "slides": [
+   "Ten weeks before a board exam. What we'd actually do.",
+   "Written plainly, so you can compare it with anyone. Including doing nothing.",
+   "SESSION 1 — A full past paper. We watch. We don't teach.",
+   "SESSIONS 2-4 — The two topics costing the most marks. Only those two.",
+   "SESSIONS 5-8 — Timed sections. Pacing, not content.",
+   "SESSIONS 9-12 — Error log. Every mistake from the last eight weeks, re-attempted.",
+   "LAST 2 WEEKS — Nothing new. Consolidation and sleep.",
+   "WHAT WE WON'T DO: race through the whole syllabus again. There isn't time and it doesn't work.",
+   "Free trial class. Link in bio."
+  ]
+ },
+ {
+  "id": "N-P6-03",
+  "idea_group": "NEW-N-P6-03",
+  "source": "authored 2026-08 (Nov-Dec)",
+  "pillar": "P6",
+  "subject": "General",
+  "formats": [
+   "single"
+  ],
+  "hook": "We're not taking new board-exam students after 15 December. Here's why that's not a sales line.",
+  "body": "Under ten weeks, the honest arithmetic stops working. There isn't room to diagnose properly, close a real gap and then build exam stamina on top — and a programme that skips the first step is just expensive revision.\n\nWe'd rather say no in December than take the money in January and manage your expectations in March.\n\nIf boards are this year and you're considering it, this month is the decision, not next."
+ },
+ {
   "id": "P1-01",
   "pillar": "P1",
   "subject": "Mathematics",
@@ -1075,7 +2340,7 @@
   "hook": "The 11 times table trick nobody teaches, and it works up to 99.",
   "body": "Take any two-digit number. Split the digits. Add them. Put the sum in the middle.\n\n32 × 11 → 3_2, 3+2=5 → 352.\n45 × 11 → 4_5, 4+5=9 → 495.\n\nIf the middle sum crosses 9, carry it left. 87 × 11 → 8_7, 8+7=15 → carry the 1 → 957.\n\nTeach it once. Your child will show it to everyone for a week, and that is exactly how a child decides Maths is interesting.",
   "reel_script": "HOOK (0-3s): '32 times 11. Three seconds. Watch.'\nDEMO (3-15s): Write 3 _ 2. 'Split the digits. Add them. Three plus two is five. Put it in the middle. 352.'\nSECOND (15-24s): '45 times 11. Four, nine, five. 495.'\nEDGE CASE (24-38s): '87? 8 plus 7 is 15. Carry the one. 957.'\nCTA (38-44s): 'Show your kid tonight. They'll show everyone at school tomorrow.'",
-  "idea_group": "NEW-P2-01",
+  "idea_group": "MENTAL-MULTIPLICATION",
   "source": "authored 2026-08"
  },
  {
@@ -1300,7 +2565,7 @@
  },
  {
   "id": "P1-13",
-  "idea_group": "NEW-P1-13",
+  "idea_group": "LOST-MARK-BUCKETS",
   "source": "authored 2026-08",
   "pillar": "P1",
   "subject": "Science",
@@ -1621,7 +2886,7 @@
  },
  {
   "id": "P4-13",
-  "idea_group": "NEW-P4-13",
+  "idea_group": "LOST-MARK-BUCKETS",
   "source": "authored 2026-08",
   "pillar": "P4",
   "subject": "General",
