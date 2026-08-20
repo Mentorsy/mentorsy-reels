@@ -16,7 +16,7 @@ from slots import BY_ID, slots_for_weekday                    # noqa: E402
 
 
 def resolve_slot(now_ist: datetime) -> str | None:
-    """Map the current IST time to exactly one slot, within a 75-minute window.
+    """Map the current IST time to exactly one slot, within a 300-minute window.
 
     Cron drift on GitHub Actions is routine (runs can be 5-20 minutes late and
     occasionally skipped). A window absorbs that WITHOUT ever matching two
@@ -27,7 +27,7 @@ def resolve_slot(now_ist: datetime) -> str | None:
     for s in slots_for_weekday(now_ist.weekday()):
         h, m = (int(x) for x in s.hhmm_ist.split(":"))
         gap = mins - (h * 60 + m)
-        if 0 <= gap <= 75 and gap < best_gap:
+        if 0 <= gap <= 300 and gap < best_gap:
             best, best_gap = s.id, gap
     return best
 
