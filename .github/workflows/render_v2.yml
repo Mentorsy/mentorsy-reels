@@ -1,0 +1,79 @@
+name: Render v2 artwork
+
+# The engine decides what and when. This decides what it LOOKS like.
+#
+# Rendering happens on the runner and the output is committed, which is what
+# gives every asset a public raw.githubusercontent URL - Meta will only accept
+# media it can fetch itself.
+#
+# Run it after adding content to engine_v2/content/bank_*.json. It skips
+# anything already in the manifest, so re-running is cheap.
+
+on:
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Re-render everything, not just what's missing"
+        default: "false"
+      limit:
+        description: "Only render the first N pieces (blank = all)"
+        default: ""
+
+concurrency:
+  group: mentorsy-render-v2
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+
+      - name: Install ffmpeg and Pillow
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg fonts-dejavu
+          pip install -q pillow requests
+
+      - name: Render
+        run: |
+          ARGS=""
+          if [ "${{ github.event.inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
+          if [ -n "${{ github.event.inputs.limit }}" ]; then ARGS="$ARGS --limit ${{ github.event.inputs.limit }}"; fi
+          python3 engine_v2/tools/render_assets.py $ARGS
+
+      - name: Commit the artwork
+        run: |
+          git config user.name  "mentorsy-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add engine_v2/media engine_v2/content/media.json
+          if git diff --staged --quiet; then
+            echo "Nothing new to render."
+          else
+            git commit -m "render: v2 artwork [skip ci]"
+            for i in 1 2 3; do
+              git pull --rebase --autostash origin ${{ github.ref_name }} && \
+              git push origin HEAD:${{ github.ref_name }} && break
+              sleep $((i * 5))
+            done
+          fi
+
+      - name: Report coverage
+        run: |
+          python3 - <<'PY'
+          import json
+          bank = json.load(open("engine_v2/content/bank.json"))
+          media = json.load(open("engine_v2/content/media.json"))
+          missing = [p["id"] for p in bank if f"{p['id']}:{p['formats'][0]}" not in media]
+          print(f"::notice::artwork covers {len(media)}/{len(bank)} pieces")
+          if missing:
+              print(f"::warning::no artwork for {len(missing)}: {missing[:10]}")
+          PY
