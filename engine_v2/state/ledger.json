@@ -54,5 +54,48 @@
    "content_id": "D-R-02",
    "format": "reel"
   }
+ },
+ {
+  "slot_key": "2026-08-21#fri-am",
+  "posted_on": "2026-08-21",
+  "slot_id": "fri-am",
+  "format": "carousel",
+  "content_id": "N-P1-04",
+  "pillar": "P1",
+  "idea_group": "NEW-N-P1-04",
+  "subject": "Science",
+  "cta_strength": "mid",
+  "keyword": "EXAM",
+  "content_hash": "bae0631506c41e6b",
+  "hook_sig": "7eeb1d1e692c",
+  "tokens": [
+   "actually",
+   "card",
+   "code",
+   "comments",
+   "direct",
+   "each",
+   "four",
+   "know",
+   "means",
+   "once",
+   "one",
+   "pressure",
+   "report",
+   "sentences",
+   "shared",
+   "surprisingly",
+   "time",
+   "under",
+   "vocabulary",
+   "written"
+  ],
+  "caption": "Four sentences on a report card, and what each one actually means.\n\nReport comments are written under time pressure, in a shared vocabulary. Once you know the code they're surprisingly direct.\n\nType EXAM below — the 3-week board exam revision plan goes straight to your DMs.\n\nMentorsy — live 1:1 mentors for Grades 1–12.\n\n#Mentorsy #OnlineTutoring #BoardExams2027 #IBMYP #Biology #ScienceTutor #Physics #StudySmart #SchoolLife",
+  "runway_after": 67,
+  "publish_result": {
+   "published": "18131792266728860",
+   "content_id": "N-P1-04",
+   "format": "carousel"
+  }
  }
 ]
