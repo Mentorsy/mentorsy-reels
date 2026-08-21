@@ -97,5 +97,56 @@
    "content_id": "N-P1-04",
    "format": "carousel"
   }
+ },
+ {
+  "slot_key": "2026-08-21#fri-pm",
+  "posted_on": "2026-08-21",
+  "slot_id": "fri-pm",
+  "format": "reel",
+  "content_id": "L39R",
+  "pillar": "P4",
+  "idea_group": "LEG39",
+  "subject": "Public Speaking",
+  "cta_strength": "soft",
+  "keyword": null,
+  "content_hash": "932434a72f45bb71",
+  "hook_sig": "01f3dfef7cd8",
+  "tokens": [
+   "allowed",
+   "answer",
+   "anything",
+   "ask",
+   "build",
+   "can",
+   "cannot",
+   "checked",
+   "confidence",
+   "could",
+   "document",
+   "every",
+   "false",
+   "frequency",
+   "has",
+   "never",
+   "number",
+   "out",
+   "presents",
+   "problem",
+   "read",
+   "rubric",
+   "student",
+   "term",
+   "told",
+   "turn",
+   "twice",
+   "wrong"
+  ],
+  "caption": "'We build confidence' cannot be wrong. That is the problem.\n\nAn answer that could never turn out to be false has not told you anything. 'Every student presents twice a term' can be checked. So can a rubric you are allowed to read.\n\nAsk for the number, the frequency, or the document.\n\nSend this to a parent who needs it tonight.\n\nMentorsy — one child, one mentor, one plan.\n\n#Mentorsy #OnlineTutoring #IBMYP #BoardExams2027 #DebateSkills #PublicSpeaking #ConfidentKids #ParentsOfTeens #IndianParents",
+  "runway_after": 67,
+  "publish_result": {
+   "published": "17899112001578683",
+   "content_id": "L39R",
+   "format": "reel"
+  }
  }
 ]
