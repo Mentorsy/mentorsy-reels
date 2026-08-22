@@ -9,25 +9,62 @@ from __future__ import annotations
 import hashlib
 import os
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 
 GRAPH = "https://graph.facebook.com/v21.0"
 
 
+class GraphError(RuntimeError):
+    """Carries Meta's own explanation. A bare "HTTP Error 400" costs hours."""
+
+    def __init__(self, path: str, status: int, payload: dict, raw: str):
+        self.path, self.status, self.payload, self.raw = path, status, payload, raw
+        err = payload.get("error", {}) if isinstance(payload, dict) else {}
+        self.code = err.get("code")
+        self.subcode = err.get("error_subcode")
+        msg = err.get("message") or raw[:300]
+        super().__init__(
+            f"Graph {path} -> HTTP {status} "
+            f"(code={self.code}, subcode={self.subcode}): {msg}"
+        )
+
+    @property
+    def is_not_ready(self) -> bool:
+        """"Media ID is not available" -- the container is still assembling."""
+        return self.subcode in (2207027, 2207008) or "not available" in str(self).lower()
+
+
+def _read_error(path: str, e: urllib.error.HTTPError) -> GraphError:
+    import json as _json
+    raw = e.read().decode("utf-8", "replace")
+    try:
+        payload = _json.loads(raw)
+    except ValueError:
+        payload = {}
+    return GraphError(path, e.code, payload, raw)
+
+
 def _post(path: str, params: dict) -> dict:
     import json as _json
     data = urllib.parse.urlencode(params).encode()
     req = urllib.request.Request(f"{GRAPH}/{path}", data=data, method="POST")
-    with urllib.request.urlopen(req, timeout=60) as r:
-        return _json.loads(r.read())
+    try:
+        with urllib.request.urlopen(req, timeout=60) as r:
+            return _json.loads(r.read())
+    except urllib.error.HTTPError as e:
+        raise _read_error(path, e) from None
 
 
 def _get(path: str, params: dict) -> dict:
     import json as _json
     url = f"{GRAPH}/{path}?" + urllib.parse.urlencode(params)
-    with urllib.request.urlopen(url, timeout=60) as r:
-        return _json.loads(r.read())
+    try:
+        with urllib.request.urlopen(url, timeout=60) as r:
+            return _json.loads(r.read())
+    except urllib.error.HTTPError as e:
+        raise _read_error(path, e) from None
 
 
 def caption_fingerprint(caption: str) -> str:
@@ -95,11 +132,47 @@ def publish(entry: dict, media: dict, dry_run: bool = True) -> dict:
             _wait_ready(k, token, timeout_s=120)
         c = _post(f"{ig}/media", {"media_type": "CAROUSEL", "children": ",".join(kids),
                                   "caption": caption, "access_token": token})
+        # The parent container assembles too, and publishing it early is a 400
+        # ("Media ID is not available"). The reel path already waits; this one
+        # did not, which is why Saturday carousels failed and reels did not.
+        _wait_ready(c["id"], token, timeout_s=180)
         creation_id = c["id"]
     else:
         c = _post(f"{ig}/media", {"image_url": media["image_url"], "caption": caption,
                                   "access_token": token})
         creation_id = c["id"]
 
-    out = _post(f"{ig}/media_publish", {"creation_id": creation_id, "access_token": token})
-    return {"published": out.get("id"), "content_id": entry["content_id"], "format": fmt}
+    out = _publish_container(ig, token, creation_id, caption)
+    res = {"published": out.get("id"), "content_id": entry["content_id"], "format": fmt}
+    if out.get("recovered"):
+        # Went live but the response was lost. The ledger MUST still record it,
+        # or the 2-hour catch-up run would treat the slot as unfired.
+        res["recovered_from_error"] = True
+    return res
+
+
+def _publish_container(ig: str, token: str, creation_id: str, caption: str,
+                       attempts: int = 4) -> dict:
+    """Publish, retrying only while Meta says the container is not ready yet.
+
+    Every retry re-asks the feed first. A publish that actually succeeded but
+    failed on the way back must never be retried into a second post -- that is
+    the exact failure this whole engine exists to prevent.
+    """
+    last = None
+    for i in range(attempts):
+        try:
+            return _post(f"{ig}/media_publish",
+                         {"creation_id": creation_id, "access_token": token})
+        except GraphError as e:
+            last = e
+            if already_on_feed(ig, token, caption):
+                print(f"::warning::publish reported {e}, but the post IS on the "
+                      f"feed -- treating as published, not retrying")
+                return {"id": None, "recovered": True}
+            if not e.is_not_ready or i == attempts - 1:
+                raise
+            wait = 15 * (i + 1)
+            print(f"::warning::container not ready ({e}); retrying in {wait}s")
+            time.sleep(wait)
+    raise last
