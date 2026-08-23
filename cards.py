@@ -46,7 +46,16 @@ def statement(headline, sub=None, subject="Mentorsy", pillar="Confidence"):
         d.text((M, y), ln, font=fnt, fill=B.PAPER)
         y += lh
     if sub:
-        d.text((M, y + 40), sub, font=B.font(46, False, True), fill=B.MUTED)
+        # The sub is a sentence, not a label: it has to wrap and shrink inside
+        # what the headline left behind. Drawing it as one d.text() call ran it
+        # off the right edge and the canvas clipped it mid-word.
+        y += 40
+        box_h = max(70, (H - 170) - y)          # stop clear of the handle
+        sf, sl, slh = B.fit(d, sub, W - 2 * M, box_h, 46,
+                            serif=True, bold=False, min_size=28, leading=1.34)
+        for ln in sl:
+            d.text((M, y), ln, font=sf, fill=B.MUTED)
+            y += slh
     B.handle(d, True)
     return img
 
