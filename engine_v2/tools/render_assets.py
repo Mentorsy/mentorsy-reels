@@ -92,6 +92,29 @@ def _split_slide(text: str) -> dict:
     return {"heading": text, "body": ""}
 
 
+SUB_MAX = 230
+
+
+def _sub_text(body: str) -> str:
+    """The first paragraph of the body, cut on a sentence — never mid-word.
+
+    The old `[:160]` sliced a character count, so a long opening paragraph
+    lost its tail with no ellipsis and the card read as if it had failed.
+    """
+    para = (body or "").split("\n")[0].strip()
+    if len(para) <= SUB_MAX:
+        return para
+    kept = ""
+    for chunk in re.split(r"(?<=[.!?])\s+", para):
+        trial = f"{kept} {chunk}".strip()
+        if len(trial) > SUB_MAX:
+            break
+        kept = trial
+    if kept:
+        return kept
+    return para[:SUB_MAX].rsplit(" ", 1)[0].rstrip(" ,;—-") + "…"
+
+
 def spec_for(piece: dict, cta: str) -> dict:
     base = {
         "hook": piece["hook"],
@@ -110,7 +133,7 @@ def spec_for(piece: dict, cta: str) -> dict:
         base["kind"] = "list"
     else:
         base["kind"] = "statement"
-        base["sub"] = (piece.get("body") or "").split("\n")[0][:160]
+        base["sub"] = _sub_text(piece.get("body") or "")
     return base
 
 
