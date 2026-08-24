@@ -350,5 +350,44 @@
    "content_id": "D-R-20",
    "format": "reel"
   }
+ },
+ {
+  "slot_key": "2026-08-24#mon-pm",
+  "posted_on": "2026-08-24",
+  "slot_id": "mon-pm",
+  "format": "carousel",
+  "content_id": "P2-20",
+  "pillar": "P2",
+  "idea_group": "NEW-P2-20",
+  "subject": "Coding",
+  "cta_strength": "soft",
+  "keyword": "CODE",
+  "content_hash": "71f4486837648c06",
+  "hook_sig": "308617ac441d",
+  "tokens": [
+   "afternoon",
+   "can",
+   "changing",
+   "children",
+   "debug",
+   "debugging",
+   "harder",
+   "instead",
+   "method",
+   "mood",
+   "most",
+   "procedure",
+   "random",
+   "staring",
+   "taught",
+   "things"
+  ],
+  "caption": "Debugging, taught as a method instead of a mood.\n\nMost children debug by staring harder and changing things at random. It's a procedure, and it can be taught in an afternoon.\n\nScreenshot the last slide.\n\nMentorsy — CBSE, ICSE, IGCSE, IB and American curricula.\n\n#1on1Learning #OnlineTutoring #CBSE #IBMYP #Python #CodingForKids #Scratch #IndianParents #StudySmart",
+  "runway_after": 74,
+  "publish_result": {
+   "published": "18100885874352094",
+   "content_id": "P2-20",
+   "format": "carousel"
+  }
  }
 ]
