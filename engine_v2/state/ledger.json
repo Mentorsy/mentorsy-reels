@@ -444,5 +444,48 @@
    "content_id": "L37R",
    "format": "reel"
   }
+ },
+ {
+  "slot_key": "2026-08-26#wed-am",
+  "posted_on": "2026-08-26",
+  "slot_id": "wed-am",
+  "format": "carousel",
+  "content_id": "N-P4-03",
+  "pillar": "P4",
+  "idea_group": "NEW-N-P4-03",
+  "subject": "General",
+  "cta_strength": "soft",
+  "keyword": "BOARDS",
+  "content_hash": "181c80523bcde878",
+  "hook_sig": "05699635ecac",
+  "tokens": [
+   "actually",
+   "after",
+   "choosing",
+   "cut",
+   "decision",
+   "evidence",
+   "four",
+   "gets",
+   "grade",
+   "hope",
+   "made",
+   "matter",
+   "more",
+   "most",
+   "often",
+   "parental",
+   "prestige",
+   "questions",
+   "streams",
+   "through"
+  ],
+  "caption": "Choosing streams after Grade 10: the four questions that actually matter.\n\nThis decision gets made on prestige and parental hope more often than on evidence. Four questions cut through most of it.\n\nScreenshot the last slide.\n\nMentorsy — tutoring that matches your child's actual syllabus.\n\n#OnlineTutoring #1on1Learning #ICSE #IGCSE #HomeworkHelp #StudyTips #ParentingTips #ParentsOfTeens #SchoolLife",
+  "runway_after": 45,
+  "publish_result": {
+   "published": "18113012824786534",
+   "content_id": "N-P4-03",
+   "format": "carousel"
+  }
  }
 ]
