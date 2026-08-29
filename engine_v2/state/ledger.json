@@ -545,5 +545,50 @@
    "content_id": "N-P2-05",
    "format": "reel"
   }
+ },
+ {
+  "slot_key": "2026-08-29#sat-am",
+  "posted_on": "2026-08-29",
+  "slot_id": "sat-am",
+  "format": "carousel",
+  "content_id": "D-C-04",
+  "pillar": "P3",
+  "idea_group": "NEW-D-C-04",
+  "subject": "English",
+  "cta_strength": "mid",
+  "keyword": "EXAM",
+  "content_hash": "276de98200b90390",
+  "hook_sig": "37072a513edb",
+  "tokens": [
+   "accurately",
+   "actual",
+   "almost",
+   "anyone",
+   "can",
+   "child",
+   "explicitly",
+   "game",
+   "goal",
+   "longer",
+   "mark",
+   "needs",
+   "nobody",
+   "own",
+   "room",
+   "student",
+   "teach",
+   "teaches",
+   "tutoring",
+   "who",
+   "whole",
+   "work"
+  ],
+  "caption": "How we teach a child to mark their own work, and why it's the whole game.\n\nA student who can mark accurately no longer needs anyone in the room. That's the actual goal of tutoring, and almost nobody teaches it explicitly.\n\nComment EXAM and I'll send you the 3-week board exam revision plan.\n\nMentorsy — tutoring that matches your child's actual syllabus.\n\n#1on1Learning #Mentorsy #BoardExams2027 #IBMYP #Grammar #EnglishTutor #ReadingSkills #ParentsOfTeens #SchoolLife",
+  "runway_after": 66,
+  "publish_result": {
+   "published": "18111108131467693",
+   "content_id": "D-C-04",
+   "format": "carousel"
+  }
  }
 ]
