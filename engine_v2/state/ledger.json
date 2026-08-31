@@ -721,5 +721,42 @@
    "content_id": "N-P2-08",
    "format": "reel"
   }
+ },
+ {
+  "slot_key": "2026-08-31#mon-pm",
+  "posted_on": "2026-08-31",
+  "slot_id": "mon-pm",
+  "format": "carousel",
+  "content_id": "P6-08",
+  "pillar": "P6",
+  "idea_group": "WHEN-NOT-TO-BOOK",
+  "subject": "General",
+  "cta_strength": "hard",
+  "keyword": null,
+  "content_hash": "aed6dd281b60cd97",
+  "hook_sig": "29d9bf7e5b49",
+  "tokens": [
+   "answer",
+   "away",
+   "don",
+   "every",
+   "finding",
+   "genuinely",
+   "month",
+   "one",
+   "out",
+   "trial",
+   "turn",
+   "waste",
+   "work",
+   "wrong"
+  ],
+  "caption": "When one-to-one is genuinely the wrong answer.\n\nWe turn away work every month. Here is when, so you don't waste a trial finding out.\n\nBook the free trial — link in bio. We'll send a plan the same day.\n\nMentorsy — CBSE, ICSE, IGCSE, IB and American curricula.\n\n#OnlineTutoring #1on1Learning #IBMYP #IBDP #HomeworkHelp #ParentingTips #StudyTips #IndianParents #StudySmart",
+  "runway_after": 60,
+  "publish_result": {
+   "published": "18116414569942682",
+   "content_id": "P6-08",
+   "format": "carousel"
+  }
  }
 ]
