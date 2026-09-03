@@ -956,5 +956,56 @@
    "content_id": "D-R-03",
    "format": "reel"
   }
+ },
+ {
+  "slot_key": "2026-09-03#thu-pm",
+  "posted_on": "2026-09-03",
+  "slot_id": "thu-pm",
+  "format": "reel",
+  "content_id": "L41R",
+  "pillar": "P3",
+  "idea_group": "LEG41",
+  "subject": "Public Speaking",
+  "cta_strength": "mid",
+  "keyword": "SPEAK",
+  "content_hash": "cd888876392978ec",
+  "hook_sig": "07c32a866d7c",
+  "tokens": [
+   "calm",
+   "children",
+   "contact",
+   "eye",
+   "face",
+   "faces",
+   "finish",
+   "four",
+   "instruction",
+   "land",
+   "look",
+   "make",
+   "method",
+   "more",
+   "move",
+   "nervous",
+   "nobody",
+   "one",
+   "paces",
+   "reads",
+   "room",
+   "rotation",
+   "sentence",
+   "started",
+   "sweep",
+   "talk",
+   "three",
+   "without"
+  ],
+  "caption": "'Make eye contact' is not an instruction.\n\nWithout a method children sweep the room, land on nobody and look more nervous than when they started.\n\nOne face, one sentence. Finish the sentence, then move. Three or four faces in rotation. It paces the talk and it reads as calm.\n\nSPEAK in the comments gets you the at-home public speaking drill sheet. No email needed.\n\nMentorsy — tutoring that matches your child's actual syllabus.\n\n#1on1Learning #OnlineTutoring #IBDP #IGCSE #PublicSpeaking #DebateSkills #ConfidentKids #ParentsOfTeens #SchoolLife",
+  "runway_after": 39,
+  "publish_result": {
+   "published": "18407153074087280",
+   "content_id": "L41R",
+   "format": "reel"
+  }
  }
 ]
