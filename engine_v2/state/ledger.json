@@ -1007,5 +1007,48 @@
    "content_id": "L41R",
    "format": "reel"
   }
+ },
+ {
+  "slot_key": "2026-09-04#fri-am",
+  "posted_on": "2026-09-04",
+  "slot_id": "fri-am",
+  "format": "carousel",
+  "content_id": "P1-08",
+  "pillar": "P1",
+  "idea_group": "NEW-P1-08",
+  "subject": "General",
+  "cta_strength": "mid",
+  "keyword": "EXAM",
+  "content_hash": "21e1ae6acb467e4c",
+  "hook_sig": "5681e4746f3d",
+  "tokens": [
+   "about",
+   "act",
+   "actually",
+   "almost",
+   "can",
+   "cannot",
+   "card",
+   "causes",
+   "contains",
+   "information",
+   "only",
+   "outcomes",
+   "parent",
+   "report",
+   "seven",
+   "summary",
+   "tell",
+   "thing",
+   "things",
+   "which"
+  ],
+  "caption": "Seven things a report card cannot tell you.\n\nA report card is a summary of outcomes. It contains almost no information about causes — which is the only thing a parent can actually act on.\n\nType EXAM below — the 3-week board exam revision plan goes straight to your DMs.\n\nMentorsy — CBSE, ICSE, IGCSE, IB and American curricula.\n\n#1on1Learning #Mentorsy #IGCSE #IBDP #HomeworkHelp #ParentingTips #StudyTips #StudySmart #SchoolLife",
+  "runway_after": 49,
+  "publish_result": {
+   "published": "18129865093675581",
+   "content_id": "P1-08",
+   "format": "carousel"
+  }
  }
 ]
