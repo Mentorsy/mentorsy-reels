@@ -1106,5 +1106,45 @@
    "content_id": "D-R-05",
    "format": "reel"
   }
+ },
+ {
+  "slot_key": "2026-09-05#sat-am",
+  "posted_on": "2026-09-05",
+  "slot_id": "sat-am",
+  "format": "carousel",
+  "content_id": "N-P4-06",
+  "pillar": "P4",
+  "idea_group": "NEW-N-P4-06",
+  "subject": "English",
+  "cta_strength": "soft",
+  "keyword": null,
+  "content_hash": "ab32cdfa79a90671",
+  "hook_sig": "3a238d8248d9",
+  "tokens": [
+   "because",
+   "can",
+   "comprehension",
+   "even",
+   "examiner",
+   "order",
+   "panic",
+   "passages",
+   "prepared",
+   "question",
+   "students",
+   "technique",
+   "test",
+   "text",
+   "treat",
+   "unseen",
+   "wants"
+  ],
+  "caption": "The unseen text question, in the order an examiner wants it.\n\nStudents panic at unseen passages because they treat them as a comprehension test. They're a technique test, and technique can be prepared even when the text can't.\n\nBookmark it — you'll want it in December.\n\nMentorsy — one child, one mentor, one plan.\n\n#OnlineTutoring #1on1Learning #IBDP #IGCSE #ReadingSkills #Grammar #EnglishTutor #IndianParents #ParentsOfTeens",
+  "runway_after": 51,
+  "publish_result": {
+   "published": "17985236628112092",
+   "content_id": "N-P4-06",
+   "format": "carousel"
+  }
  }
 ]
