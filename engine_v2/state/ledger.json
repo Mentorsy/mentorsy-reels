@@ -1215,5 +1215,53 @@
    "content_id": "P1-07",
    "format": "single"
   }
+ },
+ {
+  "slot_key": "2026-09-07#mon-am",
+  "posted_on": "2026-09-07",
+  "slot_id": "mon-am",
+  "format": "reel",
+  "content_id": "L30R",
+  "pillar": "P3",
+  "idea_group": "LEG30",
+  "subject": "Mathematics",
+  "cta_strength": "mid",
+  "keyword": "MATHS",
+  "content_hash": "de0605db3e24f39c",
+  "hook_sig": "281e4a651f61",
+  "tokens": [
+   "already",
+   "answer",
+   "being",
+   "book",
+   "can",
+   "close",
+   "examples",
+   "filed",
+   "gets",
+   "nothing",
+   "page",
+   "part",
+   "question",
+   "reading",
+   "retrieved",
+   "revision",
+   "same",
+   "seen",
+   "start",
+   "sticks",
+   "stuck",
+   "teaches",
+   "under",
+   "which",
+   "worked"
+  ],
+  "caption": "Reading worked examples is not revision.\n\nThe answer is already on the page, so nothing is retrieved and nothing sticks. It gets filed under 'seen', which is not the same as 'can do'.\n\nClose the book. Start the question. Being stuck is the part that teaches.\n\nType MATHS below — the Grade 9 Maths gap checklist goes straight to your DMs.\n\nMentorsy — live 1:1 mentors for Grades 1–12.\n\n#Mentorsy #OnlineTutoring #ICSE #IBDP #MathsTutor #Algebra #Geometry #SchoolLife #ParentsOfTeens",
+  "runway_after": 60,
+  "publish_result": {
+   "published": "18065579021775364",
+   "content_id": "L30R",
+   "format": "reel"
+  }
  }
 ]
