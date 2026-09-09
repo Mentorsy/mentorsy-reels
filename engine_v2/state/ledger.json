@@ -1334,5 +1334,46 @@
    "content_id": "D-R-23",
    "format": "reel"
   }
+ },
+ {
+  "slot_key": "2026-09-09#wed-am",
+  "posted_on": "2026-09-09",
+  "slot_id": "wed-am",
+  "format": "carousel",
+  "content_id": "P5-08",
+  "pillar": "P5",
+  "idea_group": "NEW-P5-08",
+  "subject": "General",
+  "cta_strength": "mid",
+  "keyword": "EXAM",
+  "content_hash": "6755d0c37157f96d",
+  "hook_sig": "030c20e1f78b",
+  "tokens": [
+   "anyone",
+   "attention",
+   "child",
+   "gap",
+   "isn",
+   "knowledge",
+   "marks",
+   "match",
+   "mentor",
+   "mismatch",
+   "one",
+   "pace",
+   "paying",
+   "shows",
+   "temperament",
+   "usually",
+   "week",
+   "wrong"
+  ],
+  "caption": "How we match a mentor to a child, and why it isn't by marks.\n\nThe wrong match is not usually a knowledge gap. It's a pace and temperament mismatch, and it shows up in week one if anyone is paying attention.\n\nWant the 3-week board exam revision plan? Comment EXAM and it's yours.\n\nMentorsy — live 1:1 mentors for Grades 1–12.\n\n#OnlineTutoring #1on1Learning #IGCSE #ICSE #ParentingTips #HomeworkHelp #StudyTips #StudySmart #SchoolLife",
+  "runway_after": 47,
+  "publish_result": {
+   "published": "17922197529204623",
+   "content_id": "P5-08",
+   "format": "carousel"
+  }
  }
 ]
