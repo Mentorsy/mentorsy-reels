@@ -1499,5 +1499,45 @@
    "content_id": "N-P4-07",
    "format": "reel"
   }
+ },
+ {
+  "slot_key": "2026-09-11#fri-am",
+  "posted_on": "2026-09-11",
+  "slot_id": "fri-am",
+  "format": "carousel",
+  "content_id": "N-P2-04",
+  "pillar": "P2",
+  "idea_group": "NEW-N-P2-04",
+  "subject": "Mathematics",
+  "cta_strength": "soft",
+  "keyword": "EXAM",
+  "content_hash": "127b2b65f01d751b",
+  "hook_sig": "196462d80a33",
+  "tokens": [
+   "about",
+   "all",
+   "already",
+   "away",
+   "donating",
+   "earned",
+   "every",
+   "knowing",
+   "marks",
+   "maths",
+   "more",
+   "none",
+   "paper",
+   "six",
+   "stop",
+   "students",
+   "throw"
+  ],
+  "caption": "Six marks students throw away in every maths paper, and how to stop.\n\nNone of these are about knowing more maths. All of them are about not donating marks you've already earned.\n\nSave this for exam week.\n\nMentorsy — one child, one mentor, one plan.\n\n#1on1Learning #Mentorsy #IBDP #IBMYP #Algebra #Geometry #MathHelp #ParentsOfTeens #IndianParents",
+  "runway_after": 44,
+  "publish_result": {
+   "published": "17932024527147135",
+   "content_id": "N-P2-04",
+   "format": "carousel"
+  }
  }
 ]
