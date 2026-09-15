@@ -1730,5 +1730,50 @@
    "content_id": "N-P2-12",
    "format": "single"
   }
+ },
+ {
+  "slot_key": "2026-09-15#tue-pm",
+  "posted_on": "2026-09-15",
+  "slot_id": "tue-pm",
+  "format": "reel",
+  "content_id": "L33R",
+  "pillar": "P4",
+  "idea_group": "LEG33",
+  "subject": "Coding",
+  "cta_strength": "soft",
+  "keyword": null,
+  "content_hash": "5cdb58438c381067",
+  "hook_sig": "34393f43b8dc",
+  "tokens": [
+   "argument",
+   "can",
+   "cannot",
+   "child",
+   "could",
+   "defend",
+   "document",
+   "draft",
+   "essay",
+   "finished",
+   "hold",
+   "home",
+   "laptop",
+   "question",
+   "shut",
+   "still",
+   "tool",
+   "train",
+   "trainable",
+   "used",
+   "useful",
+   "whether"
+  ],
+  "caption": "AI can draft the essay. It cannot defend it.\n\nThe useful question at home is not whether a tool was used. It is whether your child could still hold the argument with the laptop shut.\n\nThat is trainable. A finished document does not train it.\n\nSend this to a parent who needs it tonight.\n\nMentorsy — live 1:1 mentors for Grades 1–12.\n\n#1on1Learning #Mentorsy #IBDP #ICSE #Scratch #CodingForKids #Python #SchoolLife #ParentsOfTeens",
+  "runway_after": 44,
+  "publish_result": {
+   "published": "17988077892063009",
+   "content_id": "L33R",
+   "format": "reel"
+  }
  }
 ]
