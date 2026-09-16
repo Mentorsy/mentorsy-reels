@@ -1775,5 +1775,53 @@
    "content_id": "L33R",
    "format": "reel"
   }
+ },
+ {
+  "slot_key": "2026-09-16#wed-pm",
+  "posted_on": "2026-09-16",
+  "slot_id": "wed-pm",
+  "format": "reel",
+  "content_id": "L14R",
+  "pillar": "P1",
+  "idea_group": "LEG14",
+  "subject": "Mathematics",
+  "cta_strength": "mid",
+  "keyword": "MATHS",
+  "content_hash": "2ca9b8c51840208a",
+  "hook_sig": "139cd68be097",
+  "tokens": [
+   "back",
+   "because",
+   "child",
+   "confidence",
+   "count",
+   "expensive",
+   "find",
+   "first",
+   "gap",
+   "gets",
+   "hard",
+   "hours",
+   "just",
+   "kind",
+   "months",
+   "most",
+   "movement",
+   "nothing",
+   "pays",
+   "revision",
+   "still",
+   "three",
+   "topic",
+   "working",
+   "wrong"
+  ],
+  "caption": "Three months of revision. No movement.\n\nThree months of revision, no movement.\n\nWorking hard on the wrong topic is still working hard. It is just the most expensive kind, because the child pays in confidence and gets nothing back.\n\nFind the gap first. Then the hours count.\n\nType MATHS below — the Grade 9 Maths gap checklist goes straight to your DMs.\n\nMentorsy — tutoring that matches your child's actual syllabus.\n\n#1on1Learning #Mentorsy #CBSE #IBMYP #Geometry #MathsTutor #Algebra #IndianParents #ParentsOfTeens",
+  "runway_after": 64,
+  "publish_result": {
+   "published": "18123555686483825",
+   "content_id": "L14R",
+   "format": "reel"
+  }
  }
 ]
