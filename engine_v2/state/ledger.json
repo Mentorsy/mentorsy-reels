@@ -1948,5 +1948,47 @@
    "content_id": "N-P2-14",
    "format": "reel"
   }
+ },
+ {
+  "slot_key": "2026-09-19#sat-am",
+  "posted_on": "2026-09-19",
+  "slot_id": "sat-am",
+  "format": "carousel",
+  "content_id": "P5-06",
+  "pillar": "P5",
+  "idea_group": "HOW-WE-VET",
+  "subject": "General",
+  "cta_strength": "mid",
+  "keyword": "BOARDS",
+  "content_hash": "07a25fbcd1a05f96",
+  "hook_sig": "b14a436f7c54",
+  "tokens": [
+   "ask",
+   "child",
+   "decide",
+   "entry",
+   "five",
+   "has",
+   "interview",
+   "just",
+   "knowledge",
+   "mentor",
+   "near",
+   "nothing",
+   "questions",
+   "someone",
+   "subject",
+   "talks",
+   "teaches",
+   "ticket",
+   "whether"
+  ],
+  "caption": "What we ask a mentor in the interview that has nothing to do with the subject.\n\nSubject knowledge is the entry ticket. These five questions decide whether someone teaches your child or just talks near them.\n\nWant the CBSE vs ICSE vs IGCSE one-pager? Comment BOARDS and it's yours.\n\nMentorsy — tutoring that matches your child's actual syllabus.\n\n#1on1Learning #OnlineTutoring #CBSE #ICSE #StudyTips #ParentingTips #HomeworkHelp #ParentsOfTeens #StudySmart",
+  "runway_after": 59,
+  "publish_result": {
+   "published": "18111950513111084",
+   "content_id": "P5-06",
+   "format": "carousel"
+  }
  }
 ]
