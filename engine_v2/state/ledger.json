@@ -2054,5 +2054,54 @@
    "content_id": "P3-04",
    "format": "single"
   }
+ },
+ {
+  "slot_key": "2026-09-22#tue-pm",
+  "posted_on": "2026-09-22",
+  "slot_id": "tue-pm",
+  "format": "reel",
+  "content_id": "L09R",
+  "pillar": "P1",
+  "idea_group": "LEG09",
+  "subject": "Coding",
+  "cta_strength": "mid",
+  "keyword": "CODE",
+  "content_hash": "6028f054291a2b4f",
+  "hook_sig": "606330b9b854",
+  "tokens": [
+   "around",
+   "bad",
+   "being",
+   "child",
+   "day",
+   "developer",
+   "early",
+   "every",
+   "getting",
+   "interruption",
+   "loud",
+   "means",
+   "most",
+   "out",
+   "professional",
+   "quits",
+   "say",
+   "something",
+   "spends",
+   "stuck",
+   "subject",
+   "thinks",
+   "three",
+   "week",
+   "who",
+   "working"
+  ],
+  "caption": "Getting stuck is the subject.\n\nGetting stuck is the subject, not an interruption to it.\n\nEvery professional developer spends most of the day with something not working. A child who thinks being stuck means being bad at it quits around week three.\n\nSay it out loud early.\n\nWant the parent's primer on coding? Comment CODE and it's yours.\n\nMentorsy — CBSE, ICSE, IGCSE, IB and American curricula.\n\n#OnlineTutoring #1on1Learning #BoardExams2027 #IBDP #Python #Scratch #CodingForKids #IndianParents #SchoolLife",
+  "runway_after": 80,
+  "publish_result": {
+   "published": "18092932124149770",
+   "content_id": "L09R",
+   "format": "reel"
+  }
  }
 ]
