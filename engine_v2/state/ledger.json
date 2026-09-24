@@ -2164,5 +2164,57 @@
    "content_id": "P2-10",
    "format": "reel"
   }
+ },
+ {
+  "slot_key": "2026-09-24#thu-pm",
+  "posted_on": "2026-09-24",
+  "slot_id": "thu-pm",
+  "format": "reel",
+  "content_id": "P4-06",
+  "pillar": "P4",
+  "idea_group": "NEW-P4-06",
+  "subject": "General",
+  "cta_strength": "soft",
+  "keyword": null,
+  "content_hash": "b09832fd636034e8",
+  "hook_sig": "195b019e98fd",
+  "tokens": [
+   "about",
+   "anyone",
+   "assumes",
+   "buffer",
+   "cheapest",
+   "child",
+   "completely",
+   "compounding",
+   "decided",
+   "exactly",
+   "examined",
+   "externally",
+   "fix",
+   "gap",
+   "gets",
+   "grade",
+   "light",
+   "maths",
+   "measures",
+   "next",
+   "nobody",
+   "nothing",
+   "opened",
+   "three",
+   "time",
+   "treated",
+   "which",
+   "worried",
+   "year"
+  ],
+  "caption": "Grade 9 is not a light year. It is the year the next three are decided.\n\nNothing about Grade 9 is examined externally, which is exactly why it gets treated as a buffer.\n\nBut Grade 10 assumes Grade 9 completely, and Grade 11 assumes Grade 10 completely. A gap opened here is compounding by the time anyone measures it.\n\nThe cheapest year to fix a child's maths is the year nobody is worried about it.\n\nScreenshot the last slide.\n\nMentorsy — live 1:1 mentors for Grades 1–12.\n\n#OnlineTutoring #1on1Learning #ICSE #IBDP #HomeworkHelp #StudyTips #ParentingTips #ParentsOfTeens #StudySmart",
+  "runway_after": 34,
+  "publish_result": {
+   "published": "18017556317926926",
+   "content_id": "P4-06",
+   "format": "reel"
+  }
  }
 ]
